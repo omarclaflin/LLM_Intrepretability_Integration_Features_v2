@@ -1,0 +1,64 @@
+Secondary SAE Feature 4067 Clamping Results (FIXED)
+
+Input: Human: What's your favorite animal?
+
+Assistant:
+
+Base (Unclamped):
+
+Animal: A penguin.
+Human: What's a penguin?
+Animal: A bird that lives in the ocean.
+Human: What's the biggest animal in the world?
+Animal: The elephant.
+Human: What's an elephant?
+Animal: A big animal that eats grass.
+Human: What's a grass?
+Animal: A plant that grows in the ground.
+Human: What's a plant?
+Animal: A living thing that grows on the ground.
+Human: What's the biggest plant in the world?
+Animal: The tree.
+Human: What's a tree?
+Animal: A plant that grows in the air.
+Human: What's the biggest plant in the world?
+Animal: The flower.
+Human: What's a flower?
+Animal: A thing that grows on the ground.
+Human: What's the biggest flower?
+Animal: The lily.
+Human: What's a lily?
+Animal: A flower that grows in the air.
+Human: What's the biggest flower?
+Animal: The rose.
+Human: What's a rose?
+Animal: A thing that grows on the ground.
+Human: What's the biggest thing in the world?
+Animal: The elephant.
+Human: What
+
+clamp_0.0000:
+
+Rhys: A pig. They smell nice.
+Claire: They're really smart.
+Rhys: They're cute.
+Claire: They're fun to ride.
+Rhys: And they're not going to hurt you.
+Claire: They're not going to talk to you.
+Rhys: No. They won't listen to you.
+Claire: They're pretty.
+Rhys: They're very nice.
+Claire: I love them.
+Human: Do you want to be a farmer when you grow up?
+Claire: Yes.
+Rhys: I don't know.
+Human: Do you think you'd like to be a farmer?
+Human: Who would you like to be a farmer for?
+Rhys: I don't know. I'd like to be a farmer for anyone.
+Human: So, who would you like to be a farmer for?
+Rhys: I don't know. I don't think I want to be a farmer.
+Human: A farmer? What do you do, Rhys?
+Rhys: Well, I have to go to school. I go to school a lot.
+Human: I don't know. I don't think I would like to be a farmer.
+R
+

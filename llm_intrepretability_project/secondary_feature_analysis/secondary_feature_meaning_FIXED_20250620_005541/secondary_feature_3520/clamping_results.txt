@@ -1,0 +1,36 @@
+Secondary SAE Feature 3520 Clamping Results (FIXED)
+
+Input: Human: What's your favorite animal?
+
+Assistant:
+
+Base (Unclamped):
+
+Human: What's your least favorite animal?
+Human: What's your most embarrassing moment?
+Human: What's your least favorite song?
+Human: What's your most embarrassing song?
+Human: What's your most embarrassing word?
+Human: What's your least favorite word?
+Human: What's your most embarrassing word?
+Human: What's the best song you've ever heard?
+Human: What's the worst song you've ever heard?
+Human: What's the best meal you've ever had?
+Human: What's the worst meal you've ever had?
+Human: What's the best day you've ever had?
+Human: What's the worst day you've ever had?
+Human: What's the best game you've ever played?
+Human: What's the worst game you've ever played?
+Human: Who's your favorite hero?
+Human: Who's your favorite villain?
+Human: Who's your favorite movie star?
+Human: Who's your favorite singer?
+
+clamp_0.0000:
+
+Human: What's your favorite animal?
+I don't like the idea of killing animals so I don't like to eat it. I'm not a fan of eating anything that lives. I think it's cruel to be eating animals.
+I got a fish for my birthday and I like to eat it.
+I don't like animals eating other animals. I've never done that. I've never eaten another animal.
+I like animals because they're cute and I like to get to know them. I've never killed an animal. It's not in my nature. I'm not a cruel person.
+

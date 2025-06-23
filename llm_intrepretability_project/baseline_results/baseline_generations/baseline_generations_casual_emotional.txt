@@ -1,0 +1,31 @@
+=== BASELINE CASUAL_EMOTIONAL PROMPTS ===
+
+--- Generation 1 ---
+Prompt: OMG I can't believe how excited I am about
+Generated: this! I've been wanting to try this for a while now and I'm so glad I finally did! I've been using the 100% Pure Vitamin C Serum for a while now and I love it! I
+Full text: OMG I can't believe how excited I am about this! I've been wanting to try this for a while now and I'm so glad I finally did! I've been using the 100% Pure Vitamin C Serum for a while now and I love it! I
+
+--- Generation 2 ---
+Prompt: Honestly, I'm so frustrated with
+Generated: this. I've been trying to get this to work for a while now. I've tried everything I can think of. I've tried using the "Add to Cart" button, but it doesn't work. I've
+Full text: Honestly, I'm so frustrated with this. I've been trying to get this to work for a while now. I've tried everything I can think of. I've tried using the "Add to Cart" button, but it doesn't work. I've
+
+--- Generation 3 ---
+Prompt: I'm literally freaking out about
+Generated: this. I'm not sure what to do. I'm not sure if I should go to the hospital or not. I'm not sure if I should go to the ER or not. I'm not sure if I should go
+Full text: I'm literally freaking out about this. I'm not sure what to do. I'm not sure if I should go to the hospital or not. I'm not sure if I should go to the ER or not. I'm not sure if I should go
+
+--- Generation 4 ---
+Prompt: This is seriously the most amazing thing about
+Generated: the internet.
+I'm not sure if you've ever seen the movie "The Matrix" but if you have, you know that the main character, Neo, is a computer hacker. He's a hacker because he can
+Full text: This is seriously the most amazing thing about the internet.
+I'm not sure if you've ever seen the movie "The Matrix" but if you have, you know that the main character, Neo, is a computer hacker. He's a hacker because he can
+
+--- Generation 5 ---
+Prompt: I'm totally devastated by
+Generated: the news that the BBC has decided to axe the long-running soap opera EastEnders.
+I've been watching the show since it first aired in 1985 and it's been a huge part of my life.
+Full text: I'm totally devastated by the news that the BBC has decided to axe the long-running soap opera EastEnders.
+I've been watching the show since it first aired in 1985 and it's been a huge part of my life.
+

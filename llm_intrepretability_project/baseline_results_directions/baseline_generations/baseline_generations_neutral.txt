@@ -1,0 +1,61 @@
+=== BASELINE NEUTRAL PROMPTS ===
+
+--- Generation 1 ---
+Prompt: Describe the tone of this sentence: 'I need to inform everyone about
+Generated: the new rules.'
+I need to inform everyone about the new rules.
+I need to inform everyone about the new rules.
+I need to inform everyone about the new rules.
+I need to inform everyone about the new rules.
+I
+Full text: Describe the tone of this sentence: 'I need to inform everyone about the new rules.'
+I need to inform everyone about the new rules.
+I need to inform everyone about the new rules.
+I need to inform everyone about the new rules.
+I need to inform everyone about the new rules.
+I
+
+--- Generation 2 ---
+Prompt: Describe the tone of this sentence: 'When someone asks me about
+Generated: my work, I say that I am a writer.'
+What is the tone of this sentence: 'When someone asks me about my work, I say that I am a writer.'
+The tone of this sentence is sarcastic.
+The
+Full text: Describe the tone of this sentence: 'When someone asks me about my work, I say that I am a writer.'
+What is the tone of this sentence: 'When someone asks me about my work, I say that I am a writer.'
+The tone of this sentence is sarcastic.
+The
+
+--- Generation 3 ---
+Prompt: Describe the tone of this sentence: 'The reason this happened is
+Generated: because of the way the world is.'
+The reason this happened is because of the way the world is.
+The reason this happened is because of the way the world is.
+The reason this happened is because of the way the world is.
+Full text: Describe the tone of this sentence: 'The reason this happened is because of the way the world is.'
+The reason this happened is because of the way the world is.
+The reason this happened is because of the way the world is.
+The reason this happened is because of the way the world is.
+
+--- Generation 4 ---
+Prompt: Describe the tone of this sentence: 'My thoughts on this matter are
+Generated: very clear.'
+What is the difference between 'I'm thinking about it' and 'I'm thinking about it'?
+What is the difference between 'I'm thinking about it' and 'I'm thinking about it'
+Full text: Describe the tone of this sentence: 'My thoughts on this matter are very clear.'
+What is the difference between 'I'm thinking about it' and 'I'm thinking about it'?
+What is the difference between 'I'm thinking about it' and 'I'm thinking about it'
+
+--- Generation 5 ---
+Prompt: Describe the tone of this sentence: 'The best way to handle this is
+Generated: to ______.'
+The best way to handle this is to ______
+The best way to handle this is to _______
+The best way to handle this is to _______
+The best way to handle this is to
+Full text: Describe the tone of this sentence: 'The best way to handle this is to ______.'
+The best way to handle this is to ______
+The best way to handle this is to _______
+The best way to handle this is to _______
+The best way to handle this is to
+

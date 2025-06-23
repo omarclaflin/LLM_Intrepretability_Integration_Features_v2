@@ -1,0 +1,223 @@
+--- Example 1 ---
+Activation Score: 0.2429
+Max Token: 'of'
+Windowed Text:
+murder of the brother of the woman he loved
+
+Full Text (max 10 tokens):
+murder of the brother of the woman he loved .
+
+--------------------------------------------------
+
+--- Example 2 ---
+Activation Score: 0.2278
+Max Token: 'favour'
+Windowed Text:
+historical accuracy in favour of good storytelling .
+
+Full Text (max 10 tokens):
+historical accuracy in favour of good storytelling . 
+
+
+--------------------------------------------------
+
+--- Example 3 ---
+Activation Score: 0.2131
+Max Token: 'rural'
+Windowed Text:
+in rural areas
+
+Full Text (max 10 tokens):
+in rural areas . 
+
+
+--------------------------------------------------
+
+--- Example 4 ---
+Activation Score: 0.2117
+Max Token: 'two'
+Windowed Text:
+Vancouver Canucks in exchange for two fourth @
+
+Full Text (max 10 tokens):
+Vancouver Canucks in exchange for two fourth @-
+
+--------------------------------------------------
+
+--- Example 5 ---
+Activation Score: 0.2081
+Max Token: 'Cauc'
+Windowed Text:
+the Caucasus
+
+Full Text (max 10 tokens):
+the Caucasus . 
+
+
+--------------------------------------------------
+
+--- Example 6 ---
+Activation Score: 0.2015
+Max Token: 'a'
+Windowed Text:
+Fey was an extra in a
+
+Full Text (max 10 tokens):
+ Fey was an extra in a 1
+
+--------------------------------------------------
+
+--- Example 7 ---
+Activation Score: 0.1979
+Max Token: 'or'
+Windowed Text:
+in Storrington churchyard . In
+
+Full Text (max 10 tokens):
+in Storrington churchyard . In 1
+
+--------------------------------------------------
+
+--- Example 8 ---
+Activation Score: 0.1806
+Max Token: 'Strange'
+Windowed Text:
+The Taliban Shuffle : Strange Days in Afghanistan
+
+Full Text (max 10 tokens):
+The Taliban Shuffle : Strange Days in Afghanistan and
+
+--------------------------------------------------
+
+--- Example 9 ---
+Activation Score: 0.1724
+Max Token: 'the'
+Windowed Text:
+. She finally returns to the Dominican Republic in
+
+Full Text (max 10 tokens):
+. She finally returns to the Dominican Republic in 
+
+--------------------------------------------------
+
+--- Example 10 ---
+Activation Score: 0.1678
+Max Token: 'app'
+Windowed Text:
+order to appease the army , which
+
+Full Text (max 10 tokens):
+order to appease the army , which had
+
+--------------------------------------------------
+
+--- Example 11 ---
+Activation Score: 0.1678
+Max Token: 'especially'
+Windowed Text:
+any historical novel , but especially in The Fe
+
+Full Text (max 10 tokens):
+any historical novel , but especially in The Feast
+
+--------------------------------------------------
+
+--- Example 12 ---
+Activation Score: 0.1635
+Max Token: 'ake'
+Windowed Text:
+violent headshake in Hum . Her Tara
+
+Full Text (max 10 tokens):
+violent headshake in Hum . Her Tara could
+
+--------------------------------------------------
+
+--- Example 13 ---
+Activation Score: 0.1566
+Max Token: 'day'
+Windowed Text:
+'s character in the modern day portion of
+
+Full Text (max 10 tokens):
+'s character in the modern day portion of the
+
+--------------------------------------------------
+
+--- Example 14 ---
+Activation Score: 0.1549
+Max Token: 'emerge'
+Windowed Text:
+the Duat at night , and emerge as
+
+Full Text (max 10 tokens):
+the Duat at night , and emerge as a
+
+--------------------------------------------------
+
+--- Example 15 ---
+Activation Score: 0.1537
+Max Token: 'Mall'
+Windowed Text:
+reported to Mallory in late January 1
+
+Full Text (max 10 tokens):
+reported to Mallory in late January 18
+
+--------------------------------------------------
+
+--- Example 16 ---
+Activation Score: 0.1504
+Max Token: 'of'
+Windowed Text:
+mark of the gold dollar , the glory years
+
+Full Text (max 10 tokens):
+mark of the gold dollar , the glory years of
+
+--------------------------------------------------
+
+--- Example 17 ---
+Activation Score: 0.1494
+Max Token: 'of'
+Windowed Text:
+face of Indian Bridal Fashion Week — IB
+
+Full Text (max 10 tokens):
+face of Indian Bridal Fashion Week — IBFW
+
+--------------------------------------------------
+
+--- Example 18 ---
+Activation Score: 0.1486
+Max Token: 'e'
+Windowed Text:
+ians supported and appeased them through
+
+Full Text (max 10 tokens):
+ians supported and appeased them through offerings and
+
+--------------------------------------------------
+
+--- Example 19 ---
+Activation Score: 0.1424
+Max Token: 'land'
+Windowed Text:
+continues to travel through farmland for sixteen miles
+
+Full Text (max 10 tokens):
+continues to travel through farmland for sixteen miles (
+
+--------------------------------------------------
+
+--- Example 20 ---
+Activation Score: 0.1390
+Max Token: 'numbers'
+Windowed Text:
+in small numbers , causing speculation by hoard
+
+Full Text (max 10 tokens):
+in small numbers , causing speculation by hoarders
+
+--------------------------------------------------
+

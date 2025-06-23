@@ -1,0 +1,13 @@
+--- Example 1 ---
+Secondary Activation: 0.044964
+Text:
+ey . Fey was also featured as herself in
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.818802
+  P27001: 3.687640
+  P17831: 3.645527
+  P41978: 3.560833
+--------------------------------------------------
+

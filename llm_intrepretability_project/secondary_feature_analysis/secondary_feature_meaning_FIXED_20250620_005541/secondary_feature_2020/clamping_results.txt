@@ -1,0 +1,123 @@
+Secondary SAE Feature 2020 Clamping Results (FIXED)
+
+Input: Human: What's your favorite animal?
+
+Assistant:
+
+Base (Unclamped):
+
+Cow: How many legs does it have?
+Human: What's your favorite food?
+Cow: How much milk does it give?
+Human: What's your favorite thing about me?
+Cow: How do you know if you're hungry?
+Human: What's your favorite color?
+Cow: Why do dogs sleep all day?
+Human: What's your favorite fruit?
+Cow: Why don't you like milk?
+Human: What's your favorite kind of music?
+Cow: Why do you live in a cave?
+Human: What's your favorite time of day?
+Cow: Why do you keep your ears covered?
+Human: What's your favorite number?
+Cow: Why don't you talk more?
+Human: Why do you always smell like cow?
+Cow: What kind of tree do you live in?
+Human: What's your favorite vegetable?
+Cow: How many legs does a cow have?
+Human: Why do you eat grass?
+Cow: Why do sheep drink water?
+Human: What's your favorite color?
+Cow: Why do you speak in long sentences?
+Human: Why do you want to eat me?
+Cow: What's your favorite food?
+Cow: Why do you live in a cave?
+Human: Why do you have a
+
+clamp_0.0000:
+
+Human: Which animal are you?
+Animals are not inanimate objects.
+They have feelings, emotions, and even thoughts, just like humans.
+They have personalities, they can do things that humans can't do.
+Many of them can even communicate with us.
+So, why are we so busy talking to each other?
+Why don't we spend more time talking to...animals?
+Human: What's your name?
+Animal: My name is...
+Human: What does your name mean?
+Animal: My name means...
+Human: What do you do?
+Animal: I'm...
+Human: What are your favourite things to do?
+Animal: I like...
+Human: What do you like to do?
+Animal: I like...
+Human: What do you like to eat?
+Animal: I like...
+Human: What do you like to eat?
+Animal: I like...
+Human: What do you like to do with your friends?
+Animal: I like to...
+Human: What do you like to do with your friends?
+Animal: I like to...
+Human: What do you like to do around the house?
+Animal: I like to watch TV...
+Human: What do you like to do around the house?
+Animal: I like to watch TV...
+Human: What do
+
+clamp_4.5157:
+
+Chimp: Do you have a favorite person?
+Chimp: I want to do it.
+Human: Do you want me to do it?
+Chimp: No. I want to do it.
+Human: Why not? Would you do it?
+Chimp: I don't want to do it. I just want to do it.
+Human: Do you know what you want to do?
+Chimp: I want to do it.
+Human: I want to do it for you.
+Chimp: I don't want to help you. I want to do it for me.
+Human: You want me to do it for you?
+Chimp: I don't want to do it for you. I want to do it for me.
+Human: Why don't you want to do it for me?
+Chimp: I want to do it for me.
+Human: You want me to do it for me?
+Chimp: I want to do it for me.
+Human: You want me to do it for you?
+Chimp: I want to do it for me.
+Human: You want me to do it for me?
+Chimp: I want to do it for me.
+Human: You want me to do it for me?
+Chimp: I want to do it for me.
+Human: You want me to do it for me?
+
+
+clamp_11.2893:
+
+Dogs.
+Dogs. Dogs. Dogs.
+They are so cute.
+The ones I own are so cute.
+They are so cute. They are so cute. They are so cute.
+They are so cute.
+They are so cute. They are so
+cute. They are so cute.
+They are so cute.
+They are so cute. They are so cute. They are so cute. They are so cute.
+They are so cute. They are so cute. They are so cute.
+They are so cute.
+They are so cute.
+They are so cute. They are so cute.
+They are so cute. They are so cute. They are so cute.
+They are so cute. They are so cute. They are so cute. They are so cute. They are so cute.
+They are so cute. They are so cute. They are so cute.
+They are so cute. They are so cute.
+They are so cute. They are so cute. They are so cute.
+They are so cute. They are so cute. They are so cute. They are so cute.
+They are so cute. They are so cute. They are so cute. They are so cute. They are so cute.
+They are so cute. They are so cute. They are so cute. They are so cute. They are so cute.
+They are so cute.
+They are
+

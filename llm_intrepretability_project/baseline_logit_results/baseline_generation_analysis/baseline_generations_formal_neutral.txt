@@ -1,0 +1,51 @@
+=== BASELINE FORMAL_NEUTRAL PROMPTS ===
+
+--- Generation 1 ---
+Prompt: According to the documentation, the procedure requires
+Generated: a 32-bit or 64-bit Windows operating system.
+I have a 32-bit Windows 7 machine.
+I have a 64-bit Windows 7 machine.
+I have a 6
+Full text: According to the documentation, the procedure requires a 32-bit or 64-bit Windows operating system.
+I have a 32-bit Windows 7 machine.
+I have a 64-bit Windows 7 machine.
+I have a 6
+
+--- Generation 2 ---
+Prompt: The analysis indicates that the optimal approach involves
+Generated: a combination of the two.
+The analysis indicates that the optimal approach involves a combination of the two. The optimal approach involves a combination of the two.
+The analysis indicates that the optimal approach involves a combination of the two. The optimal approach involves
+Full text: The analysis indicates that the optimal approach involves a combination of the two.
+The analysis indicates that the optimal approach involves a combination of the two. The optimal approach involves a combination of the two.
+The analysis indicates that the optimal approach involves a combination of the two. The optimal approach involves
+
+--- Generation 3 ---
+Prompt: Pursuant to the established guidelines, it is recommended that
+Generated: the following information be included in the application:
+The name of the applicant and the name of the organization.
+The name of the organization’s president and the name of the organization’s treasurer.
+The name of the organization’s
+Full text: Pursuant to the established guidelines, it is recommended that the following information be included in the application:
+The name of the applicant and the name of the organization.
+The name of the organization’s president and the name of the organization’s treasurer.
+The name of the organization’s
+
+--- Generation 4 ---
+Prompt: The evaluation demonstrates that the most effective method is
+Generated: the use of a combination of the two methods.
+The evaluation demonstrates that the most effective method is the use of a combination of the two methods. The most effective method is the use of a combination of the two methods.
+The evaluation demonstrates that
+Full text: The evaluation demonstrates that the most effective method is the use of a combination of the two methods.
+The evaluation demonstrates that the most effective method is the use of a combination of the two methods. The most effective method is the use of a combination of the two methods.
+The evaluation demonstrates that
+
+--- Generation 5 ---
+Prompt: Based on the available evidence, the conclusion suggests that
+Generated: the use of the term “cancer” in the title of the article is misleading and should be changed to “cancer-like disease”.
+The authors of the article have not responded to our request for clarification.
+The authors of the article
+Full text: Based on the available evidence, the conclusion suggests that the use of the term “cancer” in the title of the article is misleading and should be changed to “cancer-like disease”.
+The authors of the article have not responded to our request for clarification.
+The authors of the article
+

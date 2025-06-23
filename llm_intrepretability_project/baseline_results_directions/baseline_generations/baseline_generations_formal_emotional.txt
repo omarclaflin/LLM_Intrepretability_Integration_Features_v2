@@ -1,0 +1,61 @@
+=== BASELINE FORMAL_EMOTIONAL PROMPTS ===
+
+--- Generation 1 ---
+Prompt: Describe the tone of this sentence: 'I must express my profound concern regarding
+Generated: the recent events in the Middle East.'
+The tone of this sentence is one of concern.
+The tone of this sentence is one of concern. The sentence is written in a formal tone.
+The tone of this sentence is one of concern.
+Full text: Describe the tone of this sentence: 'I must express my profound concern regarding the recent events in the Middle East.'
+The tone of this sentence is one of concern.
+The tone of this sentence is one of concern. The sentence is written in a formal tone.
+The tone of this sentence is one of concern.
+
+--- Generation 2 ---
+Prompt: Describe the tone of this sentence: 'It is with great disappointment that I must address
+Generated: you today.'
+It is with great disappointment that I must address you today.
+It is with great disappointment that I must address you today.
+It is with great disappointment that I must address you today.
+It is with great disappointment that I
+Full text: Describe the tone of this sentence: 'It is with great disappointment that I must address you today.'
+It is with great disappointment that I must address you today.
+It is with great disappointment that I must address you today.
+It is with great disappointment that I must address you today.
+It is with great disappointment that I
+
+--- Generation 3 ---
+Prompt: Describe the tone of this sentence: 'I am deeply troubled by the implications of
+Generated: this report.'
+The tone of this sentence is serious and somber.
+The tone of this sentence is serious and somber. The word "deeply" is used to emphasize the seriousness of the situation.
+The tone of this sentence
+Full text: Describe the tone of this sentence: 'I am deeply troubled by the implications of this report.'
+The tone of this sentence is serious and somber.
+The tone of this sentence is serious and somber. The word "deeply" is used to emphasize the seriousness of the situation.
+The tone of this sentence
+
+--- Generation 4 ---
+Prompt: Describe the tone of this sentence: 'With utmost urgency, I must convey that
+Generated: I am in dire need of your assistance.'
+I am in dire need of your assistance.
+I am in dire need of your assistance.
+I am in dire need of your assistance.
+I am in dire need of your assistance.
+
+Full text: Describe the tone of this sentence: 'With utmost urgency, I must convey that I am in dire need of your assistance.'
+I am in dire need of your assistance.
+I am in dire need of your assistance.
+I am in dire need of your assistance.
+I am in dire need of your assistance.
+
+
+--- Generation 5 ---
+Prompt: Describe the tone of this sentence: 'I feel compelled to voice my serious objections to
+Generated: the way you have handled this situation.'
+The tone of this sentence is serious.
+The tone of this sentence is serious. The tone of this sentence is serious. The tone of this sentence is serious. The tone of this sentence is serious.
+Full text: Describe the tone of this sentence: 'I feel compelled to voice my serious objections to the way you have handled this situation.'
+The tone of this sentence is serious.
+The tone of this sentence is serious. The tone of this sentence is serious. The tone of this sentence is serious. The tone of this sentence is serious.
+

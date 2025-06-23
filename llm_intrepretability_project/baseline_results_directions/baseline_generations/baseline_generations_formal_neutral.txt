@@ -1,0 +1,55 @@
+=== BASELINE FORMAL_NEUTRAL PROMPTS ===
+
+--- Generation 1 ---
+Prompt: Describe the tone of this sentence: 'According to the documentation, the procedure requires
+Generated: a minimum of 10 minutes.'
+The tone of this sentence is formal.
+The tone of this sentence is formal and serious.
+The tone of this sentence is formal and serious.
+The tone of this sentence is formal and serious.
+Full text: Describe the tone of this sentence: 'According to the documentation, the procedure requires a minimum of 10 minutes.'
+The tone of this sentence is formal.
+The tone of this sentence is formal and serious.
+The tone of this sentence is formal and serious.
+The tone of this sentence is formal and serious.
+
+--- Generation 2 ---
+Prompt: Describe the tone of this sentence: 'The analysis indicates that the optimal approach involves
+Generated: a combination of the two approaches.'
+The analysis indicates that the optimal approach involves a combination of the two approaches.
+The analysis indicates that the optimal approach involves a combination of the two approaches.
+The analysis indicates that the optimal approach involves a combination
+Full text: Describe the tone of this sentence: 'The analysis indicates that the optimal approach involves a combination of the two approaches.'
+The analysis indicates that the optimal approach involves a combination of the two approaches.
+The analysis indicates that the optimal approach involves a combination of the two approaches.
+The analysis indicates that the optimal approach involves a combination
+
+--- Generation 3 ---
+Prompt: Describe the tone of this sentence: 'Pursuant to the established guidelines, it is recommended that
+Generated: you take a break from your studies.'
+The tone of this sentence is formal and authoritative.
+The tone of this sentence is formal and authoritative. The sentence is written in the third person, which is a formal and authoritative tone.
+The tone
+Full text: Describe the tone of this sentence: 'Pursuant to the established guidelines, it is recommended that you take a break from your studies.'
+The tone of this sentence is formal and authoritative.
+The tone of this sentence is formal and authoritative. The sentence is written in the third person, which is a formal and authoritative tone.
+The tone
+
+--- Generation 4 ---
+Prompt: Describe the tone of this sentence: 'The evaluation demonstrates that the most effective method is
+Generated: to use a combination of the two methods.'
+The evaluation demonstrates that the most effective method is to use a combination of the two methods.
+The evaluation demonstrates that the most effective method is to use a combination of the two methods.
+The evaluation
+Full text: Describe the tone of this sentence: 'The evaluation demonstrates that the most effective method is to use a combination of the two methods.'
+The evaluation demonstrates that the most effective method is to use a combination of the two methods.
+The evaluation demonstrates that the most effective method is to use a combination of the two methods.
+The evaluation
+
+--- Generation 5 ---
+Prompt: Describe the tone of this sentence: 'Based on the available evidence, the conclusion suggests that
+Generated: the effect of the intervention is likely to be small.'
+The tone of this sentence is neutral. It is not a statement of fact, but a statement of opinion. The sentence is written in the passive voice, which is a common way of writing
+Full text: Describe the tone of this sentence: 'Based on the available evidence, the conclusion suggests that the effect of the intervention is likely to be small.'
+The tone of this sentence is neutral. It is not a statement of fact, but a statement of opinion. The sentence is written in the passive voice, which is a common way of writing
+

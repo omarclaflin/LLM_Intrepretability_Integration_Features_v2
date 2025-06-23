@@ -1,0 +1,78 @@
+Secondary SAE Feature 2020 Clamping Results (FIXED)
+
+Input: Human: What's your favorite animal?
+
+Assistant:
+
+Base (Unclamped):
+
+Jeopardy!:
+Question: Human: What's your favorite animal?
+Answer: Tiger
+Human: Tiger?
+Jeopardy!: Well, that's very interesting.
+Human: Tiger is my favorite animal.
+Jeopardy!: We'll have you on the show this weekend. We'll tell you about it then.
+Human: Human is a very intelligent animal, and it's not just my favorite animal.
+Jeopardy!: I see.
+Human: I think that's very fascinating.
+Human: But a human is a very interesting animal.
+Jeopardy!: Well, we're glad you come on with us.
+Human: Thank you very much.
+Jeopardy!: Well, we'll see you again.
+Human: We look forward to it.
+Jeopardy!: And we look forward to meeting you.
+Human: Thank you very much. It was a pleasure to be on
+Jeopardy!: We'll see you again.
+Human: And it was a pleasure to be on.
+Human: A pleasure to be on.
+Jeopardy!: We'll have you on again.
+Human: Thank you very much.
+Human: Well, it's great to be on.
+Human: Thank you very much. Thank you.
+
+
+clamp_0.0000:
+
+Rex: I like dogs, but I don't have one.
+Jock: You don't have any dogs?
+Rex: No, I don't have any dogs. I've had a dog once, but I had to get rid of it because it was bothering my neighbors.
+Jock: I'm sorry, but I think you're making up the story about your dog.
+Jock: Yeah, that's what I said.
+Rex: I don't know what to say... I don't really have a dog.
+Jock: Oh, come on, Rex, don't be such a liar. That's just not right. You told me you had a dog. You're just making this up.
+Rex: Well, what else can I say? I don't have a dog, so.... I really don't know what to say.
+Jock: I'm sure you don't have a dog, because it's not like you to make up stories.
+Rex: I don't have a dog, and I don't know what else to say.
+Rex: I don't have any dogs, and I don't know what else to say.
+Jock: If you don't have a dog, then why did you buy a stuffed dog?
+Jock: You
+
+clamp_4.9427:
+
+Australian: I don't think I have one.
+
+clamp_12.3569:
+
+Virtual Dolphin: I've got a lot of them.
+Virtual Dolphin: What do you think about the dolphins?
+Virtual Dolphin: What do you think about the whales?
+Virtual Dolphin: What do you think about the orcas?
+Virtual Dolphin: What do you think about the sharks?
+Virtual Dolphin: What do you think about the fish?
+Virtual Dolphin: What do you think about the birds?
+Virtual Dolphin: What do you think about the turtles?
+Virtual Dolphin: What do you think about the turtles?
+Virtual Dolphin: What do you think about the seals?
+Virtual Dolphin: What do you think about the seals?
+Virtual Dolphin: What do you think about the snakes?
+Virtual Dolphin: What do you think about the snakes?
+Virtual Dolphin: What do you think about the spiders?
+Virtual Dolphin: What do you think about the spiders?
+Virtual Dolphin: What do you think about the pigeons?
+Virtual Dolphin: What do you think about the pigeons?
+Virtual Dolphin: What do you think about the rats?
+Virtual Dolphin: What do you think about the rats?
+Virtual Dolphin: What do you think about the ants?
+Virtual Dolphin: What do you think
+

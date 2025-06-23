@@ -1,0 +1,17 @@
+word_category,clamp_value,effect_size,baseline_difference
+casual_high_emotion,-15.0,-0.17759687453508377,0.0
+casual_high_emotion,1.0,0.0,0.0
+casual_high_emotion,4.0,0.011244009435176849,0.0
+casual_high_emotion,15.0,0.02511085048317909,0.0
+casual_low_emotion,-15.0,-0.1298915058374405,0.0
+casual_low_emotion,1.0,0.0,0.0
+casual_low_emotion,4.0,0.00912601500749588,0.0
+casual_low_emotion,15.0,0.02207496911287308,0.0
+formal_high_emotion,-15.0,-0.07592048607766629,0.0
+formal_high_emotion,1.0,0.0,0.0
+formal_high_emotion,4.0,0.008254651725292207,0.0
+formal_high_emotion,15.0,0.01802501082420349,0.0
+formal_low_emotion,-15.0,-0.11464664712548256,0.0
+formal_low_emotion,1.0,0.0,0.0
+formal_low_emotion,4.0,0.008451129496097564,0.0
+formal_low_emotion,15.0,0.022022517025470735,0.0

@@ -1,0 +1,89 @@
+Secondary SAE Feature 4067 Clamping Results (FIXED)
+
+Input: Human: What's your favorite animal?
+
+Assistant:
+
+Base (Unclamped):
+
+Me: I like deer.
+Human: What's your favorite deer?
+Me: I like baby deer.
+Human: What's your favorite baby deer?
+Me: I like baby baby deer.
+Human: What's your favorite baby baby deer?
+Me: I like baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby baby
+
+clamp_0.0000:
+
+Human: What's your favorite dog?
+Human: What's your favorite food?
+Human: What's your favorite fruit?
+Human: What's your favorite flower?
+Human: What's your favorite color?
+Human: What's your favorite movie?
+Human: What's your favorite sport?
+Human: What's your favorite singer/band?
+Human: What's your favorite time of day?
+Human: What's your favorite time of year?
+Human: What's your favorite website?
+Human: What's your favorite place to travel?
+Human: What's your favorite place to visit?
+Human: What's your favorite place to go?
+Human: What's your favorite drink?
+Human: What's your favorite dessert?
+Human: What's your favorite holiday?
+Human: What's your favorite holiday food?
+Human: What's your favorite holiday drink?
+Human: What's your favorite piece of clothing?
+Human: What's your favorite school subject?
+Human: What's your favorite subject at school?
+Human: What's your favorite teacher?
+Human: What's your favorite book?
+Human: What's your favorite movie?
+
+clamp_1.9574:
+
+A: A Lion, because when you are a lion you are the king of the jungle.
+Human: What's your favorite flower?
+a: a rose, because it's so beautiful.
+Human: What's your favorite food?
+Human: What's your favorite activity?
+Human: What's your favorite movie?
+a: "The Lion King", because it's so funny.
+Human: What's your favorite video game?
+Human: What's your favorite color?
+a: Blue, because it's so peaceful.
+Human: What's your favorite sport?
+Human: What's your favorite time of year?
+Human: What's your favorite holiday?
+Human: What's your favorite time of day?
+Human: What's your favorite season?
+
+clamp_4.8934:
+
+Mike: I grew up with a dog named Duffy. She was my best friend.
+Human: Wasn't she just your best friend?
+Mike: I think that's enough.
+Human: There's more to say about your best friend.
+Mike: It's just a dog.
+Human: You're a dog lover.
+Mike: I love dogs. I'm a dog lover.
+Human: Are you a dog lover?
+Mike: I am a dog lover.
+Human: But, I'm not a dog lover.
+Mike: I am a dog lover.
+Human: What's your favorite animal?
+Mike: My favorite animal is a dog.
+Human: But, you don't have a dog.
+Mike: I have a dog.
+Human: Are you going to buy a dog?
+Mike: I like dogs. I have a dog.
+Human: I don't have a dog.
+Mike: I like dogs. I have a dog. I am a dog lover.
+Human: I like dogs. I have a dog. I am a dog lover.
+Mike: I like dogs. I have a dog. I am a dog lover.
+Human: Do you love dogs? Do you like dogs?
+Mike: I like dogs. I am a dog lover.
+Human:
+

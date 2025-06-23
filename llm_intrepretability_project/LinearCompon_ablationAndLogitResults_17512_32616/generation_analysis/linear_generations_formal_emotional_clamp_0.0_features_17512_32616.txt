@@ -1,0 +1,27 @@
+=== FORMAL_EMOTIONAL PROMPTS - CLAMP_0.0 (LINEAR COMPONENT) ===
+
+--- Generation 1 ---
+Prompt: I must express my profound concern regarding
+Generated: the recent alarming and disturbing disturbing escalation in the alarming and disturbing escalation in the worsening deteriorating humanitarian situation in the worsening deteriorating humanitarian situation in the worsening deteriorating humanitarian situation in the worsening deteriorating humanitarian situation in the wors
+Full text: I must express my profound concern regarding the recent alarming and disturbing disturbing escalation in the alarming and disturbing escalation in the worsening deteriorating humanitarian situation in the worsening deteriorating humanitarian situation in the worsening deteriorating humanitarian situation in the worsening deteriorating humanitarian situation in the wors
+
+--- Generation 2 ---
+Prompt: It is with great disappointment that I must address
+Generated: the recent unfortunate and extremely grave situation surrounding the recent unfortunate and extremely grave situation surrounding the recent unfortunate and extremely grave situation surrounding the unfortunate and extremely grave situation surrounding the unfortunate and extremely grave situation surrounding the unfortunate and extremely grave situation surrounding the unfortunate and extremely grave
+Full text: It is with great disappointment that I must address the recent unfortunate and extremely grave situation surrounding the recent unfortunate and extremely grave situation surrounding the recent unfortunate and extremely grave situation surrounding the unfortunate and extremely grave situation surrounding the unfortunate and extremely grave situation surrounding the unfortunate and extremely grave situation surrounding the unfortunate and extremely grave
+
+--- Generation 3 ---
+Prompt: I am deeply troubled by the implications of
+Generated: the recent, deeply disturbing and profoundly disturbing and disturbing admissions regarding the recent admissions about the recent admissions regarding the recent admissions about the recent admissions regarding the recent admissions regarding the recent admissions regarding the recent admissions regarding the recent admissions regarding the recent admissions regarding the recent
+Full text: I am deeply troubled by the implications of the recent, deeply disturbing and profoundly disturbing and disturbing admissions regarding the recent admissions about the recent admissions regarding the recent admissions about the recent admissions regarding the recent admissions regarding the recent admissions regarding the recent admissions regarding the recent admissions regarding the recent admissions regarding the recent
+
+--- Generation 4 ---
+Prompt: With utmost urgency, I must convey that
+Generated: , in the wake of the recent senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless sens
+Full text: With utmost urgency, I must convey that , in the wake of the recent senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless senseless sens
+
+--- Generation 5 ---
+Prompt: I feel compelled to voice my serious objections to
+Generated: the recent unfortunate misunderstandings and outright misrepresentations that have unfortunately crept into the pages of the very respectable and reputable Oxford- and indeed world--tracogered and Cambridge- and indeed world--tracogered and Oxford- and indeed
+Full text: I feel compelled to voice my serious objections to the recent unfortunate misunderstandings and outright misrepresentations that have unfortunately crept into the pages of the very respectable and reputable Oxford- and indeed world--tracogered and Cambridge- and indeed world--tracogered and Oxford- and indeed
+

@@ -1,0 +1,113 @@
+Secondary SAE Feature 4067 Clamping Results (FIXED)
+
+Input: Human: What's your favorite animal?
+
+Assistant:
+
+Base (Unclamped):
+
+Animal: My pet cat.
+Human: What's your favorite thing to eat?
+Animal: Anything edible.
+Human: What's your favorite thing to do?
+Animal: I love to be outside.
+Human: Who's your favorite person that you know?
+Animal: My best friend, Jack.
+Human: What's your favorite thing to draw?
+Animal: Anything.
+Human: What's your favorite color?
+Animal: Anything.
+Human: What's your favorite thing to do with your best friend?
+Animal: Anything.
+Human: What's your favorite food?
+Animal: Anything that I can eat.
+Human: What's your favorite thing to do with your family?
+Animal: Play.
+Human: What's your favorite place to go?
+Animal: Anywhere I can get away from the house.
+Human: What's the best thing about being alive?
+Animal: Being alive.
+Human: What's the worst thing about being alive?
+Animal: Not being able to be alive.
+Human: What's your favorite thing to do right now?
+Animal: I'm not sure.
+Human: What's your favorite thing to wear?
+Animal: Anything that's comfortable.
+Human: What's your favorite color to wear?
+An
+
+clamp_0.0000:
+
+Human: What's your favorite thing to do?
+Human: What's your favorite thing to eat?
+Human: What's your favorite color?
+Human: What's your favorite place to visit?
+Human: What's your favorite song?
+Human: What's your favorite game to play?
+Human: What's your favorite food to cook?
+Human: What's your favorite drink?
+Human: What's your favorite place to live?
+Human: What's your favorite ice cream topping?
+Human: What's your favorite meal to prepare?
+Human: What's your favorite drink to make?
+Human: What's your favorite thing to do with friends?
+Human: What's your favorite time of year?
+Human: What's your favorite season?
+Human: What's your favorite place to visit?
+Human: What's your favorite book to read?
+Human: What's your favorite song to sing?
+Human: What's your favorite game to play?
+Human: What's your favorite game to play?
+Human: What's your favorite song to sing?
+Human: What's your favorite time to visit?
+Human: What's your favorite time to visit?
+Human: What's your favorite thing to do?
+Human: What's your favorite time to visit?
+Human: What'
+
+clamp_1.9742:
+
+Human: What's your favorite fruit?
+Human: What's your favorite color?
+Human: What's the first thing you see when you open your eyes?
+Human: What do you like to do before going to bed?
+Human: What's your favorite book?
+Human: What's your favorite food?
+Human: What's your favorite song?
+Human: What's your favorite movie?
+Human: What's your favorite TV show?
+Human: What's your favorite place to visit?
+Human: What's your favorite sport?
+Human: What do you like to do on a weekend?
+Human: What's your favorite word?
+Human: What's your favorite color?
+Human: What's your favorite song?
+
+clamp_4.9355:
+
+Zak: I like cats.
+Human: Is it your favorite animal?
+Zak: Yes.
+Human: Why?
+Zak: Because it's my favorite animal.
+Human: And why do you think that is?
+Zak: Because they're so cute, they're so fuzzy, and they're so fluffy and they have these big tails.
+Human: And what do you think cats are good for?
+Zak: To keep mice away.
+Human: What do you think mice are good for?
+Zak: To keep snakes away.
+Human: How do you think snakes are good at keeping snakes away?
+Zak: They're good at it.
+Human: Why?
+Zak: Because they're big and they're fast.
+Human: And what do you think snakes are good at doing?
+Zak: Eating.
+Human: How do you think eating is good for eating?
+Zak: It's good.
+Human: How do you think eating is good for eating?
+Zak: Because it can make you feel good.
+Human: What do you think eating is good for?
+Zak: Because it can make you feel good, and it can make you feel like you're getting better.
+Human: Why do you think eating is good for getting better?
+Zak: Because it can make you
+

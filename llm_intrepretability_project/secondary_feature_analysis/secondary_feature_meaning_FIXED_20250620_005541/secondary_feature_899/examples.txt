@@ -1,0 +1,260 @@
+--- Example 1 ---
+Secondary Activation: 0.813722
+Text:
+����������
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P23103: 3.794246
+  P27001: 3.681870
+  P17831: 3.652947
+--------------------------------------------------
+
+--- Example 2 ---
+Secondary Activation: 0.813722
+Text:
+����������
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P23103: 3.794246
+  P27001: 3.681870
+  P17831: 3.652947
+--------------------------------------------------
+
+--- Example 3 ---
+Secondary Activation: 0.813722
+Text:
+����������
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P23103: 3.794246
+  P27001: 3.681870
+  P17831: 3.652947
+--------------------------------------------------
+
+--- Example 4 ---
+Secondary Activation: 0.813722
+Text:
+����������
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P23103: 3.794246
+  P27001: 3.681870
+  P17831: 3.652947
+--------------------------------------------------
+
+--- Example 5 ---
+Secondary Activation: 0.813722
+Text:
+����������
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P23103: 3.794246
+  P27001: 3.681870
+  P17831: 3.652947
+--------------------------------------------------
+
+--- Example 6 ---
+Secondary Activation: 0.813722
+Text:
+����������
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P23103: 3.794246
+  P27001: 3.681870
+  P17831: 3.652947
+--------------------------------------------------
+
+--- Example 7 ---
+Secondary Activation: 0.813722
+Text:
+����������
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P23103: 3.794246
+  P27001: 3.681870
+  P17831: 3.652947
+--------------------------------------------------
+
+--- Example 8 ---
+Secondary Activation: 0.813722
+Text:
+����������
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P23103: 3.794246
+  P27001: 3.681870
+  P17831: 3.652947
+--------------------------------------------------
+
+--- Example 9 ---
+Secondary Activation: 0.813722
+Text:
+����������
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P23103: 3.794246
+  P27001: 3.681870
+  P17831: 3.652947
+--------------------------------------------------
+
+--- Example 10 ---
+Secondary Activation: 0.813722
+Text:
+����������
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P23103: 3.794246
+  P27001: 3.681870
+  P17831: 3.652947
+--------------------------------------------------
+
+--- Example 11 ---
+Secondary Activation: 0.813722
+Text:
+����������
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P23103: 3.794246
+  P27001: 3.681870
+  P17831: 3.652947
+--------------------------------------------------
+
+--- Example 12 ---
+Secondary Activation: 0.813722
+Text:
+����������
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P23103: 3.794246
+  P27001: 3.681870
+  P17831: 3.652947
+--------------------------------------------------
+
+--- Example 13 ---
+Secondary Activation: 0.813722
+Text:
+����������
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P23103: 3.794246
+  P27001: 3.681870
+  P17831: 3.652947
+--------------------------------------------------
+
+--- Example 14 ---
+Secondary Activation: 0.813722
+Text:
+����������
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P23103: 3.794246
+  P27001: 3.681870
+  P17831: 3.652947
+--------------------------------------------------
+
+--- Example 15 ---
+Secondary Activation: 0.813722
+Text:
+����������
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P23103: 3.794246
+  P27001: 3.681870
+  P17831: 3.652947
+--------------------------------------------------
+
+--- Example 16 ---
+Secondary Activation: 0.813722
+Text:
+����������
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P23103: 3.794246
+  P27001: 3.681870
+  P17831: 3.652947
+--------------------------------------------------
+
+--- Example 17 ---
+Secondary Activation: 0.813722
+Text:
+����������
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P23103: 3.794246
+  P27001: 3.681870
+  P17831: 3.652947
+--------------------------------------------------
+
+--- Example 18 ---
+Secondary Activation: 0.813722
+Text:
+����������
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P23103: 3.794246
+  P27001: 3.681870
+  P17831: 3.652947
+--------------------------------------------------
+
+--- Example 19 ---
+Secondary Activation: 0.793483
+Text:
+man whom everyone had always considered a mere clerk ,
+
+Top 5 Primary SAE features for this example:
+  P4428: 4.396864
+  P9646: 3.889225
+  P15374: 3.803313
+  P27001: 3.678903
+  P17831: 3.635091
+--------------------------------------------------
+
+--- Example 20 ---
+Secondary Activation: 0.792867
+Text:
+' defenseman Drew Doughty scored with just
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.883856
+  P15374: 3.803313
+  P27001: 3.779099
+  P4428: 3.641449
+  P17831: 3.630003
+--------------------------------------------------
+

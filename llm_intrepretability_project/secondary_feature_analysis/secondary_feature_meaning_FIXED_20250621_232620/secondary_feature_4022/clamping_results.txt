@@ -1,0 +1,95 @@
+Secondary SAE Feature 4022 Clamping Results (FIXED)
+
+Input: Human: What's your favorite animal?
+
+Assistant:
+
+Base (Unclamped):
+
+Vincent: My favorite animal is a dog.
+Human: What color is your favorite animal?
+Vincent: My favorite animal is a black dog.
+Human: Do you like to play with toys?
+Human: Do you like to play with other people?
+Human: Do you like to play with yourself?
+Human: Do you like to play with yourself? How about with your friends?
+Child: I like to play with myself.
+Child: No, I don't like to play with myself. I like to play with my friends.
+Human: Do you like to play with other people?
+Child: I don't like to play with other people. I like to play with myself.
+Child: I don't like to play with myself. I like to play with my friends.
+Human: Do you like to play with yourself? How about with your friends?
+Child: I like to play with myself. I like to play with my friends.
+Child: No, I don't like to play with myself. I like to play with my friends.
+Child: I don't like to play with myself. I like to play with my friends.
+Human: Do you like to play with other people?
+Child: I don't like to play with other people. I like to play with myself.
+Human: Do you like to play with yourself? How about with your
+
+clamp_0.0000:
+
+Katie: Oh! What's my favorite animal?
+Human: What's your favorite animal?
+Me: I don't know. What is your favorite animal?
+Human: I don't know. What animal is your favorite?
+We've been reading a lot of different animal books, so I was trying to get her to pick one. She didn't know.
+Human: What's your favorite animal?
+Me: Oh! What animal is my favorite?
+At this point, I was trying to get her to pick one and she didn't know.
+Human: What's your favorite animal?
+Me: Oh! What animal is my favorite?
+Human: What's your favorite animal?
+Me: I don't know. What animal is your favorite?
+I didn't know. I was just trying to get her to pick a favorite!
+Human: What's your favorite animal?
+Human: What's your favorite animal?
+I'm starting to think she doesn't know!
+Human: What's your favorite animal?
+Human: What's your favorite animal? I'm starting to think she doesn't know!
+Human: What's your favorite animal?
+Me: I don't know. What's your favorite animal?
+Human: What's your favorite animal? I'm starting to think she doesn
+
+clamp_5.4873:
+
+I: Elephant. Elephants are very good at climbing trees and killing things.
+Human: What's your favorite food?
+I: Chocolate. Chocolate is very good at keeping you awake at night.
+Human: What's your favorite color?
+I: Blue. Blue is very good at making people feel depressed.
+Human: What were you like as a baby?
+I: I was as big as a house but only one meter tall.
+Human: Where do you live?
+I: In the sky. I live in the sky because I like it there.
+Human: What do you see when you look at the clouds?
+I: They're full of rainbows.
+Human: What's your favorite place to go on holiday?
+I: I can't go anywhere.
+
+clamp_13.7182:
+
+Myra: What's a favorite animal?
+Myra: What do you mean by that?
+Human: What's an animal you love.
+Myra: I don't think I want to talk about that.
+Human: Why not? What's wrong with animals?
+Myra: It's different. I have a different relationship to animals.
+Human: What do you mean?
+Myra: It's like, I have empathy for them. I don't feel like I have to eat them.
+Myra: That's a different kind of relationship.
+Human: Do you think it's wrong to be cruel to animals?
+Myra: I don't think so.
+Myra: I think it's wrong to kill them or give them the wrong food.
+Myra: You know how we're all here now.
+Human: How do you mean?
+Myra: We're all here as one animal.
+Human: Why is that so important?
+Myra: It's important because we all share the same life.
+Human: How do you know?
+Myra: I know because we all breathe the same air.
+Human: What do you mean?
+Myra: We're all connected by the air we breathe.
+Human: How do you know that?
+Myra: Because we breathe the same air.
+
+

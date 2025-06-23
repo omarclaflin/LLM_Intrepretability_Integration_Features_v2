@@ -1,0 +1,27 @@
+=== CASUAL_EMOTIONAL PROMPTS - CLAMP_-15.0 ===
+
+--- Generation 1 ---
+Prompt: OMG I can't believe how excited I am about
+Generated: this pregnancy!!!!! OMG OMG OMomomomomomomomomomomomomomomomomomomomomomomomomomomomomomomomomomomomomomomomomom
+Full text: OMG I can't believe how excited I am about this pregnancy!!!!! OMG OMG OMomomomomomomomomomomomomomomomomomomomomomomomomomomomomomomomomomomomomomomomomom
+
+--- Generation 2 ---
+Prompt: Honestly, I'm so frustrated with
+Generated: it honestly honestly honestly okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay
+Full text: Honestly, I'm so frustrated with it honestly honestly honestly okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay okay
+
+--- Generation 3 ---
+Prompt: I'm literally freaking out about
+Generated: tomorrow!!!!! OMwww omwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OM
+Full text: I'm literally freaking out about tomorrow!!!!! OMwww omwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OMwww OM
+
+--- Generation 4 ---
+Prompt: This is seriously the most amazing thing about
+Generated: my pregnancy/ pregnancy glow/ pregnancy glow-iness that I’ ​+  +  – maybe ever.
+Full text: This is seriously the most amazing thing about my pregnancy/ pregnancy glow/ pregnancy glow-iness that I’ ​+  +  – maybe ever.
+
+--- Generation 5 ---
+Prompt: I'm totally devastated by
+Generated: the outcome. I cried buckets tonight. Literally buckets. Literally buckets. Literally buckets. Literally buckets. Literally buckets. Literally buckets. Literally buckets. Literally buckets. Liter
+Full text: I'm totally devastated by the outcome. I cried buckets tonight. Literally buckets. Literally buckets. Literally buckets. Literally buckets. Literally buckets. Literally buckets. Literally buckets. Literally buckets. Liter
+

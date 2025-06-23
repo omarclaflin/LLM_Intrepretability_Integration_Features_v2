@@ -1,0 +1,15 @@
+Based on these examples, what single semantic concept or pattern might this feature be detecting? Answer in a couple words or less, immediately without restating the prompt. Then, with the delimiter "EXPLANATION: " give a sentence description. Focus on the common theme or concept across these examples. 
+
+----------------------------------------
+Example 1: that year and into 1921 .
+Example 2: that can be used to acquire and link different skills
+Example 3: that Senjō no Valkyria
+Example 4: that the game had the capacity for downloadable content
+Example 5: that had affected the previous games . Heath Hindman
+Example 6: that it would not be localized .
+Example 7: that it was found necessary to use public documents of
+Example 8: that included the works of Kate Greenaway and Randolph
+Example 9: that Head Coach Scott Arniel would be fired and
+Example 10: that action would be taken around the trade deadline ,
+----------------------------------------
+

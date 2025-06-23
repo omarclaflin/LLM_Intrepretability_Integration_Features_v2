@@ -1,0 +1,55 @@
+=== BASELINE CASUAL_NEUTRAL PROMPTS ===
+
+--- Generation 1 ---
+Prompt: Describe the tone of this sentence: 'So anyway, I was thinking about
+Generated: how I could get a job in the music industry, and I thought that I could get a job as a music journalist.'
+The tone of this sentence is very informal. It is written in the first person, and it is written in the present
+Full text: Describe the tone of this sentence: 'So anyway, I was thinking about how I could get a job in the music industry, and I thought that I could get a job as a music journalist.'
+The tone of this sentence is very informal. It is written in the first person, and it is written in the present
+
+--- Generation 2 ---
+Prompt: Describe the tone of this sentence: 'Yeah, the thing is that
+Generated: I'm not really into that kind of thing.'
+What is the meaning of the phrase 'the thing is'?
+What is the meaning of the phrase 'the thing is'?
+What is the meaning of the phrase 'the thing
+Full text: Describe the tone of this sentence: 'Yeah, the thing is that I'm not really into that kind of thing.'
+What is the meaning of the phrase 'the thing is'?
+What is the meaning of the phrase 'the thing is'?
+What is the meaning of the phrase 'the thing
+
+--- Generation 3 ---
+Prompt: Describe the tone of this sentence: 'Basically what happened was
+Generated: that the government decided to take over the banks.'
+The tone of this sentence is sarcastic.
+The tone of this sentence is sarcastic. The sentence is sarcastic because it is a criticism of the government's decision to
+Full text: Describe the tone of this sentence: 'Basically what happened was that the government decided to take over the banks.'
+The tone of this sentence is sarcastic.
+The tone of this sentence is sarcastic. The sentence is sarcastic because it is a criticism of the government's decision to
+
+--- Generation 4 ---
+Prompt: Describe the tone of this sentence: 'I guess the main point is
+Generated: that I'm not a very good person.'
+I guess the main point is that I'm not a very good person.
+I guess the main point is that I'm not a very good person.
+I guess the main point
+Full text: Describe the tone of this sentence: 'I guess the main point is that I'm not a very good person.'
+I guess the main point is that I'm not a very good person.
+I guess the main point is that I'm not a very good person.
+I guess the main point
+
+--- Generation 5 ---
+Prompt: Describe the tone of this sentence: 'You know, it's kinda interesting how
+Generated: the same thing happens to all of us.'
+The sentence is written in the first person.
+The sentence is written in the third person.
+The sentence is written in the second person.
+The sentence is written in the first person.
+
+Full text: Describe the tone of this sentence: 'You know, it's kinda interesting how the same thing happens to all of us.'
+The sentence is written in the first person.
+The sentence is written in the third person.
+The sentence is written in the second person.
+The sentence is written in the first person.
+
+

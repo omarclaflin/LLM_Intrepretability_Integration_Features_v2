@@ -1,0 +1,62 @@
+Secondary SAE Feature 4022 Clamping Results (FIXED)
+
+Input: Human: What's your favorite animal?
+
+Assistant:
+
+Base (Unclamped):
+
+Animal: What's your favorite animal?
+Human: I'm not sure I have a favorite animal.
+Animal: What are you, a vegetarian?
+Human: No. Just because I don't eat meat doesn't mean I don't like animals.
+Animal: What makes you think I'd like animals?
+Human: I like animals. I like your pet.
+Animal: You don't like me?
+Human: No. I just like your pet.
+Animal: What, I'm not good enough for you?
+Human: I just like your pet.
+Animal: You don't like me?
+Human: Yes, I do. I just like your pet.
+Animal: I'm not good enough for you?
+Human: I like your pet.
+Animal: You don't like me?
+Human: Yes, I do. I just like your pet.
+Animal: I'm not good enough for you?
+Human: I like your pet.
+Animal: I'm not good enough for you?
+Human: No, I just like your pet.
+Animal: I'm not good enough for you?
+Human: No, I just like your pet.
+Animal: I'm not good enough for you? I'm not good enough for you?
+Human: I like your
+
+clamp_0.0000:
+
+Pig: I like dogs, but I don't have any.
+Human: What about cats, you like them?
+Pig: Yes, I like them.
+Human: What about rabbits, you like them?
+Human: What about squirrels, you like them?
+Pig: Yes, I like them.
+Human: What about birds, you like them?
+Pig: Yes, I like them.
+Human: What about other animals, you like them?
+Pig: Yes, I like them.
+Human: What about fish, you like them?
+Human: What about snakes, you like them?
+Human: What about alligators, you like them?
+Human: What about crabs, you like them?
+Human: What about frogs, you like them?
+Pig: No, I don't like them.
+Human: What about lizards, you like them?
+Pig: Yes, I like them.
+Human: What about turtles, you like them?
+Human: What about spiders, you like them?
+Human: What about worms, you like them?
+Human: What about caterpillars, you like them?
+Human: What about plants, you like them?
+Pig: Yes, I like them.
+Human: What about insects, you like them?
+Human: What about worms, you don'
+

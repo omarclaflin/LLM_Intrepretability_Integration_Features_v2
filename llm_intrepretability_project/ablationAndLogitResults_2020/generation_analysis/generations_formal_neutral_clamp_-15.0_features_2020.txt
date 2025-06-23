@@ -1,0 +1,33 @@
+=== FORMAL_NEUTRAL PROMPTS - CLAMP_-15.0 ===
+
+--- Generation 1 ---
+Prompt: According to the documentation, the procedure requires
+Generated: the following additional information:
+
+                                           
+Full text: According to the documentation, the procedure requires the following additional information:
+
+                                           
+
+--- Generation 2 ---
+Prompt: The analysis indicates that the optimal approach involves
+Generated: the simultaneous use of both strengths of both agonism and antagonism.
+
+Full text: The analysis indicates that the optimal approach involves the simultaneous use of both strengths of both agonism and antagonism.
+
+
+--- Generation 3 ---
+Prompt: Pursuant to the established guidelines, it is recommended that
+Generated: the initial 30 days of the initial 40000000000 PHP worth of the initial 40000000000 PHP worth of the initial 400000
+Full text: Pursuant to the established guidelines, it is recommended that the initial 30 days of the initial 40000000000 PHP worth of the initial 40000000000 PHP worth of the initial 400000
+
+--- Generation 4 ---
+Prompt: The evaluation demonstrates that the most effective method is
+Generated: the 2005 ₃500000000000000000000000000 buffered Chinese money gift of the new ₃5
+Full text: The evaluation demonstrates that the most effective method is the 2005 ₃500000000000000000000000000 buffered Chinese money gift of the new ₃5
+
+--- Generation 5 ---
+Prompt: Based on the available evidence, the conclusion suggests that
+Generated: the overall overall preventive bundle of effective combination bundle of effective combination bundle of effective combination bundle of effective combination bundle of effective combination bundle of effective combination bundle of effective combination bundle of effective combination bundle of effective combination bundle of effective combination bundle of effective combination bundle of
+Full text: Based on the available evidence, the conclusion suggests that the overall overall preventive bundle of effective combination bundle of effective combination bundle of effective combination bundle of effective combination bundle of effective combination bundle of effective combination bundle of effective combination bundle of effective combination bundle of effective combination bundle of effective combination bundle of effective combination bundle of
+

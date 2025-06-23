@@ -1,0 +1,222 @@
+--- Example 1 ---
+Activation Score: 3.1968
+Max Token: 'that'
+Windowed Text:
+that year and into 1921
+
+Full Text (max 10 tokens):
+that year and into 1921 .
+
+--------------------------------------------------
+
+--- Example 2 ---
+Activation Score: 3.1181
+Max Token: 'that'
+Windowed Text:
+that can be used to acquire and link different
+
+Full Text (max 10 tokens):
+that can be used to acquire and link different skills
+
+--------------------------------------------------
+
+--- Example 3 ---
+Activation Score: 3.1181
+Max Token: 'that'
+Windowed Text:
+that Senjō no Valky
+
+Full Text (max 10 tokens):
+that Senjō no Valkyria
+
+--------------------------------------------------
+
+--- Example 4 ---
+Activation Score: 3.1181
+Max Token: 'that'
+Windowed Text:
+that the game had the capacity for downloadable
+
+Full Text (max 10 tokens):
+that the game had the capacity for downloadable content
+
+--------------------------------------------------
+
+--- Example 5 ---
+Activation Score: 3.1181
+Max Token: 'that'
+Windowed Text:
+that had affected the previous games . Heath Hind
+
+Full Text (max 10 tokens):
+that had affected the previous games . Heath Hindman
+
+--------------------------------------------------
+
+--- Example 6 ---
+Activation Score: 3.1181
+Max Token: 'that'
+Windowed Text:
+that it would not be localized .
+
+Full Text (max 10 tokens):
+that it would not be localized . 
+
+
+--------------------------------------------------
+
+--- Example 7 ---
+Activation Score: 3.1181
+Max Token: 'that'
+Windowed Text:
+that it was found necessary to use public documents
+
+Full Text (max 10 tokens):
+that it was found necessary to use public documents of
+
+--------------------------------------------------
+
+--- Example 8 ---
+Activation Score: 3.1181
+Max Token: 'that'
+Windowed Text:
+that included the works of Kate Greenaway and
+
+Full Text (max 10 tokens):
+that included the works of Kate Greenaway and Randolph
+
+--------------------------------------------------
+
+--- Example 9 ---
+Activation Score: 3.1181
+Max Token: 'that'
+Windowed Text:
+that Head Coach Scott Arniel would be fired
+
+Full Text (max 10 tokens):
+that Head Coach Scott Arniel would be fired and
+
+--------------------------------------------------
+
+--- Example 10 ---
+Activation Score: 3.1181
+Max Token: 'that'
+Windowed Text:
+that action would be taken around the trade deadline
+
+Full Text (max 10 tokens):
+that action would be taken around the trade deadline ,
+
+--------------------------------------------------
+
+--- Example 11 ---
+Activation Score: 3.1181
+Max Token: 'that'
+Windowed Text:
+that the franchise would host the 20
+
+Full Text (max 10 tokens):
+that the franchise would host the 201
+
+--------------------------------------------------
+
+--- Example 12 ---
+Activation Score: 3.1181
+Max Token: 'that'
+Windowed Text:
+that the clock was correct and no extra time
+
+Full Text (max 10 tokens):
+that the clock was correct and no extra time had
+
+--------------------------------------------------
+
+--- Example 13 ---
+Activation Score: 3.1181
+Max Token: 'that'
+Windowed Text:
+that the team was open to all options for
+
+Full Text (max 10 tokens):
+that the team was open to all options for improving
+
+--------------------------------------------------
+
+--- Example 14 ---
+Activation Score: 3.1181
+Max Token: 'that'
+Windowed Text:
+that in return for Nash the Blue Jackets
+
+Full Text (max 10 tokens):
+that in return for Nash the Blue Jackets would
+
+--------------------------------------------------
+
+--- Example 15 ---
+Activation Score: 3.1181
+Max Token: 'that'
+Windowed Text:
+that he felt that he " could be a
+
+Full Text (max 10 tokens):
+that he felt that he " could be a huge
+
+--------------------------------------------------
+
+--- Example 16 ---
+Activation Score: 3.1181
+Max Token: 'that'
+Windowed Text:
+that served in the Confederate and Union Navies
+
+Full Text (max 10 tokens):
+that served in the Confederate and Union Navies during
+
+--------------------------------------------------
+
+--- Example 17 ---
+Activation Score: 3.1181
+Max Token: 'that'
+Windowed Text:
+that carried 50 pounds ( 2
+
+Full Text (max 10 tokens):
+that carried 50 pounds ( 23
+
+--------------------------------------------------
+
+--- Example 18 ---
+Activation Score: 3.1181
+Max Token: 'that'
+Windowed Text:
+that lay behind all things and was present in
+
+Full Text (max 10 tokens):
+that lay behind all things and was present in all
+
+--------------------------------------------------
+
+--- Example 19 ---
+Activation Score: 3.1181
+Max Token: 'that'
+Windowed Text:
+that was performed for them across Egypt .
+
+Full Text (max 10 tokens):
+that was performed for them across Egypt . 
+
+
+--------------------------------------------------
+
+--- Example 20 ---
+Activation Score: 3.1181
+Max Token: 'that'
+Windowed Text:
+that stand for Neith , and the en
+
+Full Text (max 10 tokens):
+that stand for Neith , and the enigm
+
+--------------------------------------------------
+

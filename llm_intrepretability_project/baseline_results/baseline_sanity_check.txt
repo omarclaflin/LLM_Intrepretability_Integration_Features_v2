@@ -1,0 +1,20 @@
+=== BASELINE SANITY CHECK ===
+
+Prompt: Hello
+Generated: , I am interested about your Toyota Corolla car
+Full text: Hello , I am interested about your Toyota Corolla car
+
+Prompt: The cat
+Generated: is out of the bag.
+The cat is
+Full text: The cat is out of the bag.
+The cat is
+
+Prompt: I think
+Generated: I've been a little bit too quiet lately
+Full text: I think I've been a little bit too quiet lately
+
+Prompt: Yesterday
+Generated: , I was in the middle of a conversation with
+Full text: Yesterday , I was in the middle of a conversation with
+

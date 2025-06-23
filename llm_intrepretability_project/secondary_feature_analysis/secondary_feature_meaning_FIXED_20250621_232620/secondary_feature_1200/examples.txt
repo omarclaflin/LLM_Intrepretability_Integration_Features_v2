@@ -1,0 +1,262 @@
+--- Example 1 ---
+Secondary Activation: 1.937636
+Text:
+that while she forgets many things , " I
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P41978: 7.421882
+--------------------------------------------------
+
+--- Example 2 ---
+Secondary Activation: 1.864473
+Text:
+that she approaches each role asking herself , " Would
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P4428: 7.321184
+--------------------------------------------------
+
+--- Example 3 ---
+Secondary Activation: 1.841220
+Text:
+that one . " Meanwhile , " Cleanse the
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P41978: 7.451134
+--------------------------------------------------
+
+--- Example 4 ---
+Secondary Activation: 1.813088
+Text:
+that exists almost edge @-@ on to its
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.812312
+  P27001: 7.563285
+  P17831: 7.477334
+  P41978: 7.312889
+--------------------------------------------------
+
+--- Example 5 ---
+Secondary Activation: 1.812215
+Text:
+average cost per hour to fly such aircraft has been
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803415
+  P4428: 3.797512
+  P27001: 3.678903
+  P17831: 3.652244
+--------------------------------------------------
+
+--- Example 6 ---
+Secondary Activation: 1.765609
+Text:
+that the amount of iron found in the Sun .
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P41978: 7.312889
+--------------------------------------------------
+
+--- Example 7 ---
+Secondary Activation: 1.754409
+Text:
+ = = = Flying schools = = = 
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.819861
+  P27001: 3.705978
+  P17831: 3.698316
+  P41978: 3.560833
+--------------------------------------------------
+
+--- Example 8 ---
+Secondary Activation: 1.751170
+Text:
+that witnessed his impotence and emotion , and
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P4428: 7.346113
+--------------------------------------------------
+
+--- Example 9 ---
+Secondary Activation: 1.747131
+Text:
+that the data on flying hours " does not support
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P41978: 7.312889
+--------------------------------------------------
+
+--- Example 10 ---
+Secondary Activation: 1.746206
+Text:
+as club aircraft rented out to qualified pilots for recreational
+
+Top 5 Primary SAE features for this example:
+  P4428: 4.672155
+  P9646: 3.861619
+  P15374: 3.803313
+  P27001: 3.702945
+  P17831: 3.638793
+--------------------------------------------------
+
+--- Example 11 ---
+Secondary Activation: 1.736527
+Text:
+that he hates the track : " That 's
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P41978: 7.312889
+--------------------------------------------------
+
+--- Example 12 ---
+Secondary Activation: 1.736232
+Text:
+that knowing the past is crucial to one 's
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.457880
+  P4428: 7.395253
+--------------------------------------------------
+
+--- Example 13 ---
+Secondary Activation: 1.730123
+Text:
+that lay behind all things and was present in all
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P4428: 7.506199
+  P17831: 7.451948
+--------------------------------------------------
+
+--- Example 14 ---
+Secondary Activation: 1.677161
+Text:
+ = = = Modern day = = = 
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.819861
+  P27001: 3.725457
+  P17831: 3.705940
+  P41978: 3.560833
+--------------------------------------------------
+
+--- Example 15 ---
+Secondary Activation: 1.651417
+Text:
+0 to 1938 and 1
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P27001: 3.678903
+  P17831: 3.630003
+  P41978: 3.578022
+--------------------------------------------------
+
+--- Example 16 ---
+Secondary Activation: 1.650681
+Text:
+ = = = Behavior = = = 
+
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.822097
+  P27001: 3.733489
+  P17831: 3.694569
+  P41978: 3.560833
+--------------------------------------------------
+
+--- Example 17 ---
+Secondary Activation: 1.645792
+Text:
+that can be used to acquire and link different skills
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.464230
+  P41978: 7.312889
+--------------------------------------------------
+
+--- Example 18 ---
+Secondary Activation: 1.642768
+Text:
+ = = Charts = = 
+
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.819861
+  P27001: 3.698184
+  P17831: 3.659739
+  P41978: 3.560833
+--------------------------------------------------
+
+--- Example 19 ---
+Secondary Activation: 1.641877
+Text:
+ = = = Middle years = = = 
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.819861
+  P17831: 3.714021
+  P27001: 3.698597
+  P41978: 3.560833
+--------------------------------------------------
+
+--- Example 20 ---
+Secondary Activation: 1.627663
+Text:
+with various functional groups both on the anionic carbon
+
+Top 5 Primary SAE features for this example:
+  P4428: 4.286491
+  P9646: 3.878038
+  P15374: 3.803313
+  P27001: 3.678903
+  P17831: 3.633781
+--------------------------------------------------
+

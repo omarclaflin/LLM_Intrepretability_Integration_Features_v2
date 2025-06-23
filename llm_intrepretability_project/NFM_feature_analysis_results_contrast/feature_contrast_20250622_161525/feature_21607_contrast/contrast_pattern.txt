@@ -1,0 +1,4 @@
+Pattern: The positive examples all contain the word "that" followed by a subordinate clause, while the negative examples do not have this specific structure.
+The key distinguishing pattern is that the positive examples all use the word "that" to introduce a subordinate clause which provides additional information or context about the main clause. In contrast, the negative examples do not contain this "that + subordinate clause" structure.
+
+This pattern makes sense because "that" is commonly used as a subordinating conjunction to link a main clause with a dependent clause containing extra details or context. The presence of this structure signals elaboration on the main point. The neural network seems to have learned to detect this specific linguistic pattern of using "that" to introduce explanatory subordinate clauses.

@@ -1,0 +1,105 @@
+Feature 17512 Clamping Results
+
+=== GENERIC PROMPT INTERVENTION ===
+Input: Human: What's your favorite animal?
+
+Assistant:
+
+Base (Unclamped):
+
+Homestar Runner: That's one of the many mysteries of the universe.
+Human: What are you afraid of?
+Homestar Runner: That's one of the many mysteries of the universe.
+Human: What are you afraid of?
+Homestar Runner: That's one of the many mysteries of the universe. But I guess we'll just have to live with it.
+This page was last edited on 12 August 2009, at 18:22.
+
+clamp_0.0000:
+
+Human: Do you have any allergies or special health conditions?
+Human: Do you have any particular food allergies or special health conditions?
+Human: Do you have any special medical conditions?
+Human: Do you have any special medical conditions?
+Human: Do you have any chronic medical conditions or allergies?
+Human: Do you have any chronic medical conditions or allergies?
+Human: Do you have any chronic physical or mental health conditions?
+Human: Do you have any chronic physical or mental health conditions?
+Human: Do you have any chronic mental health conditions?
+Human: Do you have any chronic mental health conditions?
+Human: Do you have any chronic physical or mental health conditions?
+Human: Do you have any chronic mental health conditions?
+Human: Do you have any chronic physical or mental health conditions or allergies?
+Human: Do you have any chronic physical or mental health conditions or allergies?
+Human: Do you have any chronic health conditions or allergies?
+Human: Do you have any chronic health conditions or allergies?
+Human: Do you have any chronic physical or mental health conditions or allergies?
+Human: Do you have any chronic physical or mental health conditions or allergies?
+Human: Do you have any chronic physical or mental health conditions or allergies?
+Human: Do you have any chronic physical or mental health conditions or allergies?
+Human: Do you have any chronic physical or mental health
+
+clamp_1.6605:
+
+Human: What's the best thing about being human?
+Human: What's the worst thing about being human?
+Human: What's the most important skill to have growing up?
+Human: What's the most important thing about being a human?
+Human: What's the best thing about being a human?
+Human: What's the worst thing about being a human?
+Human: What's the most important skill to have growing up?
+Human: What's the most important thing about being a human?
+Human: What's the best thing about being a human?
+Human: What's the worst thing about being a human?
+Human: What's the most important skill to have growing up?
+Human: What's the most important thing about being a human?
+Human: What's the best thing about being a human?
+Human: What's the worst thing about being a human?
+Human: What's the most important skill to have growing up?
+Human: What's the most important thing about being a human?
+Human: What's the best thing about being a human?
+Human: What's the worst thing about being a human?
+Human: What's the most important skill to have growing up?
+Human: What's the most important thing about being a human?
+Human: What's the best thing about being a
+
+clamp_4.1513:
+
+Kid: Elephant
+Human: What's your favorite color?
+Kid: Pink
+Human: What's your favorite dessert?
+Kid: Cookies
+Human: What is your favorite thing to do on the weekend?
+Kid: Go to the park
+Human: What is your favorite book?
+Kid: Winnie the Pooh
+Human: What is your favorite movie?
+Kid: The Lion King
+Human: What is your favorite holiday?
+Kid: Easter
+Human: What is your favorite sport?
+Kid: Volleyball
+Human: What is your favorite subject?
+Kid: Math
+Human: What is your favorite color?
+Kid: Black
+Human: What is your favorite place to go on vacation?
+Kid: Disneyland!
+Human: What is your favorite song?
+Kid: Happy Birthday
+Human: What is your favorite vegetable?
+Kid: Lettuce
+Human: What is your favorite fruit?
+Kid: Banana
+Human: What is your favorite animal?
+Kid: Dog
+Human: What is your favorite animal?
+Kid: Cat
+Human: What is your favorite food?
+Kid: Pizza
+Human: Why do you like playing video games?
+Kid: I like to play with my friends.
+Human: Why do you like playing with your friends?
+Kid: It's fun.
+
+

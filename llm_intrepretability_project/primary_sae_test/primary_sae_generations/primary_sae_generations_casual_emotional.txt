@@ -1,0 +1,12 @@
+=== PRIMARY SAE HOOK CASUAL_EMOTIONAL PROMPTS ===
+
+--- Generation 1 ---
+Prompt: OMG I can't believe how excited I am about
+Generated: this amazing little bundle of joy that is finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally
+Full text: OMG I can't believe how excited I am about this amazing little bundle of joy that is finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally finally
+
+--- Generation 2 ---
+Prompt: Honestly, I'm so frustrated with
+Generated: my hair lately. I’ combo- combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo
+Full text: Honestly, I'm so frustrated with my hair lately. I’ combo- combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo combo
+

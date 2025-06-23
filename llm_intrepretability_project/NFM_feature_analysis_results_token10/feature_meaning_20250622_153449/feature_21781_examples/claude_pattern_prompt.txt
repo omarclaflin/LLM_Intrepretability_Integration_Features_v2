@@ -1,0 +1,15 @@
+Based on these examples, what single semantic concept or pattern might this feature be detecting? Answer in a couple words or less, immediately without restating the prompt. Then, with the delimiter "EXPLANATION: " give a sentence description. Focus on the common theme or concept across these examples. 
+
+----------------------------------------
+Example 1: the empire 's complex mix of religious traditions ,
+Example 2: morphological and molecular phylogenetic evidence .
+Example 3: . The Egyptians ' visual representations of their gods
+Example 4: in the human world . Natural disasters and human a
+Example 5: some purely fictional .
+Example 6: in a physical form , but in real life the
+Example 7: religion 's symbolic statements about the gods and their
+Example 8: of the Egyptian mythological cosmos . There were
+Example 9: human and divine realms was mostly limited to specific
+Example 10: interrelated roles , or who together represented a region
+----------------------------------------
+

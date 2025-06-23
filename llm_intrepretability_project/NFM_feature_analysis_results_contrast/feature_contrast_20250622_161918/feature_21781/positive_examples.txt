@@ -1,0 +1,222 @@
+=== POSITIVE EXAMPLES (Highest Activations) ===
+
+--- Positive Example 1 ---
+Activation Score: 2.6236
+Max Token: 'real'
+Windowed Text:
+iatry student . She retained her real
+
+Full Text (max 10 tokens):
+iatry student . She retained her real voice for the
+
+--------------------------------------------------
+
+--- Positive Example 2 ---
+Activation Score: 2.5188
+Max Token: 'true'
+Windowed Text:
+determine the true cause of the clock pause ,
+
+Full Text (max 10 tokens):
+determine the true cause of the clock pause , the
+
+--------------------------------------------------
+
+--- Positive Example 3 ---
+Activation Score: 2.4868
+Max Token: 'real'
+Windowed Text:
+; Vargas Llosa weaves real
+
+Full Text (max 10 tokens):
+; Vargas Llosa weaves real historical
+
+--------------------------------------------------
+
+--- Positive Example 4 ---
+Activation Score: 2.4692
+Max Token: 'visual'
+Windowed Text:
+. The Egyptians ' visual representations of their
+
+Full Text (max 10 tokens):
+. The Egyptians ' visual representations of their gods
+
+--------------------------------------------------
+
+--- Positive Example 5 ---
+Activation Score: 2.4438
+Max Token: 'real'
+Windowed Text:
+The realist style of The Feast
+
+Full Text (max 10 tokens):
+ The realist style of The Feast of
+
+--------------------------------------------------
+
+--- Positive Example 6 ---
+Activation Score: 2.4014
+Max Token: 'real'
+Windowed Text:
+human and divine realms was mostly limited to
+
+Full Text (max 10 tokens):
+human and divine realms was mostly limited to specific
+
+--------------------------------------------------
+
+--- Positive Example 7 ---
+Activation Score: 2.3961
+Max Token: 'real'
+Windowed Text:
+formed a link between the divine and human real
+
+Full Text (max 10 tokens):
+formed a link between the divine and human realms
+
+--------------------------------------------------
+
+--- Positive Example 8 ---
+Activation Score: 2.3303
+Max Token: 'physical'
+Windowed Text:
+and the physical problems of incontinence and
+
+Full Text (max 10 tokens):
+and the physical problems of incontinence and imp
+
+--------------------------------------------------
+
+--- Positive Example 9 ---
+Activation Score: 2.3116
+Max Token: 'symbolic'
+Windowed Text:
+religion 's symbolic statements about the gods and
+
+Full Text (max 10 tokens):
+religion 's symbolic statements about the gods and their
+
+--------------------------------------------------
+
+--- Positive Example 10 ---
+Activation Score: 2.2773
+Max Token: 'real'
+Windowed Text:
+deserters , and military offenders whose real
+
+Full Text (max 10 tokens):
+deserters , and military offenders whose real names
+
+--------------------------------------------------
+
+--- Positive Example 11 ---
+Activation Score: 2.2621
+Max Token: 'real'
+Windowed Text:
+of both real and fictional characters . Some characters
+
+Full Text (max 10 tokens):
+of both real and fictional characters . Some characters are
+
+--------------------------------------------------
+
+--- Positive Example 12 ---
+Activation Score: 2.2419
+Max Token: 'ological'
+Windowed Text:
+of the Egyptian mythological cosmos . There
+
+Full Text (max 10 tokens):
+of the Egyptian mythological cosmos . There were
+
+--------------------------------------------------
+
+--- Positive Example 13 ---
+Activation Score: 2.2386
+Max Token: 'spiritual'
+Windowed Text:
+'s " spiritual colonization " of the
+
+Full Text (max 10 tokens):
+'s " spiritual colonization " of the Dominican
+
+--------------------------------------------------
+
+--- Positive Example 14 ---
+Activation Score: 2.1853
+Max Token: 'real'
+Windowed Text:
+aguer bring about real change in his character
+
+Full Text (max 10 tokens):
+aguer bring about real change in his character ,
+
+--------------------------------------------------
+
+--- Positive Example 15 ---
+Activation Score: 2.1443
+Max Token: 'historical'
+Windowed Text:
+of the regime with the troubled historical events .
+
+Full Text (max 10 tokens):
+of the regime with the troubled historical events . With
+
+--------------------------------------------------
+
+--- Positive Example 16 ---
+Activation Score: 2.1424
+Max Token: 'physical'
+Windowed Text:
+in a physical form , but in real life
+
+Full Text (max 10 tokens):
+in a physical form , but in real life the
+
+--------------------------------------------------
+
+--- Positive Example 17 ---
+Activation Score: 2.1172
+Max Token: 'political'
+Windowed Text:
+origin . The political influence of a city could
+
+Full Text (max 10 tokens):
+origin . The political influence of a city could affect
+
+--------------------------------------------------
+
+--- Positive Example 18 ---
+Activation Score: 2.1035
+Max Token: 'historical'
+Windowed Text:
+regard to the historical accuracy of the book ,
+
+Full Text (max 10 tokens):
+regard to the historical accuracy of the book , V
+
+--------------------------------------------------
+
+--- Positive Example 19 ---
+Activation Score: 2.0625
+Max Token: 'real'
+Windowed Text:
+was joined by the real Sarah Palin , and
+
+Full Text (max 10 tokens):
+was joined by the real Sarah Palin , and on
+
+--------------------------------------------------
+
+--- Positive Example 20 ---
+Activation Score: 2.0502
+Max Token: 'physical'
+Windowed Text:
+picture of a man whose physical body is failing
+
+Full Text (max 10 tokens):
+picture of a man whose physical body is failing him
+
+--------------------------------------------------
+

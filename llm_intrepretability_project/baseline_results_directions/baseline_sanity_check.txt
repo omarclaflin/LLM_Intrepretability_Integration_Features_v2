@@ -1,0 +1,24 @@
+=== BASELINE SANITY CHECK ===
+
+Prompt: Describe the tone of this sentence: 'Hello
+Generated: , my name is ______.'
+What
+Full text: Describe the tone of this sentence: 'Hello , my name is ______.'
+What
+
+Prompt: Describe the tone of this sentence: 'The cat
+Generated: jumped over the fence.'
+The sentence is written
+Full text: Describe the tone of this sentence: 'The cat jumped over the fence.'
+The sentence is written
+
+Prompt: Describe the tone of this sentence: 'I think
+Generated: I'm going to be sick.'
+I
+Full text: Describe the tone of this sentence: 'I think I'm going to be sick.'
+I
+
+Prompt: Describe the tone of this sentence: 'Yesterday
+Generated: I was in the park with my friends. We
+Full text: Describe the tone of this sentence: 'Yesterday I was in the park with my friends. We
+

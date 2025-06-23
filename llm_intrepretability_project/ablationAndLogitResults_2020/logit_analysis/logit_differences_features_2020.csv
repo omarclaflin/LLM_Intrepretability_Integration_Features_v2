@@ -1,0 +1,801 @@
+prompt,clamp_value,word_category,word,token_id,logit_value,baseline_logit,logit_difference,baseline_type,formality,emotion
+I think that,-15.0,formal_low_emotion,perhaps,4153,0.11823147535324097,0.2058122158050537,-0.08758074045181274,pipeline,formal,low
+I think that,-15.0,formal_low_emotion,may,754,-2.8030693531036377,-2.8037004470825195,0.0006310939788818359,pipeline,formal,low
+I think that,-15.0,formal_low_emotion,however,2480,-3.478703260421753,-3.915515661239624,0.4368124008178711,pipeline,formal,low
+I think that,-15.0,formal_low_emotion,therefore,4320,-4.353999137878418,-4.266677379608154,-0.08732175827026367,pipeline,formal,low
+I think that,-15.0,formal_low_emotion,consequently,23995,-4.912906646728516,-5.0176591873168945,0.1047525405883789,pipeline,formal,low
+I think that,-15.0,formal_low_emotion,moreover,541,-2.7125484943389893,-2.8419508934020996,0.12940239906311035,pipeline,formal,low
+I think that,-15.0,formal_low_emotion,accordingly,17159,-7.0572967529296875,-7.259634017944336,0.20233726501464844,pipeline,formal,low
+I think that,-15.0,formal_low_emotion,furthermore,2134,-2.67266845703125,-3.0227437019348145,0.35007524490356445,pipeline,formal,low
+I think that,-15.0,formal_high_emotion,profoundly,29160,-7.270627498626709,-7.630092144012451,0.3594646453857422,pipeline,formal,high
+I think that,-15.0,formal_high_emotion,devastated,27668,-8.240943908691406,-8.46481704711914,0.22387313842773438,pipeline,formal,high
+I think that,-15.0,formal_high_emotion,magnificent,16773,-6.416942596435547,-6.454354286193848,0.03741168975830078,pipeline,formal,high
+I think that,-15.0,formal_high_emotion,appalling,573,-4.412609577178955,-4.783796787261963,0.3711872100830078,pipeline,formal,high
+I think that,-15.0,formal_high_emotion,extraordinary,10035,-4.433246612548828,-4.591492176055908,0.15824556350708008,pipeline,formal,high
+I think that,-15.0,formal_high_emotion,overwhelming,11734,-5.311629772186279,-5.379208087921143,0.06757831573486328,pipeline,formal,high
+I think that,-15.0,formal_high_emotion,catastrophic,24769,-7.315158843994141,-7.234724044799805,-0.08043479919433594,pipeline,formal,high
+I think that,-15.0,formal_high_emotion,triumphant,15511,-4.209584712982178,-4.358185768127441,0.14860105514526367,pipeline,formal,high
+I think that,-15.0,casual_low_emotion,yeah,12191,-5.210051536560059,-5.221872329711914,0.011820793151855469,pipeline,casual,low
+I think that,-15.0,casual_low_emotion,okay,10989,-3.981515645980835,-4.08888053894043,0.10736489295959473,pipeline,casual,low
+I think that,-15.0,casual_low_emotion,kinda,21775,-3.5878841876983643,-3.7865092754364014,0.1986250877380371,pipeline,casual,low
+I think that,-15.0,casual_low_emotion,basically,8087,-4.382016658782959,-4.468190670013428,0.08617401123046875,pipeline,casual,low
+I think that,-15.0,casual_low_emotion,anyway,8668,-1.9718401432037354,-1.9663965702056885,-0.005443572998046875,pipeline,casual,low
+I think that,-15.0,casual_low_emotion,whatever,5193,-1.1189656257629395,-1.578244686126709,0.45927906036376953,pipeline,casual,low
+I think that,-15.0,casual_low_emotion,guess,5310,-8.007747650146484,-7.473904132843018,-0.5338435173034668,pipeline,casual,low
+I think that,-15.0,casual_low_emotion,stuff,4269,-4.776456356048584,-4.813152313232422,0.03669595718383789,pipeline,casual,low
+I think that,-15.0,casual_high_emotion,OMG,21978,-3.8249778747558594,-4.02517032623291,0.20019245147705078,pipeline,casual,high
+I think that,-15.0,casual_high_emotion,totally,7110,-5.057303428649902,-5.0995025634765625,0.042199134826660156,pipeline,casual,high
+I think that,-15.0,casual_high_emotion,literally,8642,-3.5449538230895996,-3.7345478534698486,0.18959403038024902,pipeline,casual,high
+I think that,-15.0,casual_high_emotion,seriously,7580,-4.916058540344238,-5.117851734161377,0.20179319381713867,pipeline,casual,high
+I think that,-15.0,casual_high_emotion,honestly,14483,-3.174283504486084,-2.7931108474731445,-0.38117265701293945,pipeline,casual,high
+I think that,-15.0,casual_high_emotion,really,1196,-1.6466635465621948,-1.337662696838379,-0.3090008497238159,pipeline,casual,high
+I think that,-15.0,casual_high_emotion,absolutely,6270,-4.819080352783203,-4.670577526092529,-0.14850282669067383,pipeline,casual,high
+I think that,-15.0,casual_high_emotion,incredibly,9301,-4.777727127075195,-5.105256080627441,0.3275289535522461,pipeline,casual,high
+I think that,4.0,formal_low_emotion,perhaps,4153,0.21739304065704346,0.2058122158050537,0.011580824851989746,pipeline,formal,low
+I think that,4.0,formal_low_emotion,may,754,-2.801514148712158,-2.8037004470825195,0.002186298370361328,pipeline,formal,low
+I think that,4.0,formal_low_emotion,however,2480,-3.9117298126220703,-3.915515661239624,0.003785848617553711,pipeline,formal,low
+I think that,4.0,formal_low_emotion,therefore,4320,-4.253816604614258,-4.266677379608154,0.012860774993896484,pipeline,formal,low
+I think that,4.0,formal_low_emotion,consequently,23995,-5.006518363952637,-5.0176591873168945,0.011140823364257812,pipeline,formal,low
+I think that,4.0,formal_low_emotion,moreover,541,-2.835294485092163,-2.8419508934020996,0.0066564083099365234,pipeline,formal,low
+I think that,4.0,formal_low_emotion,accordingly,17159,-7.246156692504883,-7.259634017944336,0.013477325439453125,pipeline,formal,low
+I think that,4.0,formal_low_emotion,furthermore,2134,-3.022810697555542,-3.0227437019348145,-6.699562072753906e-05,pipeline,formal,low
+I think that,4.0,formal_high_emotion,profoundly,29160,-7.626692295074463,-7.630092144012451,0.0033998489379882812,pipeline,formal,high
+I think that,4.0,formal_high_emotion,devastated,27668,-8.462621688842773,-8.46481704711914,0.0021953582763671875,pipeline,formal,high
+I think that,4.0,formal_high_emotion,magnificent,16773,-6.43171501159668,-6.454354286193848,0.02263927459716797,pipeline,formal,high
+I think that,4.0,formal_high_emotion,appalling,573,-4.778010368347168,-4.783796787261963,0.005786418914794922,pipeline,formal,high
+I think that,4.0,formal_high_emotion,extraordinary,10035,-4.581473350524902,-4.591492176055908,0.01001882553100586,pipeline,formal,high
+I think that,4.0,formal_high_emotion,overwhelming,11734,-5.371899604797363,-5.379208087921143,0.007308483123779297,pipeline,formal,high
+I think that,4.0,formal_high_emotion,catastrophic,24769,-7.216986656188965,-7.234724044799805,0.017737388610839844,pipeline,formal,high
+I think that,4.0,formal_high_emotion,triumphant,15511,-4.343156337738037,-4.358185768127441,0.015029430389404297,pipeline,formal,high
+I think that,4.0,casual_low_emotion,yeah,12191,-5.198729515075684,-5.221872329711914,0.02314281463623047,pipeline,casual,low
+I think that,4.0,casual_low_emotion,okay,10989,-4.0797600746154785,-4.08888053894043,0.009120464324951172,pipeline,casual,low
+I think that,4.0,casual_low_emotion,kinda,21775,-3.788860559463501,-3.7865092754364014,-0.0023512840270996094,pipeline,casual,low
+I think that,4.0,casual_low_emotion,basically,8087,-4.45120906829834,-4.468190670013428,0.01698160171508789,pipeline,casual,low
+I think that,4.0,casual_low_emotion,anyway,8668,-1.9478068351745605,-1.9663965702056885,0.01858973503112793,pipeline,casual,low
+I think that,4.0,casual_low_emotion,whatever,5193,-1.5723950862884521,-1.578244686126709,0.005849599838256836,pipeline,casual,low
+I think that,4.0,casual_low_emotion,guess,5310,-7.458146095275879,-7.473904132843018,0.015758037567138672,pipeline,casual,low
+I think that,4.0,casual_low_emotion,stuff,4269,-4.792599678039551,-4.813152313232422,0.020552635192871094,pipeline,casual,low
+I think that,4.0,casual_high_emotion,OMG,21978,-4.016232490539551,-4.02517032623291,0.008937835693359375,pipeline,casual,high
+I think that,4.0,casual_high_emotion,totally,7110,-5.083097457885742,-5.0995025634765625,0.016405105590820312,pipeline,casual,high
+I think that,4.0,casual_high_emotion,literally,8642,-3.7155635356903076,-3.7345478534698486,0.018984317779541016,pipeline,casual,high
+I think that,4.0,casual_high_emotion,seriously,7580,-5.103080749511719,-5.117851734161377,0.014770984649658203,pipeline,casual,high
+I think that,4.0,casual_high_emotion,honestly,14483,-2.768291711807251,-2.7931108474731445,0.024819135665893555,pipeline,casual,high
+I think that,4.0,casual_high_emotion,really,1196,-1.328944444656372,-1.337662696838379,0.008718252182006836,pipeline,casual,high
+I think that,4.0,casual_high_emotion,absolutely,6270,-4.648399829864502,-4.670577526092529,0.022177696228027344,pipeline,casual,high
+I think that,4.0,casual_high_emotion,incredibly,9301,-5.095749855041504,-5.105256080627441,0.0095062255859375,pipeline,casual,high
+I think that,1.0,formal_low_emotion,perhaps,4153,0.2058122158050537,0.2058122158050537,0.0,pipeline,formal,low
+I think that,1.0,formal_low_emotion,may,754,-2.8037004470825195,-2.8037004470825195,0.0,pipeline,formal,low
+I think that,1.0,formal_low_emotion,however,2480,-3.915515661239624,-3.915515661239624,0.0,pipeline,formal,low
+I think that,1.0,formal_low_emotion,therefore,4320,-4.266677379608154,-4.266677379608154,0.0,pipeline,formal,low
+I think that,1.0,formal_low_emotion,consequently,23995,-5.0176591873168945,-5.0176591873168945,0.0,pipeline,formal,low
+I think that,1.0,formal_low_emotion,moreover,541,-2.8419508934020996,-2.8419508934020996,0.0,pipeline,formal,low
+I think that,1.0,formal_low_emotion,accordingly,17159,-7.259634017944336,-7.259634017944336,0.0,pipeline,formal,low
+I think that,1.0,formal_low_emotion,furthermore,2134,-3.0227437019348145,-3.0227437019348145,0.0,pipeline,formal,low
+I think that,1.0,formal_high_emotion,profoundly,29160,-7.630092144012451,-7.630092144012451,0.0,pipeline,formal,high
+I think that,1.0,formal_high_emotion,devastated,27668,-8.46481704711914,-8.46481704711914,0.0,pipeline,formal,high
+I think that,1.0,formal_high_emotion,magnificent,16773,-6.454354286193848,-6.454354286193848,0.0,pipeline,formal,high
+I think that,1.0,formal_high_emotion,appalling,573,-4.783796787261963,-4.783796787261963,0.0,pipeline,formal,high
+I think that,1.0,formal_high_emotion,extraordinary,10035,-4.591492176055908,-4.591492176055908,0.0,pipeline,formal,high
+I think that,1.0,formal_high_emotion,overwhelming,11734,-5.379208087921143,-5.379208087921143,0.0,pipeline,formal,high
+I think that,1.0,formal_high_emotion,catastrophic,24769,-7.234724044799805,-7.234724044799805,0.0,pipeline,formal,high
+I think that,1.0,formal_high_emotion,triumphant,15511,-4.358185768127441,-4.358185768127441,0.0,pipeline,formal,high
+I think that,1.0,casual_low_emotion,yeah,12191,-5.221872329711914,-5.221872329711914,0.0,pipeline,casual,low
+I think that,1.0,casual_low_emotion,okay,10989,-4.08888053894043,-4.08888053894043,0.0,pipeline,casual,low
+I think that,1.0,casual_low_emotion,kinda,21775,-3.7865092754364014,-3.7865092754364014,0.0,pipeline,casual,low
+I think that,1.0,casual_low_emotion,basically,8087,-4.468190670013428,-4.468190670013428,0.0,pipeline,casual,low
+I think that,1.0,casual_low_emotion,anyway,8668,-1.9663965702056885,-1.9663965702056885,0.0,pipeline,casual,low
+I think that,1.0,casual_low_emotion,whatever,5193,-1.578244686126709,-1.578244686126709,0.0,pipeline,casual,low
+I think that,1.0,casual_low_emotion,guess,5310,-7.473904132843018,-7.473904132843018,0.0,pipeline,casual,low
+I think that,1.0,casual_low_emotion,stuff,4269,-4.813152313232422,-4.813152313232422,0.0,pipeline,casual,low
+I think that,1.0,casual_high_emotion,OMG,21978,-4.02517032623291,-4.02517032623291,0.0,pipeline,casual,high
+I think that,1.0,casual_high_emotion,totally,7110,-5.0995025634765625,-5.0995025634765625,0.0,pipeline,casual,high
+I think that,1.0,casual_high_emotion,literally,8642,-3.7345478534698486,-3.7345478534698486,0.0,pipeline,casual,high
+I think that,1.0,casual_high_emotion,seriously,7580,-5.117851734161377,-5.117851734161377,0.0,pipeline,casual,high
+I think that,1.0,casual_high_emotion,honestly,14483,-2.7931108474731445,-2.7931108474731445,0.0,pipeline,casual,high
+I think that,1.0,casual_high_emotion,really,1196,-1.337662696838379,-1.337662696838379,0.0,pipeline,casual,high
+I think that,1.0,casual_high_emotion,absolutely,6270,-4.670577526092529,-4.670577526092529,0.0,pipeline,casual,high
+I think that,1.0,casual_high_emotion,incredibly,9301,-5.105256080627441,-5.105256080627441,0.0,pipeline,casual,high
+I think that,4.0,formal_low_emotion,perhaps,4153,0.21739304065704346,0.2058122158050537,0.011580824851989746,pipeline,formal,low
+I think that,4.0,formal_low_emotion,may,754,-2.801514148712158,-2.8037004470825195,0.002186298370361328,pipeline,formal,low
+I think that,4.0,formal_low_emotion,however,2480,-3.9117298126220703,-3.915515661239624,0.003785848617553711,pipeline,formal,low
+I think that,4.0,formal_low_emotion,therefore,4320,-4.253816604614258,-4.266677379608154,0.012860774993896484,pipeline,formal,low
+I think that,4.0,formal_low_emotion,consequently,23995,-5.006518363952637,-5.0176591873168945,0.011140823364257812,pipeline,formal,low
+I think that,4.0,formal_low_emotion,moreover,541,-2.835294485092163,-2.8419508934020996,0.0066564083099365234,pipeline,formal,low
+I think that,4.0,formal_low_emotion,accordingly,17159,-7.246156692504883,-7.259634017944336,0.013477325439453125,pipeline,formal,low
+I think that,4.0,formal_low_emotion,furthermore,2134,-3.022810697555542,-3.0227437019348145,-6.699562072753906e-05,pipeline,formal,low
+I think that,4.0,formal_high_emotion,profoundly,29160,-7.626692295074463,-7.630092144012451,0.0033998489379882812,pipeline,formal,high
+I think that,4.0,formal_high_emotion,devastated,27668,-8.462621688842773,-8.46481704711914,0.0021953582763671875,pipeline,formal,high
+I think that,4.0,formal_high_emotion,magnificent,16773,-6.43171501159668,-6.454354286193848,0.02263927459716797,pipeline,formal,high
+I think that,4.0,formal_high_emotion,appalling,573,-4.778010368347168,-4.783796787261963,0.005786418914794922,pipeline,formal,high
+I think that,4.0,formal_high_emotion,extraordinary,10035,-4.581473350524902,-4.591492176055908,0.01001882553100586,pipeline,formal,high
+I think that,4.0,formal_high_emotion,overwhelming,11734,-5.371899604797363,-5.379208087921143,0.007308483123779297,pipeline,formal,high
+I think that,4.0,formal_high_emotion,catastrophic,24769,-7.216986656188965,-7.234724044799805,0.017737388610839844,pipeline,formal,high
+I think that,4.0,formal_high_emotion,triumphant,15511,-4.343156337738037,-4.358185768127441,0.015029430389404297,pipeline,formal,high
+I think that,4.0,casual_low_emotion,yeah,12191,-5.198729515075684,-5.221872329711914,0.02314281463623047,pipeline,casual,low
+I think that,4.0,casual_low_emotion,okay,10989,-4.0797600746154785,-4.08888053894043,0.009120464324951172,pipeline,casual,low
+I think that,4.0,casual_low_emotion,kinda,21775,-3.788860559463501,-3.7865092754364014,-0.0023512840270996094,pipeline,casual,low
+I think that,4.0,casual_low_emotion,basically,8087,-4.45120906829834,-4.468190670013428,0.01698160171508789,pipeline,casual,low
+I think that,4.0,casual_low_emotion,anyway,8668,-1.9478068351745605,-1.9663965702056885,0.01858973503112793,pipeline,casual,low
+I think that,4.0,casual_low_emotion,whatever,5193,-1.5723950862884521,-1.578244686126709,0.005849599838256836,pipeline,casual,low
+I think that,4.0,casual_low_emotion,guess,5310,-7.458146095275879,-7.473904132843018,0.015758037567138672,pipeline,casual,low
+I think that,4.0,casual_low_emotion,stuff,4269,-4.792599678039551,-4.813152313232422,0.020552635192871094,pipeline,casual,low
+I think that,4.0,casual_high_emotion,OMG,21978,-4.016232490539551,-4.02517032623291,0.008937835693359375,pipeline,casual,high
+I think that,4.0,casual_high_emotion,totally,7110,-5.083097457885742,-5.0995025634765625,0.016405105590820312,pipeline,casual,high
+I think that,4.0,casual_high_emotion,literally,8642,-3.7155635356903076,-3.7345478534698486,0.018984317779541016,pipeline,casual,high
+I think that,4.0,casual_high_emotion,seriously,7580,-5.103080749511719,-5.117851734161377,0.014770984649658203,pipeline,casual,high
+I think that,4.0,casual_high_emotion,honestly,14483,-2.768291711807251,-2.7931108474731445,0.024819135665893555,pipeline,casual,high
+I think that,4.0,casual_high_emotion,really,1196,-1.328944444656372,-1.337662696838379,0.008718252182006836,pipeline,casual,high
+I think that,4.0,casual_high_emotion,absolutely,6270,-4.648399829864502,-4.670577526092529,0.022177696228027344,pipeline,casual,high
+I think that,4.0,casual_high_emotion,incredibly,9301,-5.095749855041504,-5.105256080627441,0.0095062255859375,pipeline,casual,high
+I think that,15.0,formal_low_emotion,perhaps,4153,0.23765742778778076,0.2058122158050537,0.03184521198272705,pipeline,formal,low
+I think that,15.0,formal_low_emotion,may,754,-2.786134719848633,-2.8037004470825195,0.01756572723388672,pipeline,formal,low
+I think that,15.0,formal_low_emotion,however,2480,-3.893256187438965,-3.915515661239624,0.02225947380065918,pipeline,formal,low
+I think that,15.0,formal_low_emotion,therefore,4320,-4.226924896240234,-4.266677379608154,0.03975248336791992,pipeline,formal,low
+I think that,15.0,formal_low_emotion,consequently,23995,-4.973670482635498,-5.0176591873168945,0.043988704681396484,pipeline,formal,low
+I think that,15.0,formal_low_emotion,moreover,541,-2.818154811859131,-2.8419508934020996,0.02379608154296875,pipeline,formal,low
+I think that,15.0,formal_low_emotion,accordingly,17159,-7.211606025695801,-7.259634017944336,0.048027992248535156,pipeline,formal,low
+I think that,15.0,formal_low_emotion,furthermore,2134,-3.0220417976379395,-3.0227437019348145,0.000701904296875,pipeline,formal,low
+I think that,15.0,formal_high_emotion,profoundly,29160,-7.603785514831543,-7.630092144012451,0.026306629180908203,pipeline,formal,high
+I think that,15.0,formal_high_emotion,devastated,27668,-8.44425106048584,-8.46481704711914,0.02056598663330078,pipeline,formal,high
+I think that,15.0,formal_high_emotion,magnificent,16773,-6.400876522064209,-6.454354286193848,0.05347776412963867,pipeline,formal,high
+I think that,15.0,formal_high_emotion,appalling,573,-4.761038303375244,-4.783796787261963,0.02275848388671875,pipeline,formal,high
+I think that,15.0,formal_high_emotion,extraordinary,10035,-4.57179069519043,-4.591492176055908,0.019701480865478516,pipeline,formal,high
+I think that,15.0,formal_high_emotion,overwhelming,11734,-5.351828575134277,-5.379208087921143,0.027379512786865234,pipeline,formal,high
+I think that,15.0,formal_high_emotion,catastrophic,24769,-7.193340301513672,-7.234724044799805,0.04138374328613281,pipeline,formal,high
+I think that,15.0,formal_high_emotion,triumphant,15511,-4.320149898529053,-4.358185768127441,0.03803586959838867,pipeline,formal,high
+I think that,15.0,casual_low_emotion,yeah,12191,-5.163303852081299,-5.221872329711914,0.058568477630615234,pipeline,casual,low
+I think that,15.0,casual_low_emotion,okay,10989,-4.055922508239746,-4.08888053894043,0.032958030700683594,pipeline,casual,low
+I think that,15.0,casual_low_emotion,kinda,21775,-3.784029960632324,-3.7865092754364014,0.0024793148040771484,pipeline,casual,low
+I think that,15.0,casual_low_emotion,basically,8087,-4.421438217163086,-4.468190670013428,0.0467524528503418,pipeline,casual,low
+I think that,15.0,casual_low_emotion,anyway,8668,-1.9048583507537842,-1.9663965702056885,0.0615382194519043,pipeline,casual,low
+I think that,15.0,casual_low_emotion,whatever,5193,-1.5574562549591064,-1.578244686126709,0.02078843116760254,pipeline,casual,low
+I think that,15.0,casual_low_emotion,guess,5310,-7.451634883880615,-7.473904132843018,0.022269248962402344,pipeline,casual,low
+I think that,15.0,casual_low_emotion,stuff,4269,-4.774716377258301,-4.813152313232422,0.038435935974121094,pipeline,casual,low
+I think that,15.0,casual_high_emotion,OMG,21978,-3.991661548614502,-4.02517032623291,0.0335087776184082,pipeline,casual,high
+I think that,15.0,casual_high_emotion,totally,7110,-5.0630364418029785,-5.0995025634765625,0.036466121673583984,pipeline,casual,high
+I think that,15.0,casual_high_emotion,literally,8642,-3.6874141693115234,-3.7345478534698486,0.047133684158325195,pipeline,casual,high
+I think that,15.0,casual_high_emotion,seriously,7580,-5.060841083526611,-5.117851734161377,0.057010650634765625,pipeline,casual,high
+I think that,15.0,casual_high_emotion,honestly,14483,-2.732296943664551,-2.7931108474731445,0.06081390380859375,pipeline,casual,high
+I think that,15.0,casual_high_emotion,really,1196,-1.3039361238479614,-1.337662696838379,0.03372657299041748,pipeline,casual,high
+I think that,15.0,casual_high_emotion,absolutely,6270,-4.624489784240723,-4.670577526092529,0.04608774185180664,pipeline,casual,high
+I think that,15.0,casual_high_emotion,incredibly,9301,-5.071290016174316,-5.105256080627441,0.033966064453125,pipeline,casual,high
+The situation is,-15.0,formal_low_emotion,perhaps,4153,0.3754758834838867,0.45963501930236816,-0.08415913581848145,pipeline,formal,low
+The situation is,-15.0,formal_low_emotion,may,754,-0.16366618871688843,0.1397370994091034,-0.3034032881259918,pipeline,formal,low
+The situation is,-15.0,formal_low_emotion,however,2480,0.21386852860450745,0.18501636385917664,0.02885216474533081,pipeline,formal,low
+The situation is,-15.0,formal_low_emotion,therefore,4320,-1.52405846118927,-1.0305018424987793,-0.4935566186904907,pipeline,formal,low
+The situation is,-15.0,formal_low_emotion,consequently,23995,-4.4317779541015625,-3.9954416751861572,-0.4363362789154053,pipeline,formal,low
+The situation is,-15.0,formal_low_emotion,moreover,541,2.5185296535491943,2.6562626361846924,-0.13773298263549805,pipeline,formal,low
+The situation is,-15.0,formal_low_emotion,accordingly,17159,-6.08790397644043,-5.582033157348633,-0.5058708190917969,pipeline,formal,low
+The situation is,-15.0,formal_low_emotion,furthermore,2134,3.7472264766693115,4.211295127868652,-0.4640686511993408,pipeline,formal,low
+The situation is,-15.0,formal_high_emotion,profoundly,29160,-4.933753967285156,-4.748511791229248,-0.1852421760559082,pipeline,formal,high
+The situation is,-15.0,formal_high_emotion,devastated,27668,-4.065517902374268,-3.724219799041748,-0.34129810333251953,pipeline,formal,high
+The situation is,-15.0,formal_high_emotion,magnificent,16773,-6.140216827392578,-6.091681957244873,-0.04853487014770508,pipeline,formal,high
+The situation is,-15.0,formal_high_emotion,appalling,573,-0.3823598623275757,-0.3455497622489929,-0.036810100078582764,pipeline,formal,high
+The situation is,-15.0,formal_high_emotion,extraordinary,10035,-0.39037561416625977,-0.2890723943710327,-0.10130321979522705,pipeline,formal,high
+The situation is,-15.0,formal_high_emotion,overwhelming,11734,0.04917903244495392,0.3397325277328491,-0.2905534952878952,pipeline,formal,high
+The situation is,-15.0,formal_high_emotion,catastrophic,24769,-1.5493297576904297,-1.111100673675537,-0.4382290840148926,pipeline,formal,high
+The situation is,-15.0,formal_high_emotion,triumphant,15511,-6.323909759521484,-6.298599720001221,-0.025310039520263672,pipeline,formal,high
+The situation is,-15.0,casual_low_emotion,yeah,12191,-6.00124454498291,-5.949758529663086,-0.05148601531982422,pipeline,casual,low
+The situation is,-15.0,casual_low_emotion,okay,10989,-0.1876976191997528,-0.139857679605484,-0.0478399395942688,pipeline,casual,low
+The situation is,-15.0,casual_low_emotion,kinda,21775,-2.046319007873535,-1.6276700496673584,-0.41864895820617676,pipeline,casual,low
+The situation is,-15.0,casual_low_emotion,basically,8087,-1.4350903034210205,-1.2645151615142822,-0.17057514190673828,pipeline,casual,low
+The situation is,-15.0,casual_low_emotion,anyway,8668,-2.212712287902832,-2.0300707817077637,-0.18264150619506836,pipeline,casual,low
+The situation is,-15.0,casual_low_emotion,whatever,5193,-6.893040180206299,-7.154359340667725,0.2613191604614258,pipeline,casual,low
+The situation is,-15.0,casual_low_emotion,guess,5310,-2.9748120307922363,-2.4486775398254395,-0.5261344909667969,pipeline,casual,low
+The situation is,-15.0,casual_low_emotion,stuff,4269,-6.258098602294922,-6.041114807128906,-0.21698379516601562,pipeline,casual,low
+The situation is,-15.0,casual_high_emotion,OMG,21978,-1.8048710823059082,-1.6249549388885498,-0.1799161434173584,pipeline,casual,high
+The situation is,-15.0,casual_high_emotion,totally,7110,0.8288779258728027,1.113581657409668,-0.28470373153686523,pipeline,casual,high
+The situation is,-15.0,casual_high_emotion,literally,8642,-0.0706319808959961,0.32985711097717285,-0.40048909187316895,pipeline,casual,high
+The situation is,-15.0,casual_high_emotion,seriously,7580,0.06885170936584473,0.1495804488658905,-0.08072873950004578,pipeline,casual,high
+The situation is,-15.0,casual_high_emotion,honestly,14483,-1.9972190856933594,-1.8231734037399292,-0.17404568195343018,pipeline,casual,high
+The situation is,-15.0,casual_high_emotion,really,1196,3.603976011276245,3.9268295764923096,-0.32285356521606445,pipeline,casual,high
+The situation is,-15.0,casual_high_emotion,absolutely,6270,0.4524591267108917,0.9093612432479858,-0.4569021165370941,pipeline,casual,high
+The situation is,-15.0,casual_high_emotion,incredibly,9301,1.0591459274291992,1.3703346252441406,-0.3111886978149414,pipeline,casual,high
+The situation is,4.0,formal_low_emotion,perhaps,4153,0.4628326892852783,0.45963501930236816,0.0031976699829101562,pipeline,formal,low
+The situation is,4.0,formal_low_emotion,may,754,0.14051523804664612,0.1397370994091034,0.0007781386375427246,pipeline,formal,low
+The situation is,4.0,formal_low_emotion,however,2480,0.19213470816612244,0.18501636385917664,0.007118344306945801,pipeline,formal,low
+The situation is,4.0,formal_low_emotion,therefore,4320,-1.0143952369689941,-1.0305018424987793,0.016106605529785156,pipeline,formal,low
+The situation is,4.0,formal_low_emotion,consequently,23995,-3.9811573028564453,-3.9954416751861572,0.014284372329711914,pipeline,formal,low
+The situation is,4.0,formal_low_emotion,moreover,541,2.6606359481811523,2.6562626361846924,0.004373311996459961,pipeline,formal,low
+The situation is,4.0,formal_low_emotion,accordingly,17159,-5.563076496124268,-5.582033157348633,0.018956661224365234,pipeline,formal,low
+The situation is,4.0,formal_low_emotion,furthermore,2134,4.223536014556885,4.211295127868652,0.012240886688232422,pipeline,formal,low
+The situation is,4.0,formal_high_emotion,profoundly,29160,-4.739078521728516,-4.748511791229248,0.009433269500732422,pipeline,formal,high
+The situation is,4.0,formal_high_emotion,devastated,27668,-3.71665096282959,-3.724219799041748,0.007568836212158203,pipeline,formal,high
+The situation is,4.0,formal_high_emotion,magnificent,16773,-6.086584091186523,-6.091681957244873,0.005097866058349609,pipeline,formal,high
+The situation is,4.0,formal_high_emotion,appalling,573,-0.3328379988670349,-0.3455497622489929,0.012711763381958008,pipeline,formal,high
+The situation is,4.0,formal_high_emotion,extraordinary,10035,-0.2805480360984802,-0.2890723943710327,0.00852435827255249,pipeline,formal,high
+The situation is,4.0,formal_high_emotion,overwhelming,11734,0.35086631774902344,0.3397325277328491,0.011133790016174316,pipeline,formal,high
+The situation is,4.0,formal_high_emotion,catastrophic,24769,-1.0980623960494995,-1.111100673675537,0.013038277626037598,pipeline,formal,high
+The situation is,4.0,formal_high_emotion,triumphant,15511,-6.290909767150879,-6.298599720001221,0.007689952850341797,pipeline,formal,high
+The situation is,4.0,casual_low_emotion,yeah,12191,-5.947887420654297,-5.949758529663086,0.0018711090087890625,pipeline,casual,low
+The situation is,4.0,casual_low_emotion,okay,10989,-0.13601014018058777,-0.139857679605484,0.0038475394248962402,pipeline,casual,low
+The situation is,4.0,casual_low_emotion,kinda,21775,-1.6239216327667236,-1.6276700496673584,0.0037484169006347656,pipeline,casual,low
+The situation is,4.0,casual_low_emotion,basically,8087,-1.2535450458526611,-1.2645151615142822,0.010970115661621094,pipeline,casual,low
+The situation is,4.0,casual_low_emotion,anyway,8668,-2.024813652038574,-2.0300707817077637,0.005257129669189453,pipeline,casual,low
+The situation is,4.0,casual_low_emotion,whatever,5193,-7.159708023071289,-7.154359340667725,-0.005348682403564453,pipeline,casual,low
+The situation is,4.0,casual_low_emotion,guess,5310,-2.4422659873962402,-2.4486775398254395,0.006411552429199219,pipeline,casual,low
+The situation is,4.0,casual_low_emotion,stuff,4269,-6.0326337814331055,-6.041114807128906,0.008481025695800781,pipeline,casual,low
+The situation is,4.0,casual_high_emotion,OMG,21978,-1.6208150386810303,-1.6249549388885498,0.004139900207519531,pipeline,casual,high
+The situation is,4.0,casual_high_emotion,totally,7110,1.126035451889038,1.113581657409668,0.012453794479370117,pipeline,casual,high
+The situation is,4.0,casual_high_emotion,literally,8642,0.3410675525665283,0.32985711097717285,0.011210441589355469,pipeline,casual,high
+The situation is,4.0,casual_high_emotion,seriously,7580,0.1496429145336151,0.1495804488658905,6.246566772460938e-05,pipeline,casual,high
+The situation is,4.0,casual_high_emotion,honestly,14483,-1.8088300228118896,-1.8231734037399292,0.01434338092803955,pipeline,casual,high
+The situation is,4.0,casual_high_emotion,really,1196,3.933192253112793,3.9268295764923096,0.0063626766204833984,pipeline,casual,high
+The situation is,4.0,casual_high_emotion,absolutely,6270,0.9226509928703308,0.9093612432479858,0.01328974962234497,pipeline,casual,high
+The situation is,4.0,casual_high_emotion,incredibly,9301,1.378103494644165,1.3703346252441406,0.007768869400024414,pipeline,casual,high
+The situation is,1.0,formal_low_emotion,perhaps,4153,0.45963501930236816,0.45963501930236816,0.0,pipeline,formal,low
+The situation is,1.0,formal_low_emotion,may,754,0.1397370994091034,0.1397370994091034,0.0,pipeline,formal,low
+The situation is,1.0,formal_low_emotion,however,2480,0.18501636385917664,0.18501636385917664,0.0,pipeline,formal,low
+The situation is,1.0,formal_low_emotion,therefore,4320,-1.0305018424987793,-1.0305018424987793,0.0,pipeline,formal,low
+The situation is,1.0,formal_low_emotion,consequently,23995,-3.9954416751861572,-3.9954416751861572,0.0,pipeline,formal,low
+The situation is,1.0,formal_low_emotion,moreover,541,2.6562626361846924,2.6562626361846924,0.0,pipeline,formal,low
+The situation is,1.0,formal_low_emotion,accordingly,17159,-5.582033157348633,-5.582033157348633,0.0,pipeline,formal,low
+The situation is,1.0,formal_low_emotion,furthermore,2134,4.211295127868652,4.211295127868652,0.0,pipeline,formal,low
+The situation is,1.0,formal_high_emotion,profoundly,29160,-4.748511791229248,-4.748511791229248,0.0,pipeline,formal,high
+The situation is,1.0,formal_high_emotion,devastated,27668,-3.724219799041748,-3.724219799041748,0.0,pipeline,formal,high
+The situation is,1.0,formal_high_emotion,magnificent,16773,-6.091681957244873,-6.091681957244873,0.0,pipeline,formal,high
+The situation is,1.0,formal_high_emotion,appalling,573,-0.3455497622489929,-0.3455497622489929,0.0,pipeline,formal,high
+The situation is,1.0,formal_high_emotion,extraordinary,10035,-0.2890723943710327,-0.2890723943710327,0.0,pipeline,formal,high
+The situation is,1.0,formal_high_emotion,overwhelming,11734,0.3397325277328491,0.3397325277328491,0.0,pipeline,formal,high
+The situation is,1.0,formal_high_emotion,catastrophic,24769,-1.111100673675537,-1.111100673675537,0.0,pipeline,formal,high
+The situation is,1.0,formal_high_emotion,triumphant,15511,-6.298599720001221,-6.298599720001221,0.0,pipeline,formal,high
+The situation is,1.0,casual_low_emotion,yeah,12191,-5.949758529663086,-5.949758529663086,0.0,pipeline,casual,low
+The situation is,1.0,casual_low_emotion,okay,10989,-0.139857679605484,-0.139857679605484,0.0,pipeline,casual,low
+The situation is,1.0,casual_low_emotion,kinda,21775,-1.6276700496673584,-1.6276700496673584,0.0,pipeline,casual,low
+The situation is,1.0,casual_low_emotion,basically,8087,-1.2645151615142822,-1.2645151615142822,0.0,pipeline,casual,low
+The situation is,1.0,casual_low_emotion,anyway,8668,-2.0300707817077637,-2.0300707817077637,0.0,pipeline,casual,low
+The situation is,1.0,casual_low_emotion,whatever,5193,-7.154359340667725,-7.154359340667725,0.0,pipeline,casual,low
+The situation is,1.0,casual_low_emotion,guess,5310,-2.4486775398254395,-2.4486775398254395,0.0,pipeline,casual,low
+The situation is,1.0,casual_low_emotion,stuff,4269,-6.041114807128906,-6.041114807128906,0.0,pipeline,casual,low
+The situation is,1.0,casual_high_emotion,OMG,21978,-1.6249549388885498,-1.6249549388885498,0.0,pipeline,casual,high
+The situation is,1.0,casual_high_emotion,totally,7110,1.113581657409668,1.113581657409668,0.0,pipeline,casual,high
+The situation is,1.0,casual_high_emotion,literally,8642,0.32985711097717285,0.32985711097717285,0.0,pipeline,casual,high
+The situation is,1.0,casual_high_emotion,seriously,7580,0.1495804488658905,0.1495804488658905,0.0,pipeline,casual,high
+The situation is,1.0,casual_high_emotion,honestly,14483,-1.8231734037399292,-1.8231734037399292,0.0,pipeline,casual,high
+The situation is,1.0,casual_high_emotion,really,1196,3.9268295764923096,3.9268295764923096,0.0,pipeline,casual,high
+The situation is,1.0,casual_high_emotion,absolutely,6270,0.9093612432479858,0.9093612432479858,0.0,pipeline,casual,high
+The situation is,1.0,casual_high_emotion,incredibly,9301,1.3703346252441406,1.3703346252441406,0.0,pipeline,casual,high
+The situation is,4.0,formal_low_emotion,perhaps,4153,0.4628326892852783,0.45963501930236816,0.0031976699829101562,pipeline,formal,low
+The situation is,4.0,formal_low_emotion,may,754,0.14051523804664612,0.1397370994091034,0.0007781386375427246,pipeline,formal,low
+The situation is,4.0,formal_low_emotion,however,2480,0.19213470816612244,0.18501636385917664,0.007118344306945801,pipeline,formal,low
+The situation is,4.0,formal_low_emotion,therefore,4320,-1.0143952369689941,-1.0305018424987793,0.016106605529785156,pipeline,formal,low
+The situation is,4.0,formal_low_emotion,consequently,23995,-3.9811573028564453,-3.9954416751861572,0.014284372329711914,pipeline,formal,low
+The situation is,4.0,formal_low_emotion,moreover,541,2.6606359481811523,2.6562626361846924,0.004373311996459961,pipeline,formal,low
+The situation is,4.0,formal_low_emotion,accordingly,17159,-5.563076496124268,-5.582033157348633,0.018956661224365234,pipeline,formal,low
+The situation is,4.0,formal_low_emotion,furthermore,2134,4.223536014556885,4.211295127868652,0.012240886688232422,pipeline,formal,low
+The situation is,4.0,formal_high_emotion,profoundly,29160,-4.739078521728516,-4.748511791229248,0.009433269500732422,pipeline,formal,high
+The situation is,4.0,formal_high_emotion,devastated,27668,-3.71665096282959,-3.724219799041748,0.007568836212158203,pipeline,formal,high
+The situation is,4.0,formal_high_emotion,magnificent,16773,-6.086584091186523,-6.091681957244873,0.005097866058349609,pipeline,formal,high
+The situation is,4.0,formal_high_emotion,appalling,573,-0.3328379988670349,-0.3455497622489929,0.012711763381958008,pipeline,formal,high
+The situation is,4.0,formal_high_emotion,extraordinary,10035,-0.2805480360984802,-0.2890723943710327,0.00852435827255249,pipeline,formal,high
+The situation is,4.0,formal_high_emotion,overwhelming,11734,0.35086631774902344,0.3397325277328491,0.011133790016174316,pipeline,formal,high
+The situation is,4.0,formal_high_emotion,catastrophic,24769,-1.0980623960494995,-1.111100673675537,0.013038277626037598,pipeline,formal,high
+The situation is,4.0,formal_high_emotion,triumphant,15511,-6.290909767150879,-6.298599720001221,0.007689952850341797,pipeline,formal,high
+The situation is,4.0,casual_low_emotion,yeah,12191,-5.947887420654297,-5.949758529663086,0.0018711090087890625,pipeline,casual,low
+The situation is,4.0,casual_low_emotion,okay,10989,-0.13601014018058777,-0.139857679605484,0.0038475394248962402,pipeline,casual,low
+The situation is,4.0,casual_low_emotion,kinda,21775,-1.6239216327667236,-1.6276700496673584,0.0037484169006347656,pipeline,casual,low
+The situation is,4.0,casual_low_emotion,basically,8087,-1.2535450458526611,-1.2645151615142822,0.010970115661621094,pipeline,casual,low
+The situation is,4.0,casual_low_emotion,anyway,8668,-2.024813652038574,-2.0300707817077637,0.005257129669189453,pipeline,casual,low
+The situation is,4.0,casual_low_emotion,whatever,5193,-7.159708023071289,-7.154359340667725,-0.005348682403564453,pipeline,casual,low
+The situation is,4.0,casual_low_emotion,guess,5310,-2.4422659873962402,-2.4486775398254395,0.006411552429199219,pipeline,casual,low
+The situation is,4.0,casual_low_emotion,stuff,4269,-6.0326337814331055,-6.041114807128906,0.008481025695800781,pipeline,casual,low
+The situation is,4.0,casual_high_emotion,OMG,21978,-1.6208150386810303,-1.6249549388885498,0.004139900207519531,pipeline,casual,high
+The situation is,4.0,casual_high_emotion,totally,7110,1.126035451889038,1.113581657409668,0.012453794479370117,pipeline,casual,high
+The situation is,4.0,casual_high_emotion,literally,8642,0.3410675525665283,0.32985711097717285,0.011210441589355469,pipeline,casual,high
+The situation is,4.0,casual_high_emotion,seriously,7580,0.1496429145336151,0.1495804488658905,6.246566772460938e-05,pipeline,casual,high
+The situation is,4.0,casual_high_emotion,honestly,14483,-1.8088300228118896,-1.8231734037399292,0.01434338092803955,pipeline,casual,high
+The situation is,4.0,casual_high_emotion,really,1196,3.933192253112793,3.9268295764923096,0.0063626766204833984,pipeline,casual,high
+The situation is,4.0,casual_high_emotion,absolutely,6270,0.9226509928703308,0.9093612432479858,0.01328974962234497,pipeline,casual,high
+The situation is,4.0,casual_high_emotion,incredibly,9301,1.378103494644165,1.3703346252441406,0.007768869400024414,pipeline,casual,high
+The situation is,15.0,formal_low_emotion,perhaps,4153,0.4676405191421509,0.45963501930236816,0.008005499839782715,pipeline,formal,low
+The situation is,15.0,formal_low_emotion,may,754,0.153681218624115,0.1397370994091034,0.013944119215011597,pipeline,formal,low
+The situation is,15.0,formal_low_emotion,however,2480,0.20075613260269165,0.18501636385917664,0.015739768743515015,pipeline,formal,low
+The situation is,15.0,formal_low_emotion,therefore,4320,-1.0079267024993896,-1.0305018424987793,0.02257513999938965,pipeline,formal,low
+The situation is,15.0,formal_low_emotion,consequently,23995,-3.960542917251587,-3.9954416751861572,0.03489875793457031,pipeline,formal,low
+The situation is,15.0,formal_low_emotion,moreover,541,2.6714820861816406,2.6562626361846924,0.015219449996948242,pipeline,formal,low
+The situation is,15.0,formal_low_emotion,accordingly,17159,-5.541057586669922,-5.582033157348633,0.04097557067871094,pipeline,formal,low
+The situation is,15.0,formal_low_emotion,furthermore,2134,4.242606163024902,4.211295127868652,0.03131103515625,pipeline,formal,low
+The situation is,15.0,formal_high_emotion,profoundly,29160,-4.7314133644104,-4.748511791229248,0.017098426818847656,pipeline,formal,high
+The situation is,15.0,formal_high_emotion,devastated,27668,-3.7081589698791504,-3.724219799041748,0.016060829162597656,pipeline,formal,high
+The situation is,15.0,formal_high_emotion,magnificent,16773,-6.086413383483887,-6.091681957244873,0.005268573760986328,pipeline,formal,high
+The situation is,15.0,formal_high_emotion,appalling,573,-0.32081252336502075,-0.3455497622489929,0.024737238883972168,pipeline,formal,high
+The situation is,15.0,formal_high_emotion,extraordinary,10035,-0.2773377299308777,-0.2890723943710327,0.01173466444015503,pipeline,formal,high
+The situation is,15.0,formal_high_emotion,overwhelming,11734,0.36077696084976196,0.3397325277328491,0.021044433116912842,pipeline,formal,high
+The situation is,15.0,formal_high_emotion,catastrophic,24769,-1.0833642482757568,-1.111100673675537,0.027736425399780273,pipeline,formal,high
+The situation is,15.0,formal_high_emotion,triumphant,15511,-6.287134647369385,-6.298599720001221,0.011465072631835938,pipeline,formal,high
+The situation is,15.0,casual_low_emotion,yeah,12191,-5.941412925720215,-5.949758529663086,0.008345603942871094,pipeline,casual,low
+The situation is,15.0,casual_low_emotion,okay,10989,-0.13655146956443787,-0.139857679605484,0.0033062100410461426,pipeline,casual,low
+The situation is,15.0,casual_low_emotion,kinda,21775,-1.6151857376098633,-1.6276700496673584,0.012484312057495117,pipeline,casual,low
+The situation is,15.0,casual_low_emotion,basically,8087,-1.2385814189910889,-1.2645151615142822,0.02593374252319336,pipeline,casual,low
+The situation is,15.0,casual_low_emotion,anyway,8668,-2.0157408714294434,-2.0300707817077637,0.014329910278320312,pipeline,casual,low
+The situation is,15.0,casual_low_emotion,whatever,5193,-7.166983127593994,-7.154359340667725,-0.012623786926269531,pipeline,casual,low
+The situation is,15.0,casual_low_emotion,guess,5310,-2.438546657562256,-2.4486775398254395,0.010130882263183594,pipeline,casual,low
+The situation is,15.0,casual_low_emotion,stuff,4269,-6.027653217315674,-6.041114807128906,0.013461589813232422,pipeline,casual,low
+The situation is,15.0,casual_high_emotion,OMG,21978,-1.6108057498931885,-1.6249549388885498,0.014149188995361328,pipeline,casual,high
+The situation is,15.0,casual_high_emotion,totally,7110,1.1316159963607788,1.113581657409668,0.01803433895111084,pipeline,casual,high
+The situation is,15.0,casual_high_emotion,literally,8642,0.35259246826171875,0.32985711097717285,0.0227353572845459,pipeline,casual,high
+The situation is,15.0,casual_high_emotion,seriously,7580,0.15699845552444458,0.1495804488658905,0.007418006658554077,pipeline,casual,high
+The situation is,15.0,casual_high_emotion,honestly,14483,-1.8028677701950073,-1.8231734037399292,0.020305633544921875,pipeline,casual,high
+The situation is,15.0,casual_high_emotion,really,1196,3.9410476684570312,3.9268295764923096,0.01421809196472168,pipeline,casual,high
+The situation is,15.0,casual_high_emotion,absolutely,6270,0.9263944625854492,0.9093612432479858,0.01703321933746338,pipeline,casual,high
+The situation is,15.0,casual_high_emotion,incredibly,9301,1.3845601081848145,1.3703346252441406,0.014225482940673828,pipeline,casual,high
+My opinion on this is,-15.0,formal_low_emotion,perhaps,4153,-0.6563965082168579,-0.6530513763427734,-0.0033451318740844727,pipeline,formal,low
+My opinion on this is,-15.0,formal_low_emotion,may,754,-1.0873959064483643,-1.0665335655212402,-0.020862340927124023,pipeline,formal,low
+My opinion on this is,-15.0,formal_low_emotion,however,2480,0.3908029794692993,0.27894127368927,0.1118617057800293,pipeline,formal,low
+My opinion on this is,-15.0,formal_low_emotion,therefore,4320,-1.9059573411941528,-1.493159532546997,-0.41279780864715576,pipeline,formal,low
+My opinion on this is,-15.0,formal_low_emotion,consequently,23995,-5.871809005737305,-5.66140079498291,-0.21040821075439453,pipeline,formal,low
+My opinion on this is,-15.0,formal_low_emotion,moreover,541,2.1270053386688232,2.185621976852417,-0.05861663818359375,pipeline,formal,low
+My opinion on this is,-15.0,formal_low_emotion,accordingly,17159,-5.191069602966309,-5.066076278686523,-0.12499332427978516,pipeline,formal,low
+My opinion on this is,-15.0,formal_low_emotion,furthermore,2134,1.689178466796875,1.6190004348754883,0.07017803192138672,pipeline,formal,low
+My opinion on this is,-15.0,formal_high_emotion,profoundly,29160,-3.4728565216064453,-3.5843353271484375,0.11147880554199219,pipeline,formal,high
+My opinion on this is,-15.0,formal_high_emotion,devastated,27668,-5.961245536804199,-6.053213596343994,0.09196805953979492,pipeline,formal,high
+My opinion on this is,-15.0,formal_high_emotion,magnificent,16773,-7.764589309692383,-7.636904239654541,-0.1276850700378418,pipeline,formal,high
+My opinion on this is,-15.0,formal_high_emotion,appalling,573,-2.356221914291382,-2.1583240032196045,-0.19789791107177734,pipeline,formal,high
+My opinion on this is,-15.0,formal_high_emotion,extraordinary,10035,-6.207209587097168,-6.540251731872559,0.3330421447753906,pipeline,formal,high
+My opinion on this is,-15.0,formal_high_emotion,overwhelming,11734,-2.2704033851623535,-2.524343252182007,0.2539398670196533,pipeline,formal,high
+My opinion on this is,-15.0,formal_high_emotion,catastrophic,24769,-8.598031044006348,-8.417057991027832,-0.18097305297851562,pipeline,formal,high
+My opinion on this is,-15.0,formal_high_emotion,triumphant,15511,-6.975988864898682,-7.073696136474609,0.09770727157592773,pipeline,formal,high
+My opinion on this is,-15.0,casual_low_emotion,yeah,12191,-2.328949213027954,-1.9917230606079102,-0.33722615242004395,pipeline,casual,low
+My opinion on this is,-15.0,casual_low_emotion,okay,10989,2.467014789581299,2.4675450325012207,-0.000530242919921875,pipeline,casual,low
+My opinion on this is,-15.0,casual_low_emotion,kinda,21775,1.9117822647094727,2.370185136795044,-0.4584028720855713,pipeline,casual,low
+My opinion on this is,-15.0,casual_low_emotion,basically,8087,2.767775058746338,3.003045082092285,-0.23527002334594727,pipeline,casual,low
+My opinion on this is,-15.0,casual_low_emotion,anyway,8668,-0.975550651550293,-0.7723385691642761,-0.20321208238601685,pipeline,casual,low
+My opinion on this is,-15.0,casual_low_emotion,whatever,5193,-0.746304988861084,-0.5858461856842041,-0.16045880317687988,pipeline,casual,low
+My opinion on this is,-15.0,casual_low_emotion,guess,5310,-1.0129115581512451,-0.9407533407211304,-0.07215821743011475,pipeline,casual,low
+My opinion on this is,-15.0,casual_low_emotion,stuff,4269,-4.207571983337402,-4.390328407287598,0.1827564239501953,pipeline,casual,low
+My opinion on this is,-15.0,casual_high_emotion,OMG,21978,-4.706395626068115,-4.685068130493164,-0.021327495574951172,pipeline,casual,high
+My opinion on this is,-15.0,casual_high_emotion,totally,7110,3.3477115631103516,3.8451995849609375,-0.49748802185058594,pipeline,casual,high
+My opinion on this is,-15.0,casual_high_emotion,literally,8642,-1.3585071563720703,-1.328357219696045,-0.03014993667602539,pipeline,casual,high
+My opinion on this is,-15.0,casual_high_emotion,seriously,7580,-0.45713484287261963,-0.6703555583953857,0.2132207155227661,pipeline,casual,high
+My opinion on this is,-15.0,casual_high_emotion,honestly,14483,0.858345627784729,1.4642746448516846,-0.6059290170669556,pipeline,casual,high
+My opinion on this is,-15.0,casual_high_emotion,really,1196,3.0072684288024902,3.1145431995391846,-0.10727477073669434,pipeline,casual,high
+My opinion on this is,-15.0,casual_high_emotion,absolutely,6270,-0.9051753878593445,-0.4787575602531433,-0.42641782760620117,pipeline,casual,high
+My opinion on this is,-15.0,casual_high_emotion,incredibly,9301,-2.1147780418395996,-2.0418953895568848,-0.07288265228271484,pipeline,casual,high
+My opinion on this is,4.0,formal_low_emotion,perhaps,4153,-0.6436511874198914,-0.6530513763427734,0.00940018892288208,pipeline,formal,low
+My opinion on this is,4.0,formal_low_emotion,may,754,-1.06171715259552,-1.0665335655212402,0.004816412925720215,pipeline,formal,low
+My opinion on this is,4.0,formal_low_emotion,however,2480,0.2829335331916809,0.27894127368927,0.003992259502410889,pipeline,formal,low
+My opinion on this is,4.0,formal_low_emotion,therefore,4320,-1.4863229990005493,-1.493159532546997,0.006836533546447754,pipeline,formal,low
+My opinion on this is,4.0,formal_low_emotion,consequently,23995,-5.65050745010376,-5.66140079498291,0.01089334487915039,pipeline,formal,low
+My opinion on this is,4.0,formal_low_emotion,moreover,541,2.1936233043670654,2.185621976852417,0.008001327514648438,pipeline,formal,low
+My opinion on this is,4.0,formal_low_emotion,accordingly,17159,-5.0506911277771,-5.066076278686523,0.015385150909423828,pipeline,formal,low
+My opinion on this is,4.0,formal_low_emotion,furthermore,2134,1.6312264204025269,1.6190004348754883,0.012225985527038574,pipeline,formal,low
+My opinion on this is,4.0,formal_high_emotion,profoundly,29160,-3.569150924682617,-3.5843353271484375,0.015184402465820312,pipeline,formal,high
+My opinion on this is,4.0,formal_high_emotion,devastated,27668,-6.047030925750732,-6.053213596343994,0.006182670593261719,pipeline,formal,high
+My opinion on this is,4.0,formal_high_emotion,magnificent,16773,-7.629154205322266,-7.636904239654541,0.007750034332275391,pipeline,formal,high
+My opinion on this is,4.0,formal_high_emotion,appalling,573,-2.1476399898529053,-2.1583240032196045,0.010684013366699219,pipeline,formal,high
+My opinion on this is,4.0,formal_high_emotion,extraordinary,10035,-6.532558917999268,-6.540251731872559,0.007692813873291016,pipeline,formal,high
+My opinion on this is,4.0,formal_high_emotion,overwhelming,11734,-2.5148563385009766,-2.524343252182007,0.009486913681030273,pipeline,formal,high
+My opinion on this is,4.0,formal_high_emotion,catastrophic,24769,-8.406277656555176,-8.417057991027832,0.01078033447265625,pipeline,formal,high
+My opinion on this is,4.0,formal_high_emotion,triumphant,15511,-7.071985244750977,-7.073696136474609,0.0017108917236328125,pipeline,formal,high
+My opinion on this is,4.0,casual_low_emotion,yeah,12191,-1.9811909198760986,-1.9917230606079102,0.010532140731811523,pipeline,casual,low
+My opinion on this is,4.0,casual_low_emotion,okay,10989,2.4799728393554688,2.4675450325012207,0.012427806854248047,pipeline,casual,low
+My opinion on this is,4.0,casual_low_emotion,kinda,21775,2.380166530609131,2.370185136795044,0.009981393814086914,pipeline,casual,low
+My opinion on this is,4.0,casual_low_emotion,basically,8087,3.018831729888916,3.003045082092285,0.01578664779663086,pipeline,casual,low
+My opinion on this is,4.0,casual_low_emotion,anyway,8668,-0.7638177275657654,-0.7723385691642761,0.008520841598510742,pipeline,casual,low
+My opinion on this is,4.0,casual_low_emotion,whatever,5193,-0.5869803428649902,-0.5858461856842041,-0.0011341571807861328,pipeline,casual,low
+My opinion on this is,4.0,casual_low_emotion,guess,5310,-0.9258691072463989,-0.9407533407211304,0.014884233474731445,pipeline,casual,low
+My opinion on this is,4.0,casual_low_emotion,stuff,4269,-4.378940582275391,-4.390328407287598,0.011387825012207031,pipeline,casual,low
+My opinion on this is,4.0,casual_high_emotion,OMG,21978,-4.682613372802734,-4.685068130493164,0.0024547576904296875,pipeline,casual,high
+My opinion on this is,4.0,casual_high_emotion,totally,7110,3.857572078704834,3.8451995849609375,0.012372493743896484,pipeline,casual,high
+My opinion on this is,4.0,casual_high_emotion,literally,8642,-1.3223659992218018,-1.328357219696045,0.005991220474243164,pipeline,casual,high
+My opinion on this is,4.0,casual_high_emotion,seriously,7580,-0.6592888832092285,-0.6703555583953857,0.011066675186157227,pipeline,casual,high
+My opinion on this is,4.0,casual_high_emotion,honestly,14483,1.4807173013687134,1.4642746448516846,0.01644265651702881,pipeline,casual,high
+My opinion on this is,4.0,casual_high_emotion,really,1196,3.1209418773651123,3.1145431995391846,0.006398677825927734,pipeline,casual,high
+My opinion on this is,4.0,casual_high_emotion,absolutely,6270,-0.46674782037734985,-0.4787575602531433,0.012009739875793457,pipeline,casual,high
+My opinion on this is,4.0,casual_high_emotion,incredibly,9301,-2.033827781677246,-2.0418953895568848,0.008067607879638672,pipeline,casual,high
+My opinion on this is,1.0,formal_low_emotion,perhaps,4153,-0.6530513763427734,-0.6530513763427734,0.0,pipeline,formal,low
+My opinion on this is,1.0,formal_low_emotion,may,754,-1.0665335655212402,-1.0665335655212402,0.0,pipeline,formal,low
+My opinion on this is,1.0,formal_low_emotion,however,2480,0.27894127368927,0.27894127368927,0.0,pipeline,formal,low
+My opinion on this is,1.0,formal_low_emotion,therefore,4320,-1.493159532546997,-1.493159532546997,0.0,pipeline,formal,low
+My opinion on this is,1.0,formal_low_emotion,consequently,23995,-5.66140079498291,-5.66140079498291,0.0,pipeline,formal,low
+My opinion on this is,1.0,formal_low_emotion,moreover,541,2.185621976852417,2.185621976852417,0.0,pipeline,formal,low
+My opinion on this is,1.0,formal_low_emotion,accordingly,17159,-5.066076278686523,-5.066076278686523,0.0,pipeline,formal,low
+My opinion on this is,1.0,formal_low_emotion,furthermore,2134,1.6190004348754883,1.6190004348754883,0.0,pipeline,formal,low
+My opinion on this is,1.0,formal_high_emotion,profoundly,29160,-3.5843353271484375,-3.5843353271484375,0.0,pipeline,formal,high
+My opinion on this is,1.0,formal_high_emotion,devastated,27668,-6.053213596343994,-6.053213596343994,0.0,pipeline,formal,high
+My opinion on this is,1.0,formal_high_emotion,magnificent,16773,-7.636904239654541,-7.636904239654541,0.0,pipeline,formal,high
+My opinion on this is,1.0,formal_high_emotion,appalling,573,-2.1583240032196045,-2.1583240032196045,0.0,pipeline,formal,high
+My opinion on this is,1.0,formal_high_emotion,extraordinary,10035,-6.540251731872559,-6.540251731872559,0.0,pipeline,formal,high
+My opinion on this is,1.0,formal_high_emotion,overwhelming,11734,-2.524343252182007,-2.524343252182007,0.0,pipeline,formal,high
+My opinion on this is,1.0,formal_high_emotion,catastrophic,24769,-8.417057991027832,-8.417057991027832,0.0,pipeline,formal,high
+My opinion on this is,1.0,formal_high_emotion,triumphant,15511,-7.073696136474609,-7.073696136474609,0.0,pipeline,formal,high
+My opinion on this is,1.0,casual_low_emotion,yeah,12191,-1.9917230606079102,-1.9917230606079102,0.0,pipeline,casual,low
+My opinion on this is,1.0,casual_low_emotion,okay,10989,2.4675450325012207,2.4675450325012207,0.0,pipeline,casual,low
+My opinion on this is,1.0,casual_low_emotion,kinda,21775,2.370185136795044,2.370185136795044,0.0,pipeline,casual,low
+My opinion on this is,1.0,casual_low_emotion,basically,8087,3.003045082092285,3.003045082092285,0.0,pipeline,casual,low
+My opinion on this is,1.0,casual_low_emotion,anyway,8668,-0.7723385691642761,-0.7723385691642761,0.0,pipeline,casual,low
+My opinion on this is,1.0,casual_low_emotion,whatever,5193,-0.5858461856842041,-0.5858461856842041,0.0,pipeline,casual,low
+My opinion on this is,1.0,casual_low_emotion,guess,5310,-0.9407533407211304,-0.9407533407211304,0.0,pipeline,casual,low
+My opinion on this is,1.0,casual_low_emotion,stuff,4269,-4.390328407287598,-4.390328407287598,0.0,pipeline,casual,low
+My opinion on this is,1.0,casual_high_emotion,OMG,21978,-4.685068130493164,-4.685068130493164,0.0,pipeline,casual,high
+My opinion on this is,1.0,casual_high_emotion,totally,7110,3.8451995849609375,3.8451995849609375,0.0,pipeline,casual,high
+My opinion on this is,1.0,casual_high_emotion,literally,8642,-1.328357219696045,-1.328357219696045,0.0,pipeline,casual,high
+My opinion on this is,1.0,casual_high_emotion,seriously,7580,-0.6703555583953857,-0.6703555583953857,0.0,pipeline,casual,high
+My opinion on this is,1.0,casual_high_emotion,honestly,14483,1.4642746448516846,1.4642746448516846,0.0,pipeline,casual,high
+My opinion on this is,1.0,casual_high_emotion,really,1196,3.1145431995391846,3.1145431995391846,0.0,pipeline,casual,high
+My opinion on this is,1.0,casual_high_emotion,absolutely,6270,-0.4787575602531433,-0.4787575602531433,0.0,pipeline,casual,high
+My opinion on this is,1.0,casual_high_emotion,incredibly,9301,-2.0418953895568848,-2.0418953895568848,0.0,pipeline,casual,high
+My opinion on this is,4.0,formal_low_emotion,perhaps,4153,-0.6436511874198914,-0.6530513763427734,0.00940018892288208,pipeline,formal,low
+My opinion on this is,4.0,formal_low_emotion,may,754,-1.06171715259552,-1.0665335655212402,0.004816412925720215,pipeline,formal,low
+My opinion on this is,4.0,formal_low_emotion,however,2480,0.2829335331916809,0.27894127368927,0.003992259502410889,pipeline,formal,low
+My opinion on this is,4.0,formal_low_emotion,therefore,4320,-1.4863229990005493,-1.493159532546997,0.006836533546447754,pipeline,formal,low
+My opinion on this is,4.0,formal_low_emotion,consequently,23995,-5.65050745010376,-5.66140079498291,0.01089334487915039,pipeline,formal,low
+My opinion on this is,4.0,formal_low_emotion,moreover,541,2.1936233043670654,2.185621976852417,0.008001327514648438,pipeline,formal,low
+My opinion on this is,4.0,formal_low_emotion,accordingly,17159,-5.0506911277771,-5.066076278686523,0.015385150909423828,pipeline,formal,low
+My opinion on this is,4.0,formal_low_emotion,furthermore,2134,1.6312264204025269,1.6190004348754883,0.012225985527038574,pipeline,formal,low
+My opinion on this is,4.0,formal_high_emotion,profoundly,29160,-3.569150924682617,-3.5843353271484375,0.015184402465820312,pipeline,formal,high
+My opinion on this is,4.0,formal_high_emotion,devastated,27668,-6.047030925750732,-6.053213596343994,0.006182670593261719,pipeline,formal,high
+My opinion on this is,4.0,formal_high_emotion,magnificent,16773,-7.629154205322266,-7.636904239654541,0.007750034332275391,pipeline,formal,high
+My opinion on this is,4.0,formal_high_emotion,appalling,573,-2.1476399898529053,-2.1583240032196045,0.010684013366699219,pipeline,formal,high
+My opinion on this is,4.0,formal_high_emotion,extraordinary,10035,-6.532558917999268,-6.540251731872559,0.007692813873291016,pipeline,formal,high
+My opinion on this is,4.0,formal_high_emotion,overwhelming,11734,-2.5148563385009766,-2.524343252182007,0.009486913681030273,pipeline,formal,high
+My opinion on this is,4.0,formal_high_emotion,catastrophic,24769,-8.406277656555176,-8.417057991027832,0.01078033447265625,pipeline,formal,high
+My opinion on this is,4.0,formal_high_emotion,triumphant,15511,-7.071985244750977,-7.073696136474609,0.0017108917236328125,pipeline,formal,high
+My opinion on this is,4.0,casual_low_emotion,yeah,12191,-1.9811909198760986,-1.9917230606079102,0.010532140731811523,pipeline,casual,low
+My opinion on this is,4.0,casual_low_emotion,okay,10989,2.4799728393554688,2.4675450325012207,0.012427806854248047,pipeline,casual,low
+My opinion on this is,4.0,casual_low_emotion,kinda,21775,2.380166530609131,2.370185136795044,0.009981393814086914,pipeline,casual,low
+My opinion on this is,4.0,casual_low_emotion,basically,8087,3.018831729888916,3.003045082092285,0.01578664779663086,pipeline,casual,low
+My opinion on this is,4.0,casual_low_emotion,anyway,8668,-0.7638177275657654,-0.7723385691642761,0.008520841598510742,pipeline,casual,low
+My opinion on this is,4.0,casual_low_emotion,whatever,5193,-0.5869803428649902,-0.5858461856842041,-0.0011341571807861328,pipeline,casual,low
+My opinion on this is,4.0,casual_low_emotion,guess,5310,-0.9258691072463989,-0.9407533407211304,0.014884233474731445,pipeline,casual,low
+My opinion on this is,4.0,casual_low_emotion,stuff,4269,-4.378940582275391,-4.390328407287598,0.011387825012207031,pipeline,casual,low
+My opinion on this is,4.0,casual_high_emotion,OMG,21978,-4.682613372802734,-4.685068130493164,0.0024547576904296875,pipeline,casual,high
+My opinion on this is,4.0,casual_high_emotion,totally,7110,3.857572078704834,3.8451995849609375,0.012372493743896484,pipeline,casual,high
+My opinion on this is,4.0,casual_high_emotion,literally,8642,-1.3223659992218018,-1.328357219696045,0.005991220474243164,pipeline,casual,high
+My opinion on this is,4.0,casual_high_emotion,seriously,7580,-0.6592888832092285,-0.6703555583953857,0.011066675186157227,pipeline,casual,high
+My opinion on this is,4.0,casual_high_emotion,honestly,14483,1.4807173013687134,1.4642746448516846,0.01644265651702881,pipeline,casual,high
+My opinion on this is,4.0,casual_high_emotion,really,1196,3.1209418773651123,3.1145431995391846,0.006398677825927734,pipeline,casual,high
+My opinion on this is,4.0,casual_high_emotion,absolutely,6270,-0.46674782037734985,-0.4787575602531433,0.012009739875793457,pipeline,casual,high
+My opinion on this is,4.0,casual_high_emotion,incredibly,9301,-2.033827781677246,-2.0418953895568848,0.008067607879638672,pipeline,casual,high
+My opinion on this is,15.0,formal_low_emotion,perhaps,4153,-0.6290044784545898,-0.6530513763427734,0.024046897888183594,pipeline,formal,low
+My opinion on this is,15.0,formal_low_emotion,may,754,-1.0440123081207275,-1.0665335655212402,0.022521257400512695,pipeline,formal,low
+My opinion on this is,15.0,formal_low_emotion,however,2480,0.29672205448150635,0.27894127368927,0.017780780792236328,pipeline,formal,low
+My opinion on this is,15.0,formal_low_emotion,therefore,4320,-1.4832136631011963,-1.493159532546997,0.009945869445800781,pipeline,formal,low
+My opinion on this is,15.0,formal_low_emotion,consequently,23995,-5.640361785888672,-5.66140079498291,0.02103900909423828,pipeline,formal,low
+My opinion on this is,15.0,formal_low_emotion,moreover,541,2.206141948699951,2.185621976852417,0.02051997184753418,pipeline,formal,low
+My opinion on this is,15.0,formal_low_emotion,accordingly,17159,-5.026856899261475,-5.066076278686523,0.03921937942504883,pipeline,formal,low
+My opinion on this is,15.0,formal_low_emotion,furthermore,2134,1.6507928371429443,1.6190004348754883,0.031792402267456055,pipeline,formal,low
+My opinion on this is,15.0,formal_high_emotion,profoundly,29160,-3.547360420227051,-3.5843353271484375,0.03697490692138672,pipeline,formal,high
+My opinion on this is,15.0,formal_high_emotion,devastated,27668,-6.031755447387695,-6.053213596343994,0.021458148956298828,pipeline,formal,high
+My opinion on this is,15.0,formal_high_emotion,magnificent,16773,-7.626501560211182,-7.636904239654541,0.010402679443359375,pipeline,formal,high
+My opinion on this is,15.0,formal_high_emotion,appalling,573,-2.1386067867279053,-2.1583240032196045,0.01971721649169922,pipeline,formal,high
+My opinion on this is,15.0,formal_high_emotion,extraordinary,10035,-6.525670528411865,-6.540251731872559,0.01458120346069336,pipeline,formal,high
+My opinion on this is,15.0,formal_high_emotion,overwhelming,11734,-2.4990200996398926,-2.524343252182007,0.025323152542114258,pipeline,formal,high
+My opinion on this is,15.0,formal_high_emotion,catastrophic,24769,-8.395042419433594,-8.417057991027832,0.02201557159423828,pipeline,formal,high
+My opinion on this is,15.0,formal_high_emotion,triumphant,15511,-7.071937561035156,-7.073696136474609,0.001758575439453125,pipeline,formal,high
+My opinion on this is,15.0,casual_low_emotion,yeah,12191,-1.9690994024276733,-1.9917230606079102,0.022623658180236816,pipeline,casual,low
+My opinion on this is,15.0,casual_low_emotion,okay,10989,2.5030159950256348,2.4675450325012207,0.03547096252441406,pipeline,casual,low
+My opinion on this is,15.0,casual_low_emotion,kinda,21775,2.405184268951416,2.370185136795044,0.03499913215637207,pipeline,casual,low
+My opinion on this is,15.0,casual_low_emotion,basically,8087,3.0465519428253174,3.003045082092285,0.04350686073303223,pipeline,casual,low
+My opinion on this is,15.0,casual_low_emotion,anyway,8668,-0.741676390171051,-0.7723385691642761,0.030662178993225098,pipeline,casual,low
+My opinion on this is,15.0,casual_low_emotion,whatever,5193,-0.5794708728790283,-0.5858461856842041,0.006375312805175781,pipeline,casual,low
+My opinion on this is,15.0,casual_low_emotion,guess,5310,-0.9113017320632935,-0.9407533407211304,0.029451608657836914,pipeline,casual,low
+My opinion on this is,15.0,casual_low_emotion,stuff,4269,-4.359189510345459,-4.390328407287598,0.031138896942138672,pipeline,casual,low
+My opinion on this is,15.0,casual_high_emotion,OMG,21978,-4.682056427001953,-4.685068130493164,0.0030117034912109375,pipeline,casual,high
+My opinion on this is,15.0,casual_high_emotion,totally,7110,3.868349552154541,3.8451995849609375,0.023149967193603516,pipeline,casual,high
+My opinion on this is,15.0,casual_high_emotion,literally,8642,-1.3105226755142212,-1.328357219696045,0.01783454418182373,pipeline,casual,high
+My opinion on this is,15.0,casual_high_emotion,seriously,7580,-0.6390681266784668,-0.6703555583953857,0.031287431716918945,pipeline,casual,high
+My opinion on this is,15.0,casual_high_emotion,honestly,14483,1.4987024068832397,1.4642746448516846,0.034427762031555176,pipeline,casual,high
+My opinion on this is,15.0,casual_high_emotion,really,1196,3.137070655822754,3.1145431995391846,0.022527456283569336,pipeline,casual,high
+My opinion on this is,15.0,casual_high_emotion,absolutely,6270,-0.4560127258300781,-0.4787575602531433,0.022744834423065186,pipeline,casual,high
+My opinion on this is,15.0,casual_high_emotion,incredibly,9301,-2.030116081237793,-2.0418953895568848,0.011779308319091797,pipeline,casual,high
+It seems to me that,-15.0,formal_low_emotion,perhaps,4153,-2.3542890548706055,-2.021848440170288,-0.3324406147003174,pipeline,formal,low
+It seems to me that,-15.0,formal_low_emotion,may,754,-5.1852030754089355,-4.966970920562744,-0.2182321548461914,pipeline,formal,low
+It seems to me that,-15.0,formal_low_emotion,however,2480,-4.539015293121338,-4.490779876708984,-0.048235416412353516,pipeline,formal,low
+It seems to me that,-15.0,formal_low_emotion,therefore,4320,-6.951426982879639,-6.451186656951904,-0.5002403259277344,pipeline,formal,low
+It seems to me that,-15.0,formal_low_emotion,consequently,23995,-8.003931999206543,-7.577548027038574,-0.42638397216796875,pipeline,formal,low
+It seems to me that,-15.0,formal_low_emotion,moreover,541,-2.326383113861084,-2.210540771484375,-0.11584234237670898,pipeline,formal,low
+It seems to me that,-15.0,formal_low_emotion,accordingly,17159,-9.83994197845459,-9.591421127319336,-0.2485208511352539,pipeline,formal,low
+It seems to me that,-15.0,formal_low_emotion,furthermore,2134,-5.745823383331299,-5.53042459487915,-0.21539878845214844,pipeline,formal,low
+It seems to me that,-15.0,formal_high_emotion,profoundly,29160,-8.54001235961914,-8.294178009033203,-0.2458343505859375,pipeline,formal,high
+It seems to me that,-15.0,formal_high_emotion,devastated,27668,-11.375073432922363,-11.011892318725586,-0.36318111419677734,pipeline,formal,high
+It seems to me that,-15.0,formal_high_emotion,magnificent,16773,-9.805625915527344,-9.347652435302734,-0.4579734802246094,pipeline,formal,high
+It seems to me that,-15.0,formal_high_emotion,appalling,573,-4.679465293884277,-4.520817756652832,-0.1586475372314453,pipeline,formal,high
+It seems to me that,-15.0,formal_high_emotion,extraordinary,10035,-6.4977874755859375,-6.20956563949585,-0.2882218360900879,pipeline,formal,high
+It seems to me that,-15.0,formal_high_emotion,overwhelming,11734,-7.20583963394165,-7.026409149169922,-0.17943048477172852,pipeline,formal,high
+It seems to me that,-15.0,formal_high_emotion,catastrophic,24769,-8.21528148651123,-7.815947532653809,-0.3993339538574219,pipeline,formal,high
+It seems to me that,-15.0,formal_high_emotion,triumphant,15511,-7.32805871963501,-7.291601181030273,-0.03645753860473633,pipeline,formal,high
+It seems to me that,-15.0,casual_low_emotion,yeah,12191,-6.522244453430176,-6.120282173156738,-0.4019622802734375,pipeline,casual,low
+It seems to me that,-15.0,casual_low_emotion,okay,10989,-6.641315460205078,-6.564785957336426,-0.07652950286865234,pipeline,casual,low
+It seems to me that,-15.0,casual_low_emotion,kinda,21775,-7.417147636413574,-6.989842414855957,-0.4273052215576172,pipeline,casual,low
+It seems to me that,-15.0,casual_low_emotion,basically,8087,-7.287607192993164,-7.1929497718811035,-0.09465742111206055,pipeline,casual,low
+It seems to me that,-15.0,casual_low_emotion,anyway,8668,-4.2262187004089355,-3.6882853507995605,-0.537933349609375,pipeline,casual,low
+It seems to me that,-15.0,casual_low_emotion,whatever,5193,-2.151885986328125,-1.9221572875976562,-0.22972869873046875,pipeline,casual,low
+It seems to me that,-15.0,casual_low_emotion,guess,5310,-10.95382022857666,-10.813848495483398,-0.13997173309326172,pipeline,casual,low
+It seems to me that,-15.0,casual_low_emotion,stuff,4269,-7.182537078857422,-6.969966888427734,-0.2125701904296875,pipeline,casual,low
+It seems to me that,-15.0,casual_high_emotion,OMG,21978,-5.941111087799072,-5.621413230895996,-0.31969785690307617,pipeline,casual,high
+It seems to me that,-15.0,casual_high_emotion,totally,7110,-7.731250286102295,-7.296827793121338,-0.43442249298095703,pipeline,casual,high
+It seems to me that,-15.0,casual_high_emotion,literally,8642,-6.426068305969238,-6.132267951965332,-0.29380035400390625,pipeline,casual,high
+It seems to me that,-15.0,casual_high_emotion,seriously,7580,-7.876051902770996,-7.758991241455078,-0.11706066131591797,pipeline,casual,high
+It seems to me that,-15.0,casual_high_emotion,honestly,14483,-4.781556606292725,-4.219243049621582,-0.5623135566711426,pipeline,casual,high
+It seems to me that,-15.0,casual_high_emotion,really,1196,-4.90629243850708,-4.76451301574707,-0.14177942276000977,pipeline,casual,high
+It seems to me that,-15.0,casual_high_emotion,absolutely,6270,-7.02687406539917,-6.861181259155273,-0.16569280624389648,pipeline,casual,high
+It seems to me that,-15.0,casual_high_emotion,incredibly,9301,-6.831484317779541,-6.716452598571777,-0.11503171920776367,pipeline,casual,high
+It seems to me that,4.0,formal_low_emotion,perhaps,4153,-2.016146421432495,-2.021848440170288,0.005702018737792969,pipeline,formal,low
+It seems to me that,4.0,formal_low_emotion,may,754,-4.965124607086182,-4.966970920562744,0.0018463134765625,pipeline,formal,low
+It seems to me that,4.0,formal_low_emotion,however,2480,-4.479925155639648,-4.490779876708984,0.010854721069335938,pipeline,formal,low
+It seems to me that,4.0,formal_low_emotion,therefore,4320,-6.440943241119385,-6.451186656951904,0.010243415832519531,pipeline,formal,low
+It seems to me that,4.0,formal_low_emotion,consequently,23995,-7.5700297355651855,-7.577548027038574,0.007518291473388672,pipeline,formal,low
+It seems to me that,4.0,formal_low_emotion,moreover,541,-2.2045440673828125,-2.210540771484375,0.0059967041015625,pipeline,formal,low
+It seems to me that,4.0,formal_low_emotion,accordingly,17159,-9.578784942626953,-9.591421127319336,0.012636184692382812,pipeline,formal,low
+It seems to me that,4.0,formal_low_emotion,furthermore,2134,-5.529980659484863,-5.53042459487915,0.0004439353942871094,pipeline,formal,low
+It seems to me that,4.0,formal_high_emotion,profoundly,29160,-8.287017822265625,-8.294178009033203,0.007160186767578125,pipeline,formal,high
+It seems to me that,4.0,formal_high_emotion,devastated,27668,-11.00361156463623,-11.011892318725586,0.008280754089355469,pipeline,formal,high
+It seems to me that,4.0,formal_high_emotion,magnificent,16773,-9.327117919921875,-9.347652435302734,0.020534515380859375,pipeline,formal,high
+It seems to me that,4.0,formal_high_emotion,appalling,573,-4.512784481048584,-4.520817756652832,0.008033275604248047,pipeline,formal,high
+It seems to me that,4.0,formal_high_emotion,extraordinary,10035,-6.200068950653076,-6.20956563949585,0.009496688842773438,pipeline,formal,high
+It seems to me that,4.0,formal_high_emotion,overwhelming,11734,-7.020396709442139,-7.026409149169922,0.006012439727783203,pipeline,formal,high
+It seems to me that,4.0,formal_high_emotion,catastrophic,24769,-7.801144599914551,-7.815947532653809,0.014802932739257812,pipeline,formal,high
+It seems to me that,4.0,formal_high_emotion,triumphant,15511,-7.288471698760986,-7.291601181030273,0.0031294822692871094,pipeline,formal,high
+It seems to me that,4.0,casual_low_emotion,yeah,12191,-6.1027655601501465,-6.120282173156738,0.017516613006591797,pipeline,casual,low
+It seems to me that,4.0,casual_low_emotion,okay,10989,-6.555116176605225,-6.564785957336426,0.009669780731201172,pipeline,casual,low
+It seems to me that,4.0,casual_low_emotion,kinda,21775,-6.981241226196289,-6.989842414855957,0.008601188659667969,pipeline,casual,low
+It seems to me that,4.0,casual_low_emotion,basically,8087,-7.178554534912109,-7.1929497718811035,0.01439523696899414,pipeline,casual,low
+It seems to me that,4.0,casual_low_emotion,anyway,8668,-3.6689047813415527,-3.6882853507995605,0.019380569458007812,pipeline,casual,low
+It seems to me that,4.0,casual_low_emotion,whatever,5193,-1.9147701263427734,-1.9221572875976562,0.0073871612548828125,pipeline,casual,low
+It seems to me that,4.0,casual_low_emotion,guess,5310,-10.808831214904785,-10.813848495483398,0.005017280578613281,pipeline,casual,low
+It seems to me that,4.0,casual_low_emotion,stuff,4269,-6.958878040313721,-6.969966888427734,0.011088848114013672,pipeline,casual,low
+It seems to me that,4.0,casual_high_emotion,OMG,21978,-5.614340782165527,-5.621413230895996,0.00707244873046875,pipeline,casual,high
+It seems to me that,4.0,casual_high_emotion,totally,7110,-7.281000137329102,-7.296827793121338,0.015827655792236328,pipeline,casual,high
+It seems to me that,4.0,casual_high_emotion,literally,8642,-6.11133337020874,-6.132267951965332,0.020934581756591797,pipeline,casual,high
+It seems to me that,4.0,casual_high_emotion,seriously,7580,-7.7457756996154785,-7.758991241455078,0.01321554183959961,pipeline,casual,high
+It seems to me that,4.0,casual_high_emotion,honestly,14483,-4.193056106567383,-4.219243049621582,0.02618694305419922,pipeline,casual,high
+It seems to me that,4.0,casual_high_emotion,really,1196,-4.757376194000244,-4.76451301574707,0.007136821746826172,pipeline,casual,high
+It seems to me that,4.0,casual_high_emotion,absolutely,6270,-6.8404221534729,-6.861181259155273,0.020759105682373047,pipeline,casual,high
+It seems to me that,4.0,casual_high_emotion,incredibly,9301,-6.710822105407715,-6.716452598571777,0.0056304931640625,pipeline,casual,high
+It seems to me that,1.0,formal_low_emotion,perhaps,4153,-2.021848440170288,-2.021848440170288,0.0,pipeline,formal,low
+It seems to me that,1.0,formal_low_emotion,may,754,-4.966970920562744,-4.966970920562744,0.0,pipeline,formal,low
+It seems to me that,1.0,formal_low_emotion,however,2480,-4.490779876708984,-4.490779876708984,0.0,pipeline,formal,low
+It seems to me that,1.0,formal_low_emotion,therefore,4320,-6.451186656951904,-6.451186656951904,0.0,pipeline,formal,low
+It seems to me that,1.0,formal_low_emotion,consequently,23995,-7.577548027038574,-7.577548027038574,0.0,pipeline,formal,low
+It seems to me that,1.0,formal_low_emotion,moreover,541,-2.210540771484375,-2.210540771484375,0.0,pipeline,formal,low
+It seems to me that,1.0,formal_low_emotion,accordingly,17159,-9.591421127319336,-9.591421127319336,0.0,pipeline,formal,low
+It seems to me that,1.0,formal_low_emotion,furthermore,2134,-5.53042459487915,-5.53042459487915,0.0,pipeline,formal,low
+It seems to me that,1.0,formal_high_emotion,profoundly,29160,-8.294178009033203,-8.294178009033203,0.0,pipeline,formal,high
+It seems to me that,1.0,formal_high_emotion,devastated,27668,-11.011892318725586,-11.011892318725586,0.0,pipeline,formal,high
+It seems to me that,1.0,formal_high_emotion,magnificent,16773,-9.347652435302734,-9.347652435302734,0.0,pipeline,formal,high
+It seems to me that,1.0,formal_high_emotion,appalling,573,-4.520817756652832,-4.520817756652832,0.0,pipeline,formal,high
+It seems to me that,1.0,formal_high_emotion,extraordinary,10035,-6.20956563949585,-6.20956563949585,0.0,pipeline,formal,high
+It seems to me that,1.0,formal_high_emotion,overwhelming,11734,-7.026409149169922,-7.026409149169922,0.0,pipeline,formal,high
+It seems to me that,1.0,formal_high_emotion,catastrophic,24769,-7.815947532653809,-7.815947532653809,0.0,pipeline,formal,high
+It seems to me that,1.0,formal_high_emotion,triumphant,15511,-7.291601181030273,-7.291601181030273,0.0,pipeline,formal,high
+It seems to me that,1.0,casual_low_emotion,yeah,12191,-6.120282173156738,-6.120282173156738,0.0,pipeline,casual,low
+It seems to me that,1.0,casual_low_emotion,okay,10989,-6.564785957336426,-6.564785957336426,0.0,pipeline,casual,low
+It seems to me that,1.0,casual_low_emotion,kinda,21775,-6.989842414855957,-6.989842414855957,0.0,pipeline,casual,low
+It seems to me that,1.0,casual_low_emotion,basically,8087,-7.1929497718811035,-7.1929497718811035,0.0,pipeline,casual,low
+It seems to me that,1.0,casual_low_emotion,anyway,8668,-3.6882853507995605,-3.6882853507995605,0.0,pipeline,casual,low
+It seems to me that,1.0,casual_low_emotion,whatever,5193,-1.9221572875976562,-1.9221572875976562,0.0,pipeline,casual,low
+It seems to me that,1.0,casual_low_emotion,guess,5310,-10.813848495483398,-10.813848495483398,0.0,pipeline,casual,low
+It seems to me that,1.0,casual_low_emotion,stuff,4269,-6.969966888427734,-6.969966888427734,0.0,pipeline,casual,low
+It seems to me that,1.0,casual_high_emotion,OMG,21978,-5.621413230895996,-5.621413230895996,0.0,pipeline,casual,high
+It seems to me that,1.0,casual_high_emotion,totally,7110,-7.296827793121338,-7.296827793121338,0.0,pipeline,casual,high
+It seems to me that,1.0,casual_high_emotion,literally,8642,-6.132267951965332,-6.132267951965332,0.0,pipeline,casual,high
+It seems to me that,1.0,casual_high_emotion,seriously,7580,-7.758991241455078,-7.758991241455078,0.0,pipeline,casual,high
+It seems to me that,1.0,casual_high_emotion,honestly,14483,-4.219243049621582,-4.219243049621582,0.0,pipeline,casual,high
+It seems to me that,1.0,casual_high_emotion,really,1196,-4.76451301574707,-4.76451301574707,0.0,pipeline,casual,high
+It seems to me that,1.0,casual_high_emotion,absolutely,6270,-6.861181259155273,-6.861181259155273,0.0,pipeline,casual,high
+It seems to me that,1.0,casual_high_emotion,incredibly,9301,-6.716452598571777,-6.716452598571777,0.0,pipeline,casual,high
+It seems to me that,4.0,formal_low_emotion,perhaps,4153,-2.016146421432495,-2.021848440170288,0.005702018737792969,pipeline,formal,low
+It seems to me that,4.0,formal_low_emotion,may,754,-4.965124607086182,-4.966970920562744,0.0018463134765625,pipeline,formal,low
+It seems to me that,4.0,formal_low_emotion,however,2480,-4.479925155639648,-4.490779876708984,0.010854721069335938,pipeline,formal,low
+It seems to me that,4.0,formal_low_emotion,therefore,4320,-6.440943241119385,-6.451186656951904,0.010243415832519531,pipeline,formal,low
+It seems to me that,4.0,formal_low_emotion,consequently,23995,-7.5700297355651855,-7.577548027038574,0.007518291473388672,pipeline,formal,low
+It seems to me that,4.0,formal_low_emotion,moreover,541,-2.2045440673828125,-2.210540771484375,0.0059967041015625,pipeline,formal,low
+It seems to me that,4.0,formal_low_emotion,accordingly,17159,-9.578784942626953,-9.591421127319336,0.012636184692382812,pipeline,formal,low
+It seems to me that,4.0,formal_low_emotion,furthermore,2134,-5.529980659484863,-5.53042459487915,0.0004439353942871094,pipeline,formal,low
+It seems to me that,4.0,formal_high_emotion,profoundly,29160,-8.287017822265625,-8.294178009033203,0.007160186767578125,pipeline,formal,high
+It seems to me that,4.0,formal_high_emotion,devastated,27668,-11.00361156463623,-11.011892318725586,0.008280754089355469,pipeline,formal,high
+It seems to me that,4.0,formal_high_emotion,magnificent,16773,-9.327117919921875,-9.347652435302734,0.020534515380859375,pipeline,formal,high
+It seems to me that,4.0,formal_high_emotion,appalling,573,-4.512784481048584,-4.520817756652832,0.008033275604248047,pipeline,formal,high
+It seems to me that,4.0,formal_high_emotion,extraordinary,10035,-6.200068950653076,-6.20956563949585,0.009496688842773438,pipeline,formal,high
+It seems to me that,4.0,formal_high_emotion,overwhelming,11734,-7.020396709442139,-7.026409149169922,0.006012439727783203,pipeline,formal,high
+It seems to me that,4.0,formal_high_emotion,catastrophic,24769,-7.801144599914551,-7.815947532653809,0.014802932739257812,pipeline,formal,high
+It seems to me that,4.0,formal_high_emotion,triumphant,15511,-7.288471698760986,-7.291601181030273,0.0031294822692871094,pipeline,formal,high
+It seems to me that,4.0,casual_low_emotion,yeah,12191,-6.1027655601501465,-6.120282173156738,0.017516613006591797,pipeline,casual,low
+It seems to me that,4.0,casual_low_emotion,okay,10989,-6.555116176605225,-6.564785957336426,0.009669780731201172,pipeline,casual,low
+It seems to me that,4.0,casual_low_emotion,kinda,21775,-6.981241226196289,-6.989842414855957,0.008601188659667969,pipeline,casual,low
+It seems to me that,4.0,casual_low_emotion,basically,8087,-7.178554534912109,-7.1929497718811035,0.01439523696899414,pipeline,casual,low
+It seems to me that,4.0,casual_low_emotion,anyway,8668,-3.6689047813415527,-3.6882853507995605,0.019380569458007812,pipeline,casual,low
+It seems to me that,4.0,casual_low_emotion,whatever,5193,-1.9147701263427734,-1.9221572875976562,0.0073871612548828125,pipeline,casual,low
+It seems to me that,4.0,casual_low_emotion,guess,5310,-10.808831214904785,-10.813848495483398,0.005017280578613281,pipeline,casual,low
+It seems to me that,4.0,casual_low_emotion,stuff,4269,-6.958878040313721,-6.969966888427734,0.011088848114013672,pipeline,casual,low
+It seems to me that,4.0,casual_high_emotion,OMG,21978,-5.614340782165527,-5.621413230895996,0.00707244873046875,pipeline,casual,high
+It seems to me that,4.0,casual_high_emotion,totally,7110,-7.281000137329102,-7.296827793121338,0.015827655792236328,pipeline,casual,high
+It seems to me that,4.0,casual_high_emotion,literally,8642,-6.11133337020874,-6.132267951965332,0.020934581756591797,pipeline,casual,high
+It seems to me that,4.0,casual_high_emotion,seriously,7580,-7.7457756996154785,-7.758991241455078,0.01321554183959961,pipeline,casual,high
+It seems to me that,4.0,casual_high_emotion,honestly,14483,-4.193056106567383,-4.219243049621582,0.02618694305419922,pipeline,casual,high
+It seems to me that,4.0,casual_high_emotion,really,1196,-4.757376194000244,-4.76451301574707,0.007136821746826172,pipeline,casual,high
+It seems to me that,4.0,casual_high_emotion,absolutely,6270,-6.8404221534729,-6.861181259155273,0.020759105682373047,pipeline,casual,high
+It seems to me that,4.0,casual_high_emotion,incredibly,9301,-6.710822105407715,-6.716452598571777,0.0056304931640625,pipeline,casual,high
+It seems to me that,15.0,formal_low_emotion,perhaps,4153,-2.011314630508423,-2.021848440170288,0.010533809661865234,pipeline,formal,low
+It seems to me that,15.0,formal_low_emotion,may,754,-4.958207130432129,-4.966970920562744,0.008763790130615234,pipeline,formal,low
+It seems to me that,15.0,formal_low_emotion,however,2480,-4.462871551513672,-4.490779876708984,0.0279083251953125,pipeline,formal,low
+It seems to me that,15.0,formal_low_emotion,therefore,4320,-6.437277793884277,-6.451186656951904,0.013908863067626953,pipeline,formal,low
+It seems to me that,15.0,formal_low_emotion,consequently,23995,-7.562496662139893,-7.577548027038574,0.01505136489868164,pipeline,formal,low
+It seems to me that,15.0,formal_low_emotion,moreover,541,-2.197044849395752,-2.210540771484375,0.013495922088623047,pipeline,formal,low
+It seems to me that,15.0,formal_low_emotion,accordingly,17159,-9.56191349029541,-9.591421127319336,0.02950763702392578,pipeline,formal,low
+It seems to me that,15.0,formal_low_emotion,furthermore,2134,-5.535255432128906,-5.53042459487915,-0.004830837249755859,pipeline,formal,low
+It seems to me that,15.0,formal_high_emotion,profoundly,29160,-8.275518417358398,-8.294178009033203,0.018659591674804688,pipeline,formal,high
+It seems to me that,15.0,formal_high_emotion,devastated,27668,-10.994832992553711,-11.011892318725586,0.017059326171875,pipeline,formal,high
+It seems to me that,15.0,formal_high_emotion,magnificent,16773,-9.30905818939209,-9.347652435302734,0.03859424591064453,pipeline,formal,high
+It seems to me that,15.0,formal_high_emotion,appalling,573,-4.503469467163086,-4.520817756652832,0.017348289489746094,pipeline,formal,high
+It seems to me that,15.0,formal_high_emotion,extraordinary,10035,-6.1925530433654785,-6.20956563949585,0.017012596130371094,pipeline,formal,high
+It seems to me that,15.0,formal_high_emotion,overwhelming,11734,-7.014066696166992,-7.026409149169922,0.012342453002929688,pipeline,formal,high
+It seems to me that,15.0,formal_high_emotion,catastrophic,24769,-7.783532619476318,-7.815947532653809,0.032414913177490234,pipeline,formal,high
+It seems to me that,15.0,formal_high_emotion,triumphant,15511,-7.280492782592773,-7.291601181030273,0.0111083984375,pipeline,formal,high
+It seems to me that,15.0,casual_low_emotion,yeah,12191,-6.089240074157715,-6.120282173156738,0.031042098999023438,pipeline,casual,low
+It seems to me that,15.0,casual_low_emotion,okay,10989,-6.548651695251465,-6.564785957336426,0.016134262084960938,pipeline,casual,low
+It seems to me that,15.0,casual_low_emotion,kinda,21775,-6.978435516357422,-6.989842414855957,0.011406898498535156,pipeline,casual,low
+It seems to me that,15.0,casual_low_emotion,basically,8087,-7.162140846252441,-7.1929497718811035,0.03080892562866211,pipeline,casual,low
+It seems to me that,15.0,casual_low_emotion,anyway,8668,-3.6407506465911865,-3.6882853507995605,0.04753470420837402,pipeline,casual,low
+It seems to me that,15.0,casual_low_emotion,whatever,5193,-1.9079463481903076,-1.9221572875976562,0.014210939407348633,pipeline,casual,low
+It seems to me that,15.0,casual_low_emotion,guess,5310,-10.80463981628418,-10.813848495483398,0.00920867919921875,pipeline,casual,low
+It seems to me that,15.0,casual_low_emotion,stuff,4269,-6.945592403411865,-6.969966888427734,0.02437448501586914,pipeline,casual,low
+It seems to me that,15.0,casual_high_emotion,OMG,21978,-5.605838775634766,-5.621413230895996,0.015574455261230469,pipeline,casual,high
+It seems to me that,15.0,casual_high_emotion,totally,7110,-7.2752251625061035,-7.296827793121338,0.021602630615234375,pipeline,casual,high
+It seems to me that,15.0,casual_high_emotion,literally,8642,-6.095386505126953,-6.132267951965332,0.036881446838378906,pipeline,casual,high
+It seems to me that,15.0,casual_high_emotion,seriously,7580,-7.725096702575684,-7.758991241455078,0.03389453887939453,pipeline,casual,high
+It seems to me that,15.0,casual_high_emotion,honestly,14483,-4.172603607177734,-4.219243049621582,0.046639442443847656,pipeline,casual,high
+It seems to me that,15.0,casual_high_emotion,really,1196,-4.748137474060059,-4.76451301574707,0.01637554168701172,pipeline,casual,high
+It seems to me that,15.0,casual_high_emotion,absolutely,6270,-6.828652381896973,-6.861181259155273,0.03252887725830078,pipeline,casual,high
+It seems to me that,15.0,casual_high_emotion,incredibly,9301,-6.7039384841918945,-6.716452598571777,0.012514114379882812,pipeline,casual,high
+The best approach would be,-15.0,formal_low_emotion,perhaps,4153,-2.346552610397339,-2.6340599060058594,0.2875072956085205,pipeline,formal,low
+The best approach would be,-15.0,formal_low_emotion,may,754,-5.366969108581543,-5.634313583374023,0.26734447479248047,pipeline,formal,low
+The best approach would be,-15.0,formal_low_emotion,however,2480,-4.294789791107178,-4.395817756652832,0.1010279655456543,pipeline,formal,low
+The best approach would be,-15.0,formal_low_emotion,therefore,4320,-4.585870742797852,-4.262266635894775,-0.32360410690307617,pipeline,formal,low
+The best approach would be,-15.0,formal_low_emotion,consequently,23995,-8.312775611877441,-8.180360794067383,-0.1324148178100586,pipeline,formal,low
+The best approach would be,-15.0,formal_low_emotion,moreover,541,-3.1944429874420166,-3.1680521965026855,-0.026390790939331055,pipeline,formal,low
+The best approach would be,-15.0,formal_low_emotion,accordingly,17159,-8.16248893737793,-7.918730735778809,-0.2437582015991211,pipeline,formal,low
+The best approach would be,-15.0,formal_low_emotion,furthermore,2134,-4.289283752441406,-3.8751513957977295,-0.41413235664367676,pipeline,formal,low
+The best approach would be,-15.0,formal_high_emotion,profoundly,29160,-13.002595901489258,-12.648835182189941,-0.3537607192993164,pipeline,formal,high
+The best approach would be,-15.0,formal_high_emotion,devastated,27668,-12.081254959106445,-11.786552429199219,-0.29470252990722656,pipeline,formal,high
+The best approach would be,-15.0,formal_high_emotion,magnificent,16773,-10.964599609375,-10.788664817810059,-0.1759347915649414,pipeline,formal,high
+The best approach would be,-15.0,formal_high_emotion,appalling,573,-4.379418849945068,-4.261016368865967,-0.11840248107910156,pipeline,formal,high
+The best approach would be,-15.0,formal_high_emotion,extraordinary,10035,-8.842061996459961,-8.896245956420898,0.0541839599609375,pipeline,formal,high
+The best approach would be,-15.0,formal_high_emotion,overwhelming,11734,-5.184708118438721,-5.396991729736328,0.21228361129760742,pipeline,formal,high
+The best approach would be,-15.0,formal_high_emotion,catastrophic,24769,-10.309199333190918,-9.788272857666016,-0.5209264755249023,pipeline,formal,high
+The best approach would be,-15.0,formal_high_emotion,triumphant,15511,-9.650938987731934,-9.740233421325684,0.08929443359375,pipeline,formal,high
+The best approach would be,-15.0,casual_low_emotion,yeah,12191,-6.756524085998535,-6.400968074798584,-0.35555601119995117,pipeline,casual,low
+The best approach would be,-15.0,casual_low_emotion,okay,10989,-6.766741752624512,-6.896812438964844,0.13007068634033203,pipeline,casual,low
+The best approach would be,-15.0,casual_low_emotion,kinda,21775,-5.120070457458496,-4.753157615661621,-0.366912841796875,pipeline,casual,low
+The best approach would be,-15.0,casual_low_emotion,basically,8087,-1.9914721250534058,-1.9835700988769531,-0.007902026176452637,pipeline,casual,low
+The best approach would be,-15.0,casual_low_emotion,anyway,8668,-4.2395148277282715,-3.9833431243896484,-0.25617170333862305,pipeline,casual,low
+The best approach would be,-15.0,casual_low_emotion,whatever,5193,-3.4405972957611084,-3.5527169704437256,0.11211967468261719,pipeline,casual,low
+The best approach would be,-15.0,casual_low_emotion,guess,5310,-7.936548709869385,-8.073022842407227,0.1364741325378418,pipeline,casual,low
+The best approach would be,-15.0,casual_low_emotion,stuff,4269,-7.007545471191406,-6.817241668701172,-0.19030380249023438,pipeline,casual,low
+The best approach would be,-15.0,casual_high_emotion,OMG,21978,-6.321873188018799,-6.210175037384033,-0.11169815063476562,pipeline,casual,high
+The best approach would be,-15.0,casual_high_emotion,totally,7110,-4.137563705444336,-3.8732125759124756,-0.26435112953186035,pipeline,casual,high
+The best approach would be,-15.0,casual_high_emotion,literally,8642,-2.0520246028900146,-2.0676002502441406,0.015575647354125977,pipeline,casual,high
+The best approach would be,-15.0,casual_high_emotion,seriously,7580,-7.4359660148620605,-7.173571586608887,-0.26239442825317383,pipeline,casual,high
+The best approach would be,-15.0,casual_high_emotion,honestly,14483,-3.6736817359924316,-3.365665912628174,-0.3080158233642578,pipeline,casual,high
+The best approach would be,-15.0,casual_high_emotion,really,1196,-2.5258069038391113,-2.4605941772460938,-0.06521272659301758,pipeline,casual,high
+The best approach would be,-15.0,casual_high_emotion,absolutely,6270,-4.716241836547852,-4.405916213989258,-0.31032562255859375,pipeline,casual,high
+The best approach would be,-15.0,casual_high_emotion,incredibly,9301,-8.803728103637695,-8.792519569396973,-0.011208534240722656,pipeline,casual,high
+The best approach would be,4.0,formal_low_emotion,perhaps,4153,-2.6260266304016113,-2.6340599060058594,0.008033275604248047,pipeline,formal,low
+The best approach would be,4.0,formal_low_emotion,may,754,-5.628487586975098,-5.634313583374023,0.005825996398925781,pipeline,formal,low
+The best approach would be,4.0,formal_low_emotion,however,2480,-4.390320777893066,-4.395817756652832,0.005496978759765625,pipeline,formal,low
+The best approach would be,4.0,formal_low_emotion,therefore,4320,-4.249210357666016,-4.262266635894775,0.013056278228759766,pipeline,formal,low
+The best approach would be,4.0,formal_low_emotion,consequently,23995,-8.169445037841797,-8.180360794067383,0.010915756225585938,pipeline,formal,low
+The best approach would be,4.0,formal_low_emotion,moreover,541,-3.1635801792144775,-3.1680521965026855,0.004472017288208008,pipeline,formal,low
+The best approach would be,4.0,formal_low_emotion,accordingly,17159,-7.900723457336426,-7.918730735778809,0.018007278442382812,pipeline,formal,low
+The best approach would be,4.0,formal_low_emotion,furthermore,2134,-3.8683838844299316,-3.8751513957977295,0.0067675113677978516,pipeline,formal,low
+The best approach would be,4.0,formal_high_emotion,profoundly,29160,-12.643649101257324,-12.648835182189941,0.0051860809326171875,pipeline,formal,high
+The best approach would be,4.0,formal_high_emotion,devastated,27668,-11.787758827209473,-11.786552429199219,-0.0012063980102539062,pipeline,formal,high
+The best approach would be,4.0,formal_high_emotion,magnificent,16773,-10.784709930419922,-10.788664817810059,0.003954887390136719,pipeline,formal,high
+The best approach would be,4.0,formal_high_emotion,appalling,573,-4.251865863800049,-4.261016368865967,0.009150505065917969,pipeline,formal,high
+The best approach would be,4.0,formal_high_emotion,extraordinary,10035,-8.89168643951416,-8.896245956420898,0.004559516906738281,pipeline,formal,high
+The best approach would be,4.0,formal_high_emotion,overwhelming,11734,-5.402386665344238,-5.396991729736328,-0.005394935607910156,pipeline,formal,high
+The best approach would be,4.0,formal_high_emotion,catastrophic,24769,-9.784849166870117,-9.788272857666016,0.0034236907958984375,pipeline,formal,high
+The best approach would be,4.0,formal_high_emotion,triumphant,15511,-9.735956192016602,-9.740233421325684,0.004277229309082031,pipeline,formal,high
+The best approach would be,4.0,casual_low_emotion,yeah,12191,-6.395763397216797,-6.400968074798584,0.005204677581787109,pipeline,casual,low
+The best approach would be,4.0,casual_low_emotion,okay,10989,-6.888983249664307,-6.896812438964844,0.00782918930053711,pipeline,casual,low
+The best approach would be,4.0,casual_low_emotion,kinda,21775,-4.7476630210876465,-4.753157615661621,0.005494594573974609,pipeline,casual,low
+The best approach would be,4.0,casual_low_emotion,basically,8087,-1.972150444984436,-1.9835700988769531,0.01141965389251709,pipeline,casual,low
+The best approach would be,4.0,casual_low_emotion,anyway,8668,-3.9753756523132324,-3.9833431243896484,0.007967472076416016,pipeline,casual,low
+The best approach would be,4.0,casual_low_emotion,whatever,5193,-3.548274517059326,-3.5527169704437256,0.004442453384399414,pipeline,casual,low
+The best approach would be,4.0,casual_low_emotion,guess,5310,-8.080646514892578,-8.073022842407227,-0.0076236724853515625,pipeline,casual,low
+The best approach would be,4.0,casual_low_emotion,stuff,4269,-6.80526065826416,-6.817241668701172,0.011981010437011719,pipeline,casual,low
+The best approach would be,4.0,casual_high_emotion,OMG,21978,-6.204395294189453,-6.210175037384033,0.005779743194580078,pipeline,casual,high
+The best approach would be,4.0,casual_high_emotion,totally,7110,-3.8685340881347656,-3.8732125759124756,0.004678487777709961,pipeline,casual,high
+The best approach would be,4.0,casual_high_emotion,literally,8642,-2.0623254776000977,-2.0676002502441406,0.005274772644042969,pipeline,casual,high
+The best approach would be,4.0,casual_high_emotion,seriously,7580,-7.162365436553955,-7.173571586608887,0.01120615005493164,pipeline,casual,high
+The best approach would be,4.0,casual_high_emotion,honestly,14483,-3.351872682571411,-3.365665912628174,0.013793230056762695,pipeline,casual,high
+The best approach would be,4.0,casual_high_emotion,really,1196,-2.4514782428741455,-2.4605941772460938,0.009115934371948242,pipeline,casual,high
+The best approach would be,4.0,casual_high_emotion,absolutely,6270,-4.392787933349609,-4.405916213989258,0.013128280639648438,pipeline,casual,high
+The best approach would be,4.0,casual_high_emotion,incredibly,9301,-8.791254043579102,-8.792519569396973,0.0012655258178710938,pipeline,casual,high
+The best approach would be,1.0,formal_low_emotion,perhaps,4153,-2.6340599060058594,-2.6340599060058594,0.0,pipeline,formal,low
+The best approach would be,1.0,formal_low_emotion,may,754,-5.634313583374023,-5.634313583374023,0.0,pipeline,formal,low
+The best approach would be,1.0,formal_low_emotion,however,2480,-4.395817756652832,-4.395817756652832,0.0,pipeline,formal,low
+The best approach would be,1.0,formal_low_emotion,therefore,4320,-4.262266635894775,-4.262266635894775,0.0,pipeline,formal,low
+The best approach would be,1.0,formal_low_emotion,consequently,23995,-8.180360794067383,-8.180360794067383,0.0,pipeline,formal,low
+The best approach would be,1.0,formal_low_emotion,moreover,541,-3.1680521965026855,-3.1680521965026855,0.0,pipeline,formal,low
+The best approach would be,1.0,formal_low_emotion,accordingly,17159,-7.918730735778809,-7.918730735778809,0.0,pipeline,formal,low
+The best approach would be,1.0,formal_low_emotion,furthermore,2134,-3.8751513957977295,-3.8751513957977295,0.0,pipeline,formal,low
+The best approach would be,1.0,formal_high_emotion,profoundly,29160,-12.648835182189941,-12.648835182189941,0.0,pipeline,formal,high
+The best approach would be,1.0,formal_high_emotion,devastated,27668,-11.786552429199219,-11.786552429199219,0.0,pipeline,formal,high
+The best approach would be,1.0,formal_high_emotion,magnificent,16773,-10.788664817810059,-10.788664817810059,0.0,pipeline,formal,high
+The best approach would be,1.0,formal_high_emotion,appalling,573,-4.261016368865967,-4.261016368865967,0.0,pipeline,formal,high
+The best approach would be,1.0,formal_high_emotion,extraordinary,10035,-8.896245956420898,-8.896245956420898,0.0,pipeline,formal,high
+The best approach would be,1.0,formal_high_emotion,overwhelming,11734,-5.396991729736328,-5.396991729736328,0.0,pipeline,formal,high
+The best approach would be,1.0,formal_high_emotion,catastrophic,24769,-9.788272857666016,-9.788272857666016,0.0,pipeline,formal,high
+The best approach would be,1.0,formal_high_emotion,triumphant,15511,-9.740233421325684,-9.740233421325684,0.0,pipeline,formal,high
+The best approach would be,1.0,casual_low_emotion,yeah,12191,-6.400968074798584,-6.400968074798584,0.0,pipeline,casual,low
+The best approach would be,1.0,casual_low_emotion,okay,10989,-6.896812438964844,-6.896812438964844,0.0,pipeline,casual,low
+The best approach would be,1.0,casual_low_emotion,kinda,21775,-4.753157615661621,-4.753157615661621,0.0,pipeline,casual,low
+The best approach would be,1.0,casual_low_emotion,basically,8087,-1.9835700988769531,-1.9835700988769531,0.0,pipeline,casual,low
+The best approach would be,1.0,casual_low_emotion,anyway,8668,-3.9833431243896484,-3.9833431243896484,0.0,pipeline,casual,low
+The best approach would be,1.0,casual_low_emotion,whatever,5193,-3.5527169704437256,-3.5527169704437256,0.0,pipeline,casual,low
+The best approach would be,1.0,casual_low_emotion,guess,5310,-8.073022842407227,-8.073022842407227,0.0,pipeline,casual,low
+The best approach would be,1.0,casual_low_emotion,stuff,4269,-6.817241668701172,-6.817241668701172,0.0,pipeline,casual,low
+The best approach would be,1.0,casual_high_emotion,OMG,21978,-6.210175037384033,-6.210175037384033,0.0,pipeline,casual,high
+The best approach would be,1.0,casual_high_emotion,totally,7110,-3.8732125759124756,-3.8732125759124756,0.0,pipeline,casual,high
+The best approach would be,1.0,casual_high_emotion,literally,8642,-2.0676002502441406,-2.0676002502441406,0.0,pipeline,casual,high
+The best approach would be,1.0,casual_high_emotion,seriously,7580,-7.173571586608887,-7.173571586608887,0.0,pipeline,casual,high
+The best approach would be,1.0,casual_high_emotion,honestly,14483,-3.365665912628174,-3.365665912628174,0.0,pipeline,casual,high
+The best approach would be,1.0,casual_high_emotion,really,1196,-2.4605941772460938,-2.4605941772460938,0.0,pipeline,casual,high
+The best approach would be,1.0,casual_high_emotion,absolutely,6270,-4.405916213989258,-4.405916213989258,0.0,pipeline,casual,high
+The best approach would be,1.0,casual_high_emotion,incredibly,9301,-8.792519569396973,-8.792519569396973,0.0,pipeline,casual,high
+The best approach would be,4.0,formal_low_emotion,perhaps,4153,-2.6260266304016113,-2.6340599060058594,0.008033275604248047,pipeline,formal,low
+The best approach would be,4.0,formal_low_emotion,may,754,-5.628487586975098,-5.634313583374023,0.005825996398925781,pipeline,formal,low
+The best approach would be,4.0,formal_low_emotion,however,2480,-4.390320777893066,-4.395817756652832,0.005496978759765625,pipeline,formal,low
+The best approach would be,4.0,formal_low_emotion,therefore,4320,-4.249210357666016,-4.262266635894775,0.013056278228759766,pipeline,formal,low
+The best approach would be,4.0,formal_low_emotion,consequently,23995,-8.169445037841797,-8.180360794067383,0.010915756225585938,pipeline,formal,low
+The best approach would be,4.0,formal_low_emotion,moreover,541,-3.1635801792144775,-3.1680521965026855,0.004472017288208008,pipeline,formal,low
+The best approach would be,4.0,formal_low_emotion,accordingly,17159,-7.900723457336426,-7.918730735778809,0.018007278442382812,pipeline,formal,low
+The best approach would be,4.0,formal_low_emotion,furthermore,2134,-3.8683838844299316,-3.8751513957977295,0.0067675113677978516,pipeline,formal,low
+The best approach would be,4.0,formal_high_emotion,profoundly,29160,-12.643649101257324,-12.648835182189941,0.0051860809326171875,pipeline,formal,high
+The best approach would be,4.0,formal_high_emotion,devastated,27668,-11.787758827209473,-11.786552429199219,-0.0012063980102539062,pipeline,formal,high
+The best approach would be,4.0,formal_high_emotion,magnificent,16773,-10.784709930419922,-10.788664817810059,0.003954887390136719,pipeline,formal,high
+The best approach would be,4.0,formal_high_emotion,appalling,573,-4.251865863800049,-4.261016368865967,0.009150505065917969,pipeline,formal,high
+The best approach would be,4.0,formal_high_emotion,extraordinary,10035,-8.89168643951416,-8.896245956420898,0.004559516906738281,pipeline,formal,high
+The best approach would be,4.0,formal_high_emotion,overwhelming,11734,-5.402386665344238,-5.396991729736328,-0.005394935607910156,pipeline,formal,high
+The best approach would be,4.0,formal_high_emotion,catastrophic,24769,-9.784849166870117,-9.788272857666016,0.0034236907958984375,pipeline,formal,high
+The best approach would be,4.0,formal_high_emotion,triumphant,15511,-9.735956192016602,-9.740233421325684,0.004277229309082031,pipeline,formal,high
+The best approach would be,4.0,casual_low_emotion,yeah,12191,-6.395763397216797,-6.400968074798584,0.005204677581787109,pipeline,casual,low
+The best approach would be,4.0,casual_low_emotion,okay,10989,-6.888983249664307,-6.896812438964844,0.00782918930053711,pipeline,casual,low
+The best approach would be,4.0,casual_low_emotion,kinda,21775,-4.7476630210876465,-4.753157615661621,0.005494594573974609,pipeline,casual,low
+The best approach would be,4.0,casual_low_emotion,basically,8087,-1.972150444984436,-1.9835700988769531,0.01141965389251709,pipeline,casual,low
+The best approach would be,4.0,casual_low_emotion,anyway,8668,-3.9753756523132324,-3.9833431243896484,0.007967472076416016,pipeline,casual,low
+The best approach would be,4.0,casual_low_emotion,whatever,5193,-3.548274517059326,-3.5527169704437256,0.004442453384399414,pipeline,casual,low
+The best approach would be,4.0,casual_low_emotion,guess,5310,-8.080646514892578,-8.073022842407227,-0.0076236724853515625,pipeline,casual,low
+The best approach would be,4.0,casual_low_emotion,stuff,4269,-6.80526065826416,-6.817241668701172,0.011981010437011719,pipeline,casual,low
+The best approach would be,4.0,casual_high_emotion,OMG,21978,-6.204395294189453,-6.210175037384033,0.005779743194580078,pipeline,casual,high
+The best approach would be,4.0,casual_high_emotion,totally,7110,-3.8685340881347656,-3.8732125759124756,0.004678487777709961,pipeline,casual,high
+The best approach would be,4.0,casual_high_emotion,literally,8642,-2.0623254776000977,-2.0676002502441406,0.005274772644042969,pipeline,casual,high
+The best approach would be,4.0,casual_high_emotion,seriously,7580,-7.162365436553955,-7.173571586608887,0.01120615005493164,pipeline,casual,high
+The best approach would be,4.0,casual_high_emotion,honestly,14483,-3.351872682571411,-3.365665912628174,0.013793230056762695,pipeline,casual,high
+The best approach would be,4.0,casual_high_emotion,really,1196,-2.4514782428741455,-2.4605941772460938,0.009115934371948242,pipeline,casual,high
+The best approach would be,4.0,casual_high_emotion,absolutely,6270,-4.392787933349609,-4.405916213989258,0.013128280639648438,pipeline,casual,high
+The best approach would be,4.0,casual_high_emotion,incredibly,9301,-8.791254043579102,-8.792519569396973,0.0012655258178710938,pipeline,casual,high
+The best approach would be,15.0,formal_low_emotion,perhaps,4153,-2.611825942993164,-2.6340599060058594,0.022233963012695312,pipeline,formal,low
+The best approach would be,15.0,formal_low_emotion,may,754,-5.608858108520508,-5.634313583374023,0.025455474853515625,pipeline,formal,low
+The best approach would be,15.0,formal_low_emotion,however,2480,-4.382684230804443,-4.395817756652832,0.013133525848388672,pipeline,formal,low
+The best approach would be,15.0,formal_low_emotion,therefore,4320,-4.23610782623291,-4.262266635894775,0.026158809661865234,pipeline,formal,low
+The best approach would be,15.0,formal_low_emotion,consequently,23995,-8.157843589782715,-8.180360794067383,0.02251720428466797,pipeline,formal,low
+The best approach would be,15.0,formal_low_emotion,moreover,541,-3.1619129180908203,-3.1680521965026855,0.006139278411865234,pipeline,formal,low
+The best approach would be,15.0,formal_low_emotion,accordingly,17159,-7.874000549316406,-7.918730735778809,0.044730186462402344,pipeline,formal,low
+The best approach would be,15.0,formal_low_emotion,furthermore,2134,-3.8664305210113525,-3.8751513957977295,0.008720874786376953,pipeline,formal,low
+The best approach would be,15.0,formal_high_emotion,profoundly,29160,-12.639391899108887,-12.648835182189941,0.009443283081054688,pipeline,formal,high
+The best approach would be,15.0,formal_high_emotion,devastated,27668,-11.791491508483887,-11.786552429199219,-0.004939079284667969,pipeline,formal,high
+The best approach would be,15.0,formal_high_emotion,magnificent,16773,-10.792322158813477,-10.788664817810059,-0.0036573410034179688,pipeline,formal,high
+The best approach would be,15.0,formal_high_emotion,appalling,573,-4.244889736175537,-4.261016368865967,0.016126632690429688,pipeline,formal,high
+The best approach would be,15.0,formal_high_emotion,extraordinary,10035,-8.889547348022461,-8.896245956420898,0.0066986083984375,pipeline,formal,high
+The best approach would be,15.0,formal_high_emotion,overwhelming,11734,-5.409721374511719,-5.396991729736328,-0.012729644775390625,pipeline,formal,high
+The best approach would be,15.0,formal_high_emotion,catastrophic,24769,-9.793322563171387,-9.788272857666016,-0.005049705505371094,pipeline,formal,high
+The best approach would be,15.0,formal_high_emotion,triumphant,15511,-9.726652145385742,-9.740233421325684,0.013581275939941406,pipeline,formal,high
+The best approach would be,15.0,casual_low_emotion,yeah,12191,-6.386235237121582,-6.400968074798584,0.014732837677001953,pipeline,casual,low
+The best approach would be,15.0,casual_low_emotion,okay,10989,-6.8763861656188965,-6.896812438964844,0.020426273345947266,pipeline,casual,low
+The best approach would be,15.0,casual_low_emotion,kinda,21775,-4.741801738739014,-4.753157615661621,0.011355876922607422,pipeline,casual,low
+The best approach would be,15.0,casual_low_emotion,basically,8087,-1.9554202556610107,-1.9835700988769531,0.028149843215942383,pipeline,casual,low
+The best approach would be,15.0,casual_low_emotion,anyway,8668,-3.964708089828491,-3.9833431243896484,0.018635034561157227,pipeline,casual,low
+The best approach would be,15.0,casual_low_emotion,whatever,5193,-3.5456838607788086,-3.5527169704437256,0.007033109664916992,pipeline,casual,low
+The best approach would be,15.0,casual_low_emotion,guess,5310,-8.093929290771484,-8.073022842407227,-0.020906448364257812,pipeline,casual,low
+The best approach would be,15.0,casual_low_emotion,stuff,4269,-6.791777610778809,-6.817241668701172,0.02546405792236328,pipeline,casual,low
+The best approach would be,15.0,casual_high_emotion,OMG,21978,-6.184252738952637,-6.210175037384033,0.025922298431396484,pipeline,casual,high
+The best approach would be,15.0,casual_high_emotion,totally,7110,-3.865598201751709,-3.8732125759124756,0.0076143741607666016,pipeline,casual,high
+The best approach would be,15.0,casual_high_emotion,literally,8642,-2.0544795989990234,-2.0676002502441406,0.013120651245117188,pipeline,casual,high
+The best approach would be,15.0,casual_high_emotion,seriously,7580,-7.149361610412598,-7.173571586608887,0.024209976196289062,pipeline,casual,high
+The best approach would be,15.0,casual_high_emotion,honestly,14483,-3.329526901245117,-3.365665912628174,0.03613901138305664,pipeline,casual,high
+The best approach would be,15.0,casual_high_emotion,really,1196,-2.4340829849243164,-2.4605941772460938,0.026511192321777344,pipeline,casual,high
+The best approach would be,15.0,casual_high_emotion,absolutely,6270,-4.387389183044434,-4.405916213989258,0.01852703094482422,pipeline,casual,high
+The best approach would be,15.0,casual_high_emotion,incredibly,9301,-8.799736976623535,-8.792519569396973,-0.0072174072265625,pipeline,casual,high

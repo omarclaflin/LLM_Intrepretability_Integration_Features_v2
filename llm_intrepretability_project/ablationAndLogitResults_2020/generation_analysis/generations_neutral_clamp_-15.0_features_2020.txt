@@ -1,0 +1,31 @@
+=== NEUTRAL PROMPTS - CLAMP_-15.0 ===
+
+--- Generation 1 ---
+Prompt: I need to inform everyone about
+Generated: the upcoming exciting upcoming exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting
+Full text: I need to inform everyone about the upcoming exciting upcoming exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting
+
+--- Generation 2 ---
+Prompt: When someone asks me about
+Generated: the biggest miscon­­​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+Full text: When someone asks me about the biggest miscon­­​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+
+--- Generation 3 ---
+Prompt: The reason this happened is
+Generated: because the original intent of the original intent of the original intent of the intention was to make sure that the best and hopefully unintentional mistakes that you have ever ever ever ever ever ever ever ever ever ever ever ever ever ever ever ever ever ever ever
+Full text: The reason this happened is because the original intent of the original intent of the original intent of the intention was to make sure that the best and hopefully unintentional mistakes that you have ever ever ever ever ever ever ever ever ever ever ever ever ever ever ever ever ever ever ever
+
+--- Generation 4 ---
+Prompt: My thoughts on this matter are
+Generated: summed up in the words of the wise Latting soup just below.
+
+
+Full text: My thoughts on this matter are summed up in the words of the wise Latting soup just below.
+
+
+
+--- Generation 5 ---
+Prompt: The best way to handle this is
+Generated: to just be prepared and be able to be flexible when it comes to the ones you want to be able to be able to actually be able to be able
+Full text: The best way to handle this is to just be prepared and be able to be flexible when it comes to the ones you want to be able to be able to actually be able to be able
+

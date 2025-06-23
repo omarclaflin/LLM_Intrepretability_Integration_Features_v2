@@ -1,0 +1,34 @@
+2025-06-22 15:34:49,714 - root - INFO - Features argument provided: 21781
+2025-06-22 15:34:49,715 - root - INFO - Analyzing features: [21781]
+2025-06-22 15:34:49,715 - root - INFO - Model path: ../models/open_llama_3b
+2025-06-22 15:34:49,715 - root - INFO - SAE path: checkpoints_topk/best_model.pt
+2025-06-22 15:34:49,715 - root - INFO - Number of examples per feature: 20
+2025-06-22 15:34:49,715 - root - INFO - Number of dataset samples: 10000
+2025-06-22 15:34:49,715 - root - INFO - Window size: 10
+2025-06-22 15:34:49,716 - root - INFO - Batch size: 16
+2025-06-22 15:34:49,716 - root - INFO - Run clamping interventions: True
+2025-06-22 15:34:49,716 - root - INFO - Max token length: 10
+2025-06-22 15:34:49,716 - root - INFO - Claude examples: 10
+2025-06-22 15:34:49,721 - root - INFO - Claude API key loaded successfully
+2025-06-22 15:34:49,728 - root - INFO - Loading models...
+2025-06-22 15:34:50,145 - root - INFO - Set pad_token to eos_token for tokenizer
+2025-06-22 15:34:52,609 - accelerate.utils.modeling - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-06-22 15:34:56,423 - root - INFO - Loading SAE model...
+2025-06-22 15:34:56,723 - root - INFO - Creating TopK SAE with input_dim=3200, hidden_dim=50000, k=1024
+2025-06-22 15:34:58,525 - root - INFO - Loading wikitext dataset with chunking...
+2025-06-22 15:35:05,305 - root - INFO - Loaded 10000 text samples (with chunking) from wikitext-103 (max_token_length=10)
+2025-06-22 15:35:05,305 - root - INFO - 
+Analyzing feature 21781
+2025-06-22 15:35:05,306 - root - INFO - Finding top 20 examples...
+2025-06-22 15:36:12,405 - root - INFO - Computing feature statistics...
+2025-06-22 15:36:25,037 - root - INFO - Statistics: {'mean_activation': 0.0656757652759552, 'max_activation': 2.623615026473999, 'median_activation': 0.0, 'percent_active_non_special_tokens': 10.799462546187437, 'mean_text_active_pct_non_special_tokens': 10.784920634920637, 'feature_idx': 21781}
+2025-06-22 15:36:25,038 - root - INFO - Creating visualizations...
+2025-06-22 15:36:25,885 - root - INFO - Created 5 visualizations.
+2025-06-22 15:36:25,885 - root - INFO - Identifying feature pattern using Claude API...
+2025-06-22 15:36:28,578 - root - INFO - Identified pattern: Abstract concepts
+2025-06-22 15:36:28,579 - root - INFO - Running clamping interventions with generic prompt...
+2025-06-22 15:36:54,008 - root - INFO - Clamping results obtained with generic prompt
+2025-06-22 15:36:54,009 - root - INFO - Skipping classification experiment (no category examples provided or loaded)
+2025-06-22 15:36:54,010 - root - INFO - Incremental results saved for feature 21781
+2025-06-22 15:36:54,010 - root - INFO - Creating summary report...
+2025-06-22 15:36:54,010 - root - INFO - Analysis complete! Results saved to NFM_feature_analysis_results_token10\feature_meaning_20250622_153449

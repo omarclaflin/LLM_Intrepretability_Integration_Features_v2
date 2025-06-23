@@ -1,0 +1,25 @@
+Based on these examples, what single semantic concept or pattern might this feature be detecting? Answer in a couple words or less, immediately without restating the prompt. Then, with the delimiter "EXPLANATION: " give a sentence description. Focus on the common theme or concept across these examples. 
+
+----------------------------------------
+Example 1: that he hates the track : " That 's
+Example 2: that the team was open to all options for improving
+Example 3: that Senjō no Valkyria
+Example 4: that lay behind all things and was present in all
+Example 5: that had affected the previous games . Heath Hindman
+Example 6: that it was found necessary to use public documents of
+Example 7: that the game had the capacity for downloadable content
+Example 8: that Head Coach Scott Arniel would be fired and
+Example 9: that she approaches each role asking herself , " Would
+Example 10: that stand for Neith , and the enigm
+Example 11: that repeat the shaming of children , so that
+Example 12: that has been employed in the synthesis of the
+Example 13: that Shiva was pleased with Ravana for restoring
+Example 14: that while she forgets many things , " I
+Example 15: that this calamity is destined to happen —
+Example 16: that the clock was correct and no extra time had
+Example 17: that he felt that he " could be a huge
+Example 18: that god . By inhabiting these images , the
+Example 19: that pilots can be trained outside of the UK ,
+Example 20: that the pairing " has been a hilarious , pitch
+----------------------------------------
+

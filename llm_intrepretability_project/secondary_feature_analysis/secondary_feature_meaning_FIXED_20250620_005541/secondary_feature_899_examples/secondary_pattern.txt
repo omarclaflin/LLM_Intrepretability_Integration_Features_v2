@@ -1,0 +1,2 @@
+Squares
+The examples primarily consist of sequences of square symbols, suggesting the feature is detecting the presence of square-shaped characters or blocks.

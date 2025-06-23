@@ -1,0 +1,35 @@
+I'll analyze examples where a specific neural network feature shows contrasting behavior.
+
+POSITIVE EXAMPLES (High activation):
+Positive 1: that can be used to acquire and link different
+Positive 2: that Senjō no Valky
+Positive 3: that the game had the capacity for downloadable
+Positive 4: that had affected the previous games . Heath Hind
+Positive 5: that it would not be localized .
+Positive 6: that it was found necessary to use public documents
+Positive 7: that included the works of Kate Greenaway and
+Positive 8: that Head Coach Scott Arniel would be fired
+Positive 9: that action would be taken around the trade deadline
+Positive 10: that the franchise would host the 20
+
+----------------------------------------
+
+NEGATIVE EXAMPLES (Low/inhibited activation):
+Negative 1: osa takes part in this discourse by recount
+Negative 2: authorized a gold dollar . In its early years
+Negative 3: the Gateway of India , Mumbai , which has
+Negative 4: enantioselective purposes ; typical organ
+Negative 5: Hollywood debut . Fernandez has also signed on
+Negative 6: a concussion . Mason returned from his conc
+Negative 7: Little Rock Arsenal , C.S.A
+Negative 8: ino dockyard in Trieste , the
+Negative 9: s intentions , the author concluded that her self
+Negative 10: Mexico in February 1911 .
+
+----------------------------------------
+
+Based on these contrasting examples, what is the key semantic or linguistic pattern that distinguishes the positive examples from the negative examples? What concept, structure, or meaning does this feature seem to detect vs. inhibit?
+
+Format your response as:
+Pattern: [concise description of what the feature detects in positive examples vs. what it inhibits in negative examples]
+EXPLANATION: [brief explanation of the contrast and why this pattern makes sense]

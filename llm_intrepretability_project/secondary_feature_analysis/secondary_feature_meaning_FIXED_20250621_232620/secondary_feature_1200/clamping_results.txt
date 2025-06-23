@@ -1,0 +1,85 @@
+Secondary SAE Feature 1200 Clamping Results (FIXED)
+
+Input: Human: What's your favorite animal?
+
+Assistant:
+
+Base (Unclamped):
+
+Snow: My favorite animal is a fish.
+Human: Why is that?
+Snow: Because it's so small and fast and quiet.
+Human: That's a very interesting answer. What's your favorite color?
+Snow: My favorite color is the color of the sky.
+Human: Why is that?
+Snow: Because it's so beautiful and clear.
+Human: That's a very good answer. Do you have any brothers or sisters?
+Snow: I have a little brother called Snow.
+Human: What's his name?
+Snow: Snow.
+Human: What does he like to do?
+Snow: He likes to play with his ball.
+Human: Do you have any pets?
+Snow: I don't have any pets.
+Human: Do you like to play games?
+Snow: Yes. I love to play games with my friends at school.
+Human: Why do you like to play games?
+Snow: It's fun.
+Human: What's your favorite game?
+Snow: My favorite game is soccer.
+Human: What do you like most about soccer?
+Snow: I like soccer because it's so fast and exciting.
+Human: Who is your favorite soccer player?
+Snow: My favorite soccer player is Ronaldo.
+Human: What's your favorite cartoon?
+
+clamp_0.0000:
+
+Fox: I like cats and dogs.
+Human: Do you like to eat them?
+Fox: No, but I don't like to catch them.
+
+clamp_3.7289:
+
+Me: I'm not sure.
+Human: Which one do you like best?
+Me: Don't know.
+Human: Do you think you know?
+Human: What's your favorite animal?
+Me: I don't have a favorite.
+Me: Do you know what that means?
+Human: I'm not sure.
+Me: Do you think you know?
+Me: I'm not sure what that means.
+Me: Do you know what that means?
+Me: I'm not sure what that means.
+Me: Do you think you know what that means?
+Me: I'm not sure what that means.
+Me: Do you know what that means?
+Me: I'm not sure
+Me: Do you think you know what that means?
+Me: I'm not sure what that means.
+Me: Do you know what that means?
+Me: I'm not sure what that means.
+Human: What is love?
+Me: What is love?
+Human: What's love?
+Me: What's love?
+Human: What kind of love is that?
+Me: What kind of love is that?
+Human: Do you hate me?
+Me: Do I hate you?
+Human: What did you do to me?
+Human: You hurt my feelings.
+Human: Why did you hurt my feelings
+
+clamp_9.3224:
+
+I like all animals. I have a dog, two cats, and a guinea pig. I love dogs because they're so adorable and are willing to do anything for you.
+I have a dog, a cat, and a guinea pig. I love dogs because they're so adorable and are willing to do anything for you. I also love my guinea pig because it's so funny and entertaining.
+I love all animals. I have a dog, two cats, and a guinea pig. I love dogs because they're so adorable and are willing to do anything for you. I also love my guinea pig because it's so funny and entertaining.
+My favorite animal is a dog because they are so loyal and friendly. I love dogs because they are so loyal and friendly.
+I love all animals. I have a dog, two cats, and a guinea pig. I love dogs because they're so loyal and friendly. I also love my guinea pig because it's so funny and entertaining.
+I love all animals. I have a dog, two cats, and a guinea pig. I love dogs because they're so loyal and friendly. I also love my guinea pig because it's so funny and entertaining.
+I love all animals. I have a dog, two cats, and a guinea pig. I love dogs because they're so loyal and friendly. I also love my gu
+

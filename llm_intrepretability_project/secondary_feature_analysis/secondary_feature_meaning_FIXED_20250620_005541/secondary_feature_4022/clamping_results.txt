@@ -1,0 +1,49 @@
+Secondary SAE Feature 4022 Clamping Results (FIXED)
+
+Input: Human: What's your favorite animal?
+
+Assistant:
+
+Base (Unclamped):
+
+Humans: Oh, that's easy. I am a human.
+Human: Then what are you, an animal?
+Humans: No, I am not an animal. I am a human.
+Human: Then what are you?
+Humans: That's easy. I am a human.
+Humans: No, I am not an animal. I am a human.
+Humans: Then what are you?
+Humans: That's easy. I am a human.
+Humans: No, I am not an animal. I am a human.
+Humans: Then what are you?
+Humans: That's easy. I am a human.
+Humans: No, I'm not an animal. I am a human.
+Humans: Then what are you?
+
+clamp_0.0000:
+
+We were playing a game where we would say some questions about our favorite animal and then guess which animal it was. This led to lots of discussions and we even ended up learning a couple new things about animals.
+I asked her what her favorite animal was and she said a bunny. So we went through the list and she picked a couple. She was the only one to pick a dog. She said she liked dogs because they were good with the kids. I asked her what else she liked about dogs. She said they were good at playing fetch and that they liked to cuddle.
+I asked her what her favorite animal was and she said a bunny. So we went through the list and she picked a couple. She was the only one to pick a dog.
+I asked her what her favorite animal was and she said a bunny. So we went through the list and she picked a couple. She was the only one to pick a dog. I asked her why she liked dogs. She said they were good with the kids. I asked her what else she liked about dogs. She said they were good at playing fetch and that they liked to cuddle.
+We played a fun game today. We had to guess which animal it was and then I would tell her some characteristics. She gave a great description of each animal and had a great guess.
+I asked her what her favorite animal was and she said a bunny. So we went through
+
+clamp_5.5359:
+
+Human: What's the best way to get to the beach?
+Human: If you could have three wishes, what would they be?
+Human: What do you think about when you think about me?
+
+clamp_13.8397:
+
+Giraffe: Aaaaah! I'm a giraffe!
+Human: What's your favorite animal? Giraffe: Aaaaah! I'm a giraffe!
+Human: What's your favorite animal? Giraffe: Aaaaaah! I'm a giraffe!
+Human: What's your favorite animal? Giraffe: Aaaaaaaaaaaah! I'm a giraffe!
+Human: What's your favorite animal? Giraffe: Aaaaaaaaaaaaah! I'm a giraffe!
+Human: What's your favorite animal? Giraffe: Aaaaaaaaaaaaaah! I'm a giraffe!
+Human: what's your favorite animal?
+Human: What's your favorite animal?
+Human: What's your favorite animal? Giraffe: Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+

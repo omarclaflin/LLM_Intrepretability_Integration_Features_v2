@@ -1,0 +1,16 @@
+Simple SAE vs No-SAE Comparison
+========================================
+
+Top-k value used: 1024
+
+Static + No SAE:        -0.124552
+Static + SAE (full):    0.062454
+Static + SAE (top1024): 0.063288
+Generation + No SAE:    -0.018133
+Generation + SAE (full): -0.011460
+Generation + SAE (top1024): -0.003540
+
+Static SAE (full) effect:     0.187005
+Static SAE (top1024) effect:  0.187839
+Generation SAE (full) effect: 0.006673
+Generation SAE (top1024) effect: 0.014592

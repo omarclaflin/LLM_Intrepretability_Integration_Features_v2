@@ -1,0 +1,260 @@
+--- Example 1 ---
+Secondary Activation: 1.021591
+Text:
+that he hates the track : " That 's
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P41978: 7.312889
+--------------------------------------------------
+
+--- Example 2 ---
+Secondary Activation: 0.987107
+Text:
+that the team was open to all options for improving
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P41978: 7.312889
+--------------------------------------------------
+
+--- Example 3 ---
+Secondary Activation: 0.978681
+Text:
+that Senjō no Valkyria
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.586053
+  P17831: 7.451948
+  P41978: 7.312889
+--------------------------------------------------
+
+--- Example 4 ---
+Secondary Activation: 0.977285
+Text:
+that lay behind all things and was present in all
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P4428: 7.506199
+  P17831: 7.451948
+--------------------------------------------------
+
+--- Example 5 ---
+Secondary Activation: 0.974815
+Text:
+that had affected the previous games . Heath Hindman
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.810254
+  P27001: 7.595557
+  P17831: 7.451948
+  P41978: 7.312889
+--------------------------------------------------
+
+--- Example 6 ---
+Secondary Activation: 0.960086
+Text:
+that it was found necessary to use public documents of
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.956351
+  P15374: 7.807462
+  P5917: 7.610226
+  P27001: 7.547879
+  P17831: 7.451948
+--------------------------------------------------
+
+--- Example 7 ---
+Secondary Activation: 0.958041
+Text:
+that the game had the capacity for downloadable content
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P4428: 7.383315
+--------------------------------------------------
+
+--- Example 8 ---
+Secondary Activation: 0.955312
+Text:
+that Head Coach Scott Arniel would be fired and
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.622621
+  P17831: 7.451948
+  P4428: 7.337057
+--------------------------------------------------
+
+--- Example 9 ---
+Secondary Activation: 0.948778
+Text:
+that she approaches each role asking herself , " Would
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P4428: 7.321184
+--------------------------------------------------
+
+--- Example 10 ---
+Secondary Activation: 0.945014
+Text:
+that stand for Neith , and the enigm
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.469254
+  P41978: 7.312889
+--------------------------------------------------
+
+--- Example 11 ---
+Secondary Activation: 0.944620
+Text:
+that repeat the shaming of children , so that
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P4428: 7.455360
+  P17831: 7.451948
+--------------------------------------------------
+
+--- Example 12 ---
+Secondary Activation: 0.944523
+Text:
+that has been employed in the synthesis of the 
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P41978: 7.312889
+--------------------------------------------------
+
+--- Example 13 ---
+Secondary Activation: 0.942796
+Text:
+that Shiva was pleased with Ravana for restoring
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.556816
+  P17831: 7.451948
+  P4428: 7.384159
+--------------------------------------------------
+
+--- Example 14 ---
+Secondary Activation: 0.941553
+Text:
+that while she forgets many things , " I
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P41978: 7.421882
+--------------------------------------------------
+
+--- Example 15 ---
+Secondary Activation: 0.938562
+Text:
+that this calamity is destined to happen —
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P4428: 7.522686
+  P17831: 7.456699
+--------------------------------------------------
+
+--- Example 16 ---
+Secondary Activation: 0.937021
+Text:
+that the clock was correct and no extra time had
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.933872
+  P15374: 7.807462
+  P27001: 7.547879
+  P4428: 7.511577
+  P17831: 7.453790
+--------------------------------------------------
+
+--- Example 17 ---
+Secondary Activation: 0.927255
+Text:
+that he felt that he " could be a huge
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P41978: 7.312889
+--------------------------------------------------
+
+--- Example 18 ---
+Secondary Activation: 0.926942
+Text:
+that god . By inhabiting these images , the
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P41978: 7.323383
+--------------------------------------------------
+
+--- Example 19 ---
+Secondary Activation: 0.923599
+Text:
+that pilots can be trained outside of the UK ,
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P4428: 7.535821
+  P17831: 7.451948
+--------------------------------------------------
+
+--- Example 20 ---
+Secondary Activation: 0.922685
+Text:
+that the pairing " has been a hilarious , pitch
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P41978: 7.312889
+--------------------------------------------------
+

@@ -1,0 +1,63 @@
+=== BASELINE CASUAL_EMOTIONAL PROMPTS ===
+
+--- Generation 1 ---
+Prompt: Describe the tone of this sentence: 'OMG I can't believe how excited I am about
+Generated: this new thing I'm doing.'
+I'm not sure if this is a question or a statement.
+I'm not sure if this is a question or a statement. I'm not sure if this is a question or a
+Full text: Describe the tone of this sentence: 'OMG I can't believe how excited I am about this new thing I'm doing.'
+I'm not sure if this is a question or a statement.
+I'm not sure if this is a question or a statement. I'm not sure if this is a question or a
+
+--- Generation 2 ---
+Prompt: Describe the tone of this sentence: 'Honestly, I'm so frustrated with
+Generated: this situation.'
+I'm not sure if this is the right place to ask this, but I'm not sure where else to ask it.
+I'm trying to describe the tone of this sentence:
+Honestly, I
+Full text: Describe the tone of this sentence: 'Honestly, I'm so frustrated with this situation.'
+I'm not sure if this is the right place to ask this, but I'm not sure where else to ask it.
+I'm trying to describe the tone of this sentence:
+Honestly, I
+
+--- Generation 3 ---
+Prompt: Describe the tone of this sentence: 'I'm literally freaking out about
+Generated: this.'
+I'm literally freaking out about this.
+I'm literally freaking out about this.
+I'm literally freaking out about this.
+I'm literally freaking out about this.
+I'm
+Full text: Describe the tone of this sentence: 'I'm literally freaking out about this.'
+I'm literally freaking out about this.
+I'm literally freaking out about this.
+I'm literally freaking out about this.
+I'm literally freaking out about this.
+I'm
+
+--- Generation 4 ---
+Prompt: Describe the tone of this sentence: 'This is seriously the most amazing thing about
+Generated: this place.'
+The tone of this sentence is sarcastic.
+What is the tone of this sentence: 'This is seriously the most amazing thing about this place.'?
+The tone of this sentence is sarcastic. The sentence is
+Full text: Describe the tone of this sentence: 'This is seriously the most amazing thing about this place.'
+The tone of this sentence is sarcastic.
+What is the tone of this sentence: 'This is seriously the most amazing thing about this place.'?
+The tone of this sentence is sarcastic. The sentence is
+
+--- Generation 5 ---
+Prompt: Describe the tone of this sentence: 'I'm totally devastated by
+Generated: the news.'
+I'm totally devastated by the news.
+I'm totally devastated by the news.
+I'm totally devastated by the news.
+I'm totally devastated by the news.
+I'm totally devastated by
+Full text: Describe the tone of this sentence: 'I'm totally devastated by the news.'
+I'm totally devastated by the news.
+I'm totally devastated by the news.
+I'm totally devastated by the news.
+I'm totally devastated by the news.
+I'm totally devastated by
+

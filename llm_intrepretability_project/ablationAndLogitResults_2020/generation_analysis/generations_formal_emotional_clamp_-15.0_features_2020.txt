@@ -1,0 +1,27 @@
+=== FORMAL_EMOTIONAL PROMPTS - CLAMP_-15.0 ===
+
+--- Generation 1 ---
+Prompt: I must express my profound concern regarding
+Generated: the recent alarming and disturbing disturbing escalation in the alarming and disturbing escalation in the alarming and disturbing escalation in the alarming and disturbing escalation in the alarming and disturbing escalation in the alarming and disturbing escalation in the alarming and disturbing escalation
+Full text: I must express my profound concern regarding the recent alarming and disturbing disturbing escalation in the alarming and disturbing escalation in the alarming and disturbing escalation in the alarming and disturbing escalation in the alarming and disturbing escalation in the alarming and disturbing escalation in the alarming and disturbing escalation
+
+--- Generation 2 ---
+Prompt: It is with great disappointment that I must address
+Generated: the recent unfortunate and extremely sad situation surrounding the recent unfortunate and extremely sad situation surrounding the recent unfortunate and extremely sad situation surrounding the unfortunate and extremely sad situation surrounding the unfortunate and extremely sad situation surrounding the unfortunate and extremely sad situation surrounding the unfortunate and extremely sad
+Full text: It is with great disappointment that I must address the recent unfortunate and extremely sad situation surrounding the recent unfortunate and extremely sad situation surrounding the recent unfortunate and extremely sad situation surrounding the unfortunate and extremely sad situation surrounding the unfortunate and extremely sad situation surrounding the unfortunate and extremely sad situation surrounding the unfortunate and extremely sad
+
+--- Generation 3 ---
+Prompt: I am deeply troubled by the implications of
+Generated: the recent, seemingly unequivocal, acquiescence of the Trump White House, acquiescence that,, in its own ferment of moral equivalence, has, in its own ferment of moral equivalence, itself, in
+Full text: I am deeply troubled by the implications of the recent, seemingly unequivocal, acquiescence of the Trump White House, acquiescence that,, in its own ferment of moral equivalence, has, in its own ferment of moral equivalence, itself, in
+
+--- Generation 4 ---
+Prompt: With utmost urgency, I must convey that
+Generated: , unless you repent tonight, tomorrow morning, NOW Tomorrow morning morning tomorrow morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning
+Full text: With utmost urgency, I must convey that , unless you repent tonight, tomorrow morning, NOW Tomorrow morning morning tomorrow morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning morning
+
+--- Generation 5 ---
+Prompt: I feel compelled to voice my serious objections to
+Generated: the recent string of recent string of recent string of recent string of recent string of recent string of recent string of recent string of recent string of recent string of recent string of recent string of recent string of recent string of recent string of recent string of recent
+Full text: I feel compelled to voice my serious objections to the recent string of recent string of recent string of recent string of recent string of recent string of recent string of recent string of recent string of recent string of recent string of recent string of recent string of recent string of recent string of recent string of recent
+

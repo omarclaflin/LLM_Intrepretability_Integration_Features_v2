@@ -1,0 +1,25 @@
+Based on these examples, what single semantic concept or pattern might this feature be detecting? Answer in a couple words or less, immediately without restating the prompt. Then, with the delimiter "EXPLANATION: " give a sentence description. Focus on the common theme or concept across these examples. 
+
+----------------------------------------
+Example 1: that while she forgets many things , " I
+Example 2: that she approaches each role asking herself , " Would
+Example 3: that one . " Meanwhile , " Cleanse the
+Example 4: that exists almost edge @-@ on to its
+Example 5: average cost per hour to fly such aircraft has been
+Example 6: that the amount of iron found in the Sun .
+Example 7: = = = Flying schools = = =
+Example 8: that witnessed his impotence and emotion , and
+Example 9: that the data on flying hours " does not support
+Example 10: as club aircraft rented out to qualified pilots for recreational
+Example 11: that he hates the track : " That 's
+Example 12: that knowing the past is crucial to one 's
+Example 13: that lay behind all things and was present in all
+Example 14: = = = Modern day = = =
+Example 15: 0 to 1938 and 1
+Example 16: = = = Behavior = = =
+Example 17: that can be used to acquire and link different skills
+Example 18: = = Charts = =
+Example 19: = = = Middle years = = =
+Example 20: with various functional groups both on the anionic carbon
+----------------------------------------
+

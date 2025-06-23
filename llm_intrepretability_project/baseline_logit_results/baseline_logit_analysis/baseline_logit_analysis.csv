@@ -1,0 +1,161 @@
+prompt,word_category,word,token_id,logit_value,analysis_type
+I think that,formal_low_emotion,perhaps,4153,-3.4264650344848633,baseline
+I think that,formal_low_emotion,may,754,-3.4595108032226562,baseline
+I think that,formal_low_emotion,however,2480,-7.635200500488281,baseline
+I think that,formal_low_emotion,therefore,4320,-6.986485481262207,baseline
+I think that,formal_low_emotion,consequently,23995,-8.954620361328125,baseline
+I think that,formal_low_emotion,moreover,541,-3.5333404541015625,baseline
+I think that,formal_low_emotion,accordingly,17159,-11.322607040405273,baseline
+I think that,formal_low_emotion,furthermore,2134,-7.126352310180664,baseline
+I think that,formal_high_emotion,profoundly,29160,-11.069070816040039,baseline
+I think that,formal_high_emotion,devastated,27668,-12.936779022216797,baseline
+I think that,formal_high_emotion,magnificent,16773,-10.939088821411133,baseline
+I think that,formal_high_emotion,appalling,573,-7.8128228187561035,baseline
+I think that,formal_high_emotion,extraordinary,10035,-9.726969718933105,baseline
+I think that,formal_high_emotion,overwhelming,11734,-10.104682922363281,baseline
+I think that,formal_high_emotion,catastrophic,24769,-11.116552352905273,baseline
+I think that,formal_high_emotion,triumphant,15511,-9.858489990234375,baseline
+I think that,casual_low_emotion,yeah,12191,-7.097095966339111,baseline
+I think that,casual_low_emotion,okay,10989,-8.729053497314453,baseline
+I think that,casual_low_emotion,kinda,21775,-8.13972282409668,baseline
+I think that,casual_low_emotion,basically,8087,-5.6345906257629395,baseline
+I think that,casual_low_emotion,anyway,8668,-7.652096748352051,baseline
+I think that,casual_low_emotion,whatever,5193,-4.981656551361084,baseline
+I think that,casual_low_emotion,guess,5310,-10.483680725097656,baseline
+I think that,casual_low_emotion,stuff,4269,-7.0433268547058105,baseline
+I think that,casual_high_emotion,OMG,21978,-8.500357627868652,baseline
+I think that,casual_high_emotion,totally,7110,-7.674742698669434,baseline
+I think that,casual_high_emotion,literally,8642,-7.227522850036621,baseline
+I think that,casual_high_emotion,seriously,7580,-7.733648300170898,baseline
+I think that,casual_high_emotion,honestly,14483,-7.450782775878906,baseline
+I think that,casual_high_emotion,really,1196,-4.4424920082092285,baseline
+I think that,casual_high_emotion,absolutely,6270,-6.9572038650512695,baseline
+I think that,casual_high_emotion,incredibly,9301,-9.666913032531738,baseline
+The situation is,formal_low_emotion,perhaps,4153,-0.26814576983451843,baseline
+The situation is,formal_low_emotion,may,754,-3.668600082397461,baseline
+The situation is,formal_low_emotion,however,2480,-1.6606298685073853,baseline
+The situation is,formal_low_emotion,therefore,4320,-0.44357118010520935,baseline
+The situation is,formal_low_emotion,consequently,23995,-4.168165683746338,baseline
+The situation is,formal_low_emotion,moreover,541,3.047671318054199,baseline
+The situation is,formal_low_emotion,accordingly,17159,-5.012086868286133,baseline
+The situation is,formal_low_emotion,furthermore,2134,2.012439012527466,baseline
+The situation is,formal_high_emotion,profoundly,29160,-2.919332504272461,baseline
+The situation is,formal_high_emotion,devastated,27668,-4.646175861358643,baseline
+The situation is,formal_high_emotion,magnificent,16773,-5.090734481811523,baseline
+The situation is,formal_high_emotion,appalling,573,-0.9339501857757568,baseline
+The situation is,formal_high_emotion,extraordinary,10035,-0.38856691122055054,baseline
+The situation is,formal_high_emotion,overwhelming,11734,-0.6895617246627808,baseline
+The situation is,formal_high_emotion,catastrophic,24769,-0.49839815497398376,baseline
+The situation is,formal_high_emotion,triumphant,15511,-6.830020904541016,baseline
+The situation is,casual_low_emotion,yeah,12191,-8.522269248962402,baseline
+The situation is,casual_low_emotion,okay,10989,-2.5824007987976074,baseline
+The situation is,casual_low_emotion,kinda,21775,-3.717254877090454,baseline
+The situation is,casual_low_emotion,basically,8087,-0.4025237560272217,baseline
+The situation is,casual_low_emotion,anyway,8668,-3.930324077606201,baseline
+The situation is,casual_low_emotion,whatever,5193,-5.484158992767334,baseline
+The situation is,casual_low_emotion,guess,5310,-6.4499921798706055,baseline
+The situation is,casual_low_emotion,stuff,4269,-6.588716983795166,baseline
+The situation is,casual_high_emotion,OMG,21978,-6.833482265472412,baseline
+The situation is,casual_high_emotion,totally,7110,0.3738549053668976,baseline
+The situation is,casual_high_emotion,literally,8642,-1.541167140007019,baseline
+The situation is,casual_high_emotion,seriously,7580,-0.6531944870948792,baseline
+The situation is,casual_high_emotion,honestly,14483,-3.4171605110168457,baseline
+The situation is,casual_high_emotion,really,1196,2.2891790866851807,baseline
+The situation is,casual_high_emotion,absolutely,6270,0.5819551944732666,baseline
+The situation is,casual_high_emotion,incredibly,9301,0.05244988203048706,baseline
+My opinion on this is,formal_low_emotion,perhaps,4153,-2.0148797035217285,baseline
+My opinion on this is,formal_low_emotion,may,754,-2.940929412841797,baseline
+My opinion on this is,formal_low_emotion,however,2480,-2.974113702774048,baseline
+My opinion on this is,formal_low_emotion,therefore,4320,-3.192549705505371,baseline
+My opinion on this is,formal_low_emotion,consequently,23995,-7.586023807525635,baseline
+My opinion on this is,formal_low_emotion,moreover,541,0.4573709964752197,baseline
+My opinion on this is,formal_low_emotion,accordingly,17159,-7.1700758934021,baseline
+My opinion on this is,formal_low_emotion,furthermore,2134,-2.7274653911590576,baseline
+My opinion on this is,formal_high_emotion,profoundly,29160,-4.739664554595947,baseline
+My opinion on this is,formal_high_emotion,devastated,27668,-8.1851806640625,baseline
+My opinion on this is,formal_high_emotion,magnificent,16773,-7.700285911560059,baseline
+My opinion on this is,formal_high_emotion,appalling,573,-4.015973091125488,baseline
+My opinion on this is,formal_high_emotion,extraordinary,10035,-5.651784896850586,baseline
+My opinion on this is,formal_high_emotion,overwhelming,11734,-3.0788872241973877,baseline
+My opinion on this is,formal_high_emotion,catastrophic,24769,-9.042304992675781,baseline
+My opinion on this is,formal_high_emotion,triumphant,15511,-9.208141326904297,baseline
+My opinion on this is,casual_low_emotion,yeah,12191,-4.154516696929932,baseline
+My opinion on this is,casual_low_emotion,okay,10989,-3.5926666259765625,baseline
+My opinion on this is,casual_low_emotion,kinda,21775,-0.9970846176147461,baseline
+My opinion on this is,casual_low_emotion,basically,8087,0.15577852725982666,baseline
+My opinion on this is,casual_low_emotion,anyway,8668,-5.087985992431641,baseline
+My opinion on this is,casual_low_emotion,whatever,5193,-2.3910722732543945,baseline
+My opinion on this is,casual_low_emotion,guess,5310,-4.636032581329346,baseline
+My opinion on this is,casual_low_emotion,stuff,4269,-5.173336982727051,baseline
+My opinion on this is,casual_high_emotion,OMG,21978,-7.377196311950684,baseline
+My opinion on this is,casual_high_emotion,totally,7110,-0.0034503936767578125,baseline
+My opinion on this is,casual_high_emotion,literally,8642,-3.345625877380371,baseline
+My opinion on this is,casual_high_emotion,seriously,7580,-3.108919858932495,baseline
+My opinion on this is,casual_high_emotion,honestly,14483,-2.434598922729492,baseline
+My opinion on this is,casual_high_emotion,really,1196,0.6370437145233154,baseline
+My opinion on this is,casual_high_emotion,absolutely,6270,-0.5967748165130615,baseline
+My opinion on this is,casual_high_emotion,incredibly,9301,-2.3000688552856445,baseline
+It seems to me that,formal_low_emotion,perhaps,4153,-3.7834203243255615,baseline
+It seems to me that,formal_low_emotion,may,754,-6.558856010437012,baseline
+It seems to me that,formal_low_emotion,however,2480,-6.733831405639648,baseline
+It seems to me that,formal_low_emotion,therefore,4320,-7.575307846069336,baseline
+It seems to me that,formal_low_emotion,consequently,23995,-9.266164779663086,baseline
+It seems to me that,formal_low_emotion,moreover,541,-2.162226438522339,baseline
+It seems to me that,formal_low_emotion,accordingly,17159,-11.395167350769043,baseline
+It seems to me that,formal_low_emotion,furthermore,2134,-7.1496500968933105,baseline
+It seems to me that,formal_high_emotion,profoundly,29160,-10.230199813842773,baseline
+It seems to me that,formal_high_emotion,devastated,27668,-12.66862678527832,baseline
+It seems to me that,formal_high_emotion,magnificent,16773,-10.280950546264648,baseline
+It seems to me that,formal_high_emotion,appalling,573,-6.699881553649902,baseline
+It seems to me that,formal_high_emotion,extraordinary,10035,-7.9374518394470215,baseline
+It seems to me that,formal_high_emotion,overwhelming,11734,-8.362314224243164,baseline
+It seems to me that,formal_high_emotion,catastrophic,24769,-9.611364364624023,baseline
+It seems to me that,formal_high_emotion,triumphant,15511,-9.731598854064941,baseline
+It seems to me that,casual_low_emotion,yeah,12191,-7.819634437561035,baseline
+It seems to me that,casual_low_emotion,okay,10989,-9.075032234191895,baseline
+It seems to me that,casual_low_emotion,kinda,21775,-9.178266525268555,baseline
+It seems to me that,casual_low_emotion,basically,8087,-5.732141494750977,baseline
+It seems to me that,casual_low_emotion,anyway,8668,-7.206634044647217,baseline
+It seems to me that,casual_low_emotion,whatever,5193,-3.949871301651001,baseline
+It seems to me that,casual_low_emotion,guess,5310,-9.55056381225586,baseline
+It seems to me that,casual_low_emotion,stuff,4269,-6.96617317199707,baseline
+It seems to me that,casual_high_emotion,OMG,21978,-8.495765686035156,baseline
+It seems to me that,casual_high_emotion,totally,7110,-8.289684295654297,baseline
+It seems to me that,casual_high_emotion,literally,8642,-7.228537082672119,baseline
+It seems to me that,casual_high_emotion,seriously,7580,-8.281776428222656,baseline
+It seems to me that,casual_high_emotion,honestly,14483,-7.538003921508789,baseline
+It seems to me that,casual_high_emotion,really,1196,-5.159128665924072,baseline
+It seems to me that,casual_high_emotion,absolutely,6270,-6.326594352722168,baseline
+It seems to me that,casual_high_emotion,incredibly,9301,-8.313106536865234,baseline
+The best approach would be,formal_low_emotion,perhaps,4153,-3.299746036529541,baseline
+The best approach would be,formal_low_emotion,may,754,-7.517697334289551,baseline
+The best approach would be,formal_low_emotion,however,2480,-5.586071968078613,baseline
+The best approach would be,formal_low_emotion,therefore,4320,-5.221523284912109,baseline
+The best approach would be,formal_low_emotion,consequently,23995,-9.727651596069336,baseline
+The best approach would be,formal_low_emotion,moreover,541,-3.995177745819092,baseline
+The best approach would be,formal_low_emotion,accordingly,17159,-8.390433311462402,baseline
+The best approach would be,formal_low_emotion,furthermore,2134,-6.331411361694336,baseline
+The best approach would be,formal_high_emotion,profoundly,29160,-11.619141578674316,baseline
+The best approach would be,formal_high_emotion,devastated,27668,-13.199689865112305,baseline
+The best approach would be,formal_high_emotion,magnificent,16773,-11.809131622314453,baseline
+The best approach would be,formal_high_emotion,appalling,573,-6.109890937805176,baseline
+The best approach would be,formal_high_emotion,extraordinary,10035,-9.461437225341797,baseline
+The best approach would be,formal_high_emotion,overwhelming,11734,-7.406107425689697,baseline
+The best approach would be,formal_high_emotion,catastrophic,24769,-10.247428894042969,baseline
+The best approach would be,formal_high_emotion,triumphant,15511,-12.734952926635742,baseline
+The best approach would be,casual_low_emotion,yeah,12191,-8.607112884521484,baseline
+The best approach would be,casual_low_emotion,okay,10989,-8.53203010559082,baseline
+The best approach would be,casual_low_emotion,kinda,21775,-7.953155994415283,baseline
+The best approach would be,casual_low_emotion,basically,8087,-4.894665718078613,baseline
+The best approach would be,casual_low_emotion,anyway,8668,-7.209830284118652,baseline
+The best approach would be,casual_low_emotion,whatever,5193,-5.3750715255737305,baseline
+The best approach would be,casual_low_emotion,guess,5310,-9.094284057617188,baseline
+The best approach would be,casual_low_emotion,stuff,4269,-8.093011856079102,baseline
+The best approach would be,casual_high_emotion,OMG,21978,-9.290653228759766,baseline
+The best approach would be,casual_high_emotion,totally,7110,-5.491815567016602,baseline
+The best approach would be,casual_high_emotion,literally,8642,-5.999394416809082,baseline
+The best approach would be,casual_high_emotion,seriously,7580,-8.334808349609375,baseline
+The best approach would be,casual_high_emotion,honestly,14483,-6.998013496398926,baseline
+The best approach would be,casual_high_emotion,really,1196,-3.9353811740875244,baseline
+The best approach would be,casual_high_emotion,absolutely,6270,-5.975326061248779,baseline
+The best approach would be,casual_high_emotion,incredibly,9301,-8.564485549926758,baseline

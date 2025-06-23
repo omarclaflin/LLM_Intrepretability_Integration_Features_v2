@@ -1,0 +1,6 @@
+Based on these examples, what single semantic concept or pattern might this feature be detecting? Answer in a couple words or less, immediately without restating the prompt. Then, with the delimiter "EXPLANATION: " give a sentence description. Focus on the common theme or concept across these examples. 
+
+{separator}
+{examples}
+{separator}
+

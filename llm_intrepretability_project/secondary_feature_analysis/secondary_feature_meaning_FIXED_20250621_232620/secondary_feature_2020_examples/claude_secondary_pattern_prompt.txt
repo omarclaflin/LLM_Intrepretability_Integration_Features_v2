@@ -1,0 +1,25 @@
+Based on these examples, what single semantic concept or pattern might this feature be detecting? Answer in a couple words or less, immediately without restating the prompt. Then, with the delimiter "EXPLANATION: " give a sentence description. Focus on the common theme or concept across these examples. 
+
+----------------------------------------
+Example 1: ( 灯 @-@ TOM
+Example 2: reach of the monitors for an attack early the following
+Example 3: anted ( 2014 ) , and
+Example 4: 0 buck & ball cartridges - percussion
+Example 5: 0 buck & ball cartridges - flint
+Example 6: ( 1744 – 18
+Example 7: ( 1865 ) .
+Example 8: acceptable currencies , and paper money traded at a discount
+Example 9: owners , customs , and members of the enthusiast
+Example 10: as club aircraft rented out to qualified pilots for recreational
+Example 11: 4 . Attached to a bicycle company in the
+Example 12: liTZ system , is carried over directly from
+Example 13: and she reached Port Royal under her own power .
+Example 14: unleashed a tiger , let us see if he
+Example 15: elapsed before the change could be effected .
+Example 16: and exposure . Not a particularly religious man , he
+Example 17: ñol recommended coming to terms with the first group
+Example 18: According to a genealogical DNA test arranged by
+Example 19: cartridges , and 520 @
+Example 20: liograph ) . A new 16 @
+----------------------------------------
+

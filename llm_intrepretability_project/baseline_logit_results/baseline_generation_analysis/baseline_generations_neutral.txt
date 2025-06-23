@@ -1,0 +1,43 @@
+=== BASELINE NEUTRAL PROMPTS ===
+
+--- Generation 1 ---
+Prompt: I need to inform everyone about
+Generated: a new project that I am working on.
+I am working on a new project that is going to be a very big one.
+I am working on a new project that is going to be a very big one. I am working on a
+Full text: I need to inform everyone about a new project that I am working on.
+I am working on a new project that is going to be a very big one.
+I am working on a new project that is going to be a very big one. I am working on a
+
+--- Generation 2 ---
+Prompt: When someone asks me about
+Generated: the best way to get a job in the tech industry, I always tell them to get a degree in computer science.
+I’m not saying that a degree in computer science is the only way to get a job in the tech industry. I
+Full text: When someone asks me about the best way to get a job in the tech industry, I always tell them to get a degree in computer science.
+I’m not saying that a degree in computer science is the only way to get a job in the tech industry. I
+
+--- Generation 3 ---
+Prompt: The reason this happened is
+Generated: because the 2018-2019 school year was the first year that the school had a new principal. The previous principal had been there for 10 years.
+The new principal, Mr. Michael Kern, is
+Full text: The reason this happened is because the 2018-2019 school year was the first year that the school had a new principal. The previous principal had been there for 10 years.
+The new principal, Mr. Michael Kern, is
+
+--- Generation 4 ---
+Prompt: My thoughts on this matter are
+Generated: that the government should not be in the business of regulating the internet.
+I think the government should be in the business of regulating the internet.
+I think the government should be in the business of regulating the internet. I think the government should be
+Full text: My thoughts on this matter are that the government should not be in the business of regulating the internet.
+I think the government should be in the business of regulating the internet.
+I think the government should be in the business of regulating the internet. I think the government should be
+
+--- Generation 5 ---
+Prompt: The best way to handle this is
+Generated: to use a different name for the file.
+I've tried to use a different name for the file, but it doesn't work.
+I've tried to use a different name for the file, but it doesn't work
+Full text: The best way to handle this is to use a different name for the file.
+I've tried to use a different name for the file, but it doesn't work.
+I've tried to use a different name for the file, but it doesn't work
+

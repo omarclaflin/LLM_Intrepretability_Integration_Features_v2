@@ -1,0 +1,43 @@
+=== BASELINE FORMAL_EMOTIONAL PROMPTS ===
+
+--- Generation 1 ---
+Prompt: I must express my profound concern regarding
+Generated: the recent decision of the Government of the Republic of the Philippines to withdraw from the International Criminal Court (ICC).
+The Philippines is a party to the Rome Statute, the treaty that established the ICC. The ICC is the only permanent international criminal
+Full text: I must express my profound concern regarding the recent decision of the Government of the Republic of the Philippines to withdraw from the International Criminal Court (ICC).
+The Philippines is a party to the Rome Statute, the treaty that established the ICC. The ICC is the only permanent international criminal
+
+--- Generation 2 ---
+Prompt: It is with great disappointment that I must address
+Generated: the recent events in the United States.
+I am a proud American, and I am deeply saddened by the events that have unfolded in the past few days.
+I am a proud American, and I am deeply saddened by the events
+Full text: It is with great disappointment that I must address the recent events in the United States.
+I am a proud American, and I am deeply saddened by the events that have unfolded in the past few days.
+I am a proud American, and I am deeply saddened by the events
+
+--- Generation 3 ---
+Prompt: I am deeply troubled by the implications of
+Generated: the recent decision of the Supreme Court of Canada in R. v. Jordan.
+The Jordan decision is a major step backwards for the protection of the rights of the accused. It is a decision that will have a chilling effect on the ability of the
+Full text: I am deeply troubled by the implications of the recent decision of the Supreme Court of Canada in R. v. Jordan.
+The Jordan decision is a major step backwards for the protection of the rights of the accused. It is a decision that will have a chilling effect on the ability of the
+
+--- Generation 4 ---
+Prompt: With utmost urgency, I must convey that
+Generated: the situation in the Middle East is rapidly deteriorating.
+The United States is in the process of withdrawing from the Iran nuclear deal.
+The United States is in the process of withdrawing from the JCPOA.
+The United States is
+Full text: With utmost urgency, I must convey that the situation in the Middle East is rapidly deteriorating.
+The United States is in the process of withdrawing from the Iran nuclear deal.
+The United States is in the process of withdrawing from the JCPOA.
+The United States is
+
+--- Generation 5 ---
+Prompt: I feel compelled to voice my serious objections to
+Generated: the proposed changes to the 2018-2022 Strategic Plan.
+I am a member of the Board of Directors of the American Association of University Professors (AAUP) and I am a member of the AAUP’
+Full text: I feel compelled to voice my serious objections to the proposed changes to the 2018-2022 Strategic Plan.
+I am a member of the Board of Directors of the American Association of University Professors (AAUP) and I am a member of the AAUP’
+

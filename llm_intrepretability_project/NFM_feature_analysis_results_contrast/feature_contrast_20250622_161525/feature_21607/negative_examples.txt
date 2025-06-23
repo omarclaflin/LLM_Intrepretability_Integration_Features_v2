@@ -1,0 +1,222 @@
+=== NEGATIVE EXAMPLES (Most Inhibited Activations) ===
+
+--- Negative Example 1 ---
+Activation Score: -1.2173
+Max Token: 'discourse'
+Windowed Text:
+osa takes part in this discourse by recount
+
+Full Text (max 10 tokens):
+osa takes part in this discourse by recounting what
+
+--------------------------------------------------
+
+--- Negative Example 2 ---
+Activation Score: -1.2125
+Max Token: 'years'
+Windowed Text:
+authorized a gold dollar . In its early years
+
+Full Text (max 10 tokens):
+authorized a gold dollar . In its early years ,
+
+--------------------------------------------------
+
+--- Negative Example 3 ---
+Activation Score: -1.1913
+Max Token: 'Mumbai'
+Windowed Text:
+the Gateway of India , Mumbai , which has
+
+Full Text (max 10 tokens):
+the Gateway of India , Mumbai , which has the
+
+--------------------------------------------------
+
+--- Negative Example 4 ---
+Activation Score: -1.1862
+Max Token: 'purposes'
+Windowed Text:
+enantioselective purposes ; typical organ
+
+Full Text (max 10 tokens):
+enantioselective purposes ; typical organos
+
+--------------------------------------------------
+
+--- Negative Example 5 ---
+Activation Score: -1.1785
+Max Token: '.'
+Windowed Text:
+Hollywood debut . Fernandez has also signed on
+
+Full Text (max 10 tokens):
+Hollywood debut . Fernandez has also signed on to
+
+--------------------------------------------------
+
+--- Negative Example 6 ---
+Activation Score: -1.1758
+Max Token: 'from'
+Windowed Text:
+a concussion . Mason returned from his conc
+
+Full Text (max 10 tokens):
+a concussion . Mason returned from his concussion
+
+--------------------------------------------------
+
+--- Negative Example 7 ---
+Activation Score: -1.1724
+Max Token: 'A'
+Windowed Text:
+Little Rock Arsenal , C.S.A
+
+Full Text (max 10 tokens):
+Little Rock Arsenal , C.S.A.
+
+--------------------------------------------------
+
+--- Negative Example 8 ---
+Activation Score: -1.1671
+Max Token: 'este'
+Windowed Text:
+ino dockyard in Trieste , the
+
+Full Text (max 10 tokens):
+ino dockyard in Trieste , the same place
+
+--------------------------------------------------
+
+--- Negative Example 9 ---
+Activation Score: -1.1649
+Max Token: 'intentions'
+Windowed Text:
+s intentions , the author concluded that her self
+
+Full Text (max 10 tokens):
+s intentions , the author concluded that her self @
+
+--------------------------------------------------
+
+--- Negative Example 10 ---
+Activation Score: -1.1528
+Max Token: '.'
+Windowed Text:
+Mexico in February 1911 .
+
+Full Text (max 10 tokens):
+Mexico in February 1911 . He
+
+--------------------------------------------------
+
+--- Negative Example 11 ---
+Activation Score: -1.1466
+Max Token: 'Carolina'
+Windowed Text:
+Union base at Port Royal , South Carolina while
+
+Full Text (max 10 tokens):
+Union base at Port Royal , South Carolina while the
+
+--------------------------------------------------
+
+--- Negative Example 12 ---
+Activation Score: -1.1419
+Max Token: 'assignment'
+Windowed Text:
+traveled to India for a modeling assignment . She
+
+Full Text (max 10 tokens):
+traveled to India for a modeling assignment . She studied
+
+--------------------------------------------------
+
+--- Negative Example 13 ---
+Activation Score: -1.1363
+Max Token: 'tone'
+Windowed Text:
+follows the same melodic tone as the album '
+
+Full Text (max 10 tokens):
+follows the same melodic tone as the album 's
+
+--------------------------------------------------
+
+--- Negative Example 14 ---
+Activation Score: -1.1356
+Max Token: 'success'
+Windowed Text:
+commercial success , with the domestic gross of more
+
+Full Text (max 10 tokens):
+commercial success , with the domestic gross of more than
+
+--------------------------------------------------
+
+--- Negative Example 15 ---
+Activation Score: -1.1294
+Max Token: 'success'
+Windowed Text:
+plan was intended to replicate the success of the
+
+Full Text (max 10 tokens):
+plan was intended to replicate the success of the raid
+
+--------------------------------------------------
+
+--- Negative Example 16 ---
+Activation Score: -1.1293
+Max Token: 'omer'
+Windowed Text:
+of the axial diastereomer is
+
+Full Text (max 10 tokens):
+of the axial diastereomer is rational
+
+--------------------------------------------------
+
+--- Negative Example 17 ---
+Activation Score: -1.1083
+Max Token: 'eller'
+Windowed Text:
+( as the storyteller dares to
+
+Full Text (max 10 tokens):
+( as the storyteller dares to conce
+
+--------------------------------------------------
+
+--- Negative Example 18 ---
+Activation Score: -1.1066
+Max Token: 'aro'
+Windowed Text:
+ored cruisers stationed in Cattaro
+
+Full Text (max 10 tokens):
+ored cruisers stationed in Cattaro , including
+
+--------------------------------------------------
+
+--- Negative Example 19 ---
+Activation Score: -1.1055
+Max Token: 'ating'
+Windowed Text:
+into contact with the rejuvenating water
+
+Full Text (max 10 tokens):
+into contact with the rejuvenating water of
+
+--------------------------------------------------
+
+--- Negative Example 20 ---
+Activation Score: -1.1041
+Max Token: 'Australia'
+Windowed Text:
+Lake Eaton in Central Australia , Eaton
+
+Full Text (max 10 tokens):
+Lake Eaton in Central Australia , Eaton Place
+
+--------------------------------------------------
+

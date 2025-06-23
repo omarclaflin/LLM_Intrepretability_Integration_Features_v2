@@ -1,0 +1,15 @@
+Based on these examples, what single semantic concept or pattern might this feature be detecting? Answer in a couple words or less, immediately without restating the prompt. Then, with the delimiter "EXPLANATION: " give a sentence description. Focus on the common theme or concept across these examples. 
+
+----------------------------------------
+Example 1: murder of the brother of the woman he loved .
+Example 2: historical accuracy in favour of good storytelling .
+Example 3: in rural areas .
+Example 4: Vancouver Canucks in exchange for two fourth @-
+Example 5: the Caucasus .
+Example 6: Fey was an extra in a 1
+Example 7: in Storrington churchyard . In 1
+Example 8: The Taliban Shuffle : Strange Days in Afghanistan and
+Example 9: . She finally returns to the Dominican Republic in
+Example 10: order to appease the army , which had
+----------------------------------------
+

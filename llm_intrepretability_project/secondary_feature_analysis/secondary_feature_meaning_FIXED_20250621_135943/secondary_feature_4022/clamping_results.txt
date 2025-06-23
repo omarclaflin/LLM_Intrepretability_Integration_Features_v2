@@ -1,0 +1,103 @@
+Secondary SAE Feature 4022 Clamping Results (FIXED)
+
+Input: Human: What's your favorite animal?
+
+Assistant:
+
+Base (Unclamped):
+
+Aquaman: The shark.
+(Jason Momoa stares at the camera and flexes his biceps)
+Aquaman: Because they're the smartest.
+Human: Wow.
+Human: What's the weirdest animal you've ever seen?
+Aquaman: A shark eating a fish.
+Human: Really?
+Human: Is it a shark or a fish?
+Aquaman: A shark.
+Human: A shark eating a fish.
+Aquaman: Yeah.
+Human: The shark's eating the fish.
+Aquaman: Yeah. Yeah. Yeah. Yeah.
+Human: Is it a predator or a scavenger?
+Aquaman: Predator.
+Human: Is it a scavenger or a predator?
+Aquaman: Predator.
+Human: Predator.
+Human: Is it a predator or a scavenger?
+Aquaman: Yeah. It's a predator.
+Human: Is it a predator or a scavenger?
+Aquaman: Predator. Predator. Predator.
+Human: It's a predator.
+Aquaman: Yeah. Yeah. I'm a predator.
+Human: You're a predator.
+Aquaman: Yeah. Yeah.
+Human: Are you a cat predator or a dog pred
+
+clamp_0.0000:
+
+Kitty: I like cats, I like dogs, I like tigers, I like all kinds of animals.
+Kitty: I like the zoo, I like going to the zoo, I like going to the aquarium, I like the zoo and all kinds of animals.
+Kitty: I like going to the zoo, I like going to the aquarium, I like the zoo and all kinds of animals.
+Kitty: I like going to the zoo, I like going to the aquarium, I like dogs, I like cats, I like all kinds of animals.
+Kitty: I like dogs, I like cats, I like all kinds of animals.
+Lily: I like animals, I like dogs, I like cats, I like tigers, I like all kinds of animals.
+Lily: I like dogs, I like cats, I like tigers, I like all kinds of animals.
+Lily: I like dogs, I like cats, I like dogs, I like tigers, I like all kinds of animals.
+Lily: I like dogs, I like cats, I like tigers, I like dogs, I like all kinds of animals.
+Lily: I like dogs, I like tigers, I like dogs, I like cats, I like tigers, I like all kinds of animals.
+Lily: I like dogs, I like cats,
+
+clamp_5.5359:
+
+Chip: I don't have one, I like them all.
+Chip: What's so bad about being bad?
+Chip: What's your favorite place to visit?
+Chip: What's your favorite song?
+Chip: What's your favorite book?
+Chip: What's your favorite candy?
+Chip: What's your favorite color?
+Chip: What's the funniest joke you've ever heard?
+Chip: What's your favorite drink?
+Chip: What's your favorite vegetable?
+Chip: What's your favorite game?
+Chip: What's your favorite thing to do in the summer?
+Chip: What's your favorite thing to do in the winter?
+Chip: What's your favorite thing to do in the spring?
+Chip: What's your favorite thing to do in the fall?
+Chip: What's your favorite thing to do in the summer?
+Chip: What's your favorite thing to do in the winter?
+Chip: What's your favorite thing to do in the spring?
+Chip: What's your favorite thing to do in the fall?
+Chip: What's your favorite thing to do in the summer?
+Chip: What's your favorite thing to do in the winter?
+Chip
+
+clamp_13.8397:
+
+Animals: I love them all!
+Human: Tell me your favorite animal.
+Animals: I love all of my pets!
+Human: What's your favorite food?
+Animals: I love to eat!
+Human: I love to eat too!
+Animals: I love to eat!
+Human: What's your favorite drink?
+Animals: I love to drink!
+Human: What's your favorite song?
+Animals: I love music! I love to sing!
+Human: What's your favorite game?
+Animals: I love to play!
+Human: What's your favorite color?
+Animals: I love to see!
+Human: What's your favorite thing to do?
+Animals: I love to play!
+Human: What's your favorite movie?
+Animals: I love to watch!
+Human: What's your favorite TV show?
+Animals: I love to watch!
+Human: What's your favorite book?
+Animals: I love to read!
+Human: What's your favorite song?
+Animals: I love to sing!
+

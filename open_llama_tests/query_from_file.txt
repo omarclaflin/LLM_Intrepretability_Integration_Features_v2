@@ -1,0 +1,12 @@
+You will rate how well a feature pattern matches text.
+You must respond with ONLY a single digit (0, 1, 2, or 3) and nothing else.
+
+RATING SCALE:
+0 – The feature is completely irrelevant throughout the context.
+1 – The feature is related to the context, but not near the highlighted text or only vaguely related.
+2 – The feature is only loosely related to the highlighted text or related to the context near the highlighted text.
+3 – The feature cleanly identifies the activating text.
+
+Feature Pattern: "dates and date ranges"
+Text: unofficial fan translation patch began development in February 2012 : players with a copy of V
+Rating: ?

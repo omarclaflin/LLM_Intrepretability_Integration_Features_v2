@@ -1,0 +1,33 @@
+=== BASELINE CASUAL_NEUTRAL PROMPTS ===
+
+--- Generation 1 ---
+Prompt: So anyway, I was thinking about
+Generated: how I could make a new blog post, and I thought about how I could make a new blog post, and I thought about how I could make a new blog post, and I thought about how I could make a new blog post, and I
+Full text: So anyway, I was thinking about how I could make a new blog post, and I thought about how I could make a new blog post, and I thought about how I could make a new blog post, and I thought about how I could make a new blog post, and I
+
+--- Generation 2 ---
+Prompt: Yeah, the thing is that
+Generated: I'm not sure if I'm going to be able to get the game to run on my computer. I'm using a 2007 MacBook Pro with a 2.4 GHz Intel Core 2 Duo
+Full text: Yeah, the thing is that I'm not sure if I'm going to be able to get the game to run on my computer. I'm using a 2007 MacBook Pro with a 2.4 GHz Intel Core 2 Duo
+
+--- Generation 3 ---
+Prompt: Basically what happened was
+Generated: that I was in the middle of a long-term relationship with a guy who was a lot like my ex-husband. He was a very nice guy, but he was also a very controlling person. He was very jealous and possessive,
+Full text: Basically what happened was that I was in the middle of a long-term relationship with a guy who was a lot like my ex-husband. He was a very nice guy, but he was also a very controlling person. He was very jealous and possessive,
+
+--- Generation 4 ---
+Prompt: I guess the main point is
+Generated: that I'm not sure what the best way to do this is. I'm not sure if I should be using a different method of getting the data, or if I should be using a different method of displaying it.
+I'm
+Full text: I guess the main point is that I'm not sure what the best way to do this is. I'm not sure if I should be using a different method of getting the data, or if I should be using a different method of displaying it.
+I'm
+
+--- Generation 5 ---
+Prompt: You know, it's kinda interesting how
+Generated: the media is trying to make this into a big deal.
+I'm not saying that it's not a big deal. I'm just saying that it's not the biggest deal in the world.
+I'm not saying
+Full text: You know, it's kinda interesting how the media is trying to make this into a big deal.
+I'm not saying that it's not a big deal. I'm just saying that it's not the biggest deal in the world.
+I'm not saying
+

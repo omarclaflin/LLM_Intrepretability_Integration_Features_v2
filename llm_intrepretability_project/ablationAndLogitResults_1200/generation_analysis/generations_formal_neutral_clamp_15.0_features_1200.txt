@@ -1,0 +1,37 @@
+=== FORMAL_NEUTRAL PROMPTS - CLAMP_15.0 ===
+
+--- Generation 1 ---
+Prompt: According to the documentation, the procedure requires
+Generated: the following additional information:
+
+                                           
+Full text: According to the documentation, the procedure requires the following additional information:
+
+                                           
+
+--- Generation 2 ---
+Prompt: The analysis indicates that the optimal approach involves
+Generated: the simultaneous use of both strategies.
+
+Full text: The analysis indicates that the optimal approach involves the simultaneous use of both strategies.
+
+
+--- Generation 3 ---
+Prompt: Pursuant to the established guidelines, it is recommended that
+Generated: the 201
+Full text: Pursuant to the established guidelines, it is recommended that the 201
+
+--- Generation 4 ---
+Prompt: The evaluation demonstrates that the most effective method is
+Generated: the 2- 200000Hz protocol.
+
+
+Full text: The evaluation demonstrates that the most effective method is the 2- 200000Hz protocol.
+
+
+
+--- Generation 5 ---
+Prompt: Based on the available evidence, the conclusion suggests that
+Generated: the overall overall preventive bundle of effective combination bundle of effective combination bundle of effective combination bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle
+Full text: Based on the available evidence, the conclusion suggests that the overall overall preventive bundle of effective combination bundle of effective combination bundle of effective combination bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle bundle
+

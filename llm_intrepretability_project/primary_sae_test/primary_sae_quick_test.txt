@@ -1,0 +1,22 @@
+=== PRIMARY SAE HOOK QUICK TEST ===
+
+Prompt: Hello
+Generated: dear dear dear dear dear dear dear dear dear dear
+Full text: Hello dear dear dear dear dear dear dear dear dear dear
+
+Prompt: The cat
+Generated: heterisation laboratory (or sometimes called the cath lab
+Full text: The cat heterisation laboratory (or sometimes called the cath lab
+
+Prompt: I think
+Generated: I’ ike you.
+
+
+
+
+Full text: I think I’ ike you.
+
+
+
+
+

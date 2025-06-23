@@ -1,0 +1,88 @@
+(env script)
+llm_intrepretability_project\setup-windows\download_openLlama3B.ps1
+llm_intrepretability_project\setup-windows\setup-llm-intrepretability.ps1
+
+
+(project init stuff)
+cd llm_intrepretability_project
+..\\llm-venv\Scripts\activate.bat
+
+(train SAE)
+python part1c_sae_topK_implementation.py
+
+(DEBUGGING ONLY: test baseline model, test SAE hooks)
+(I saw glitchy behavior by OpenLlama 3B)
+python part13b_noClampHooks_openLlama3BTest.py --model_path ../models/open_llama_3b --output_dir ./baseline_results --generation_length 50
+
+python part13c_primarySAE_hooksOnly.py 
+--model_path ../models/open_llama_3b --primary_sae_path checkpoints_topk/best_model.pt --output_dir ./primary_sae_test --generation_length 50    
+
+[Even with fairly low loss/high var explained; still getting repetitive responses on SAE-hook-LLM outputs]
+
+python part13d_primarySAEdebugging.py --model_path ../models/open_llama_3b --sae_path checkpoints_topk/checkpoint_step_200000.pt --output_dir ./sae_debug_results --device cuda --top_k 1024 
+
+[definitely some mean differences -- especially with a small model like OpenLLama 3B -- produces inconsistent outputs seen in /baseline_results/* (no SAE) vs /primary_sae_test/*]
+
+
+(CONFIRMATORY BASELINE ONLY: try SAE training on residual)
+python part2_residual_SAE_implementation.py --sae1_model_path checkpoints_topk/best_model.pt
+[shows no significant information gain from residual modelling w/ standard SAE: ~0.02% relative error reduction]
+
+
+(build NFM; 2d has streaming data and latest NFM params)
+python part2d_residual_NFM_streaming.py --sae1_model_path checkpoints_topk/best_model.pt --checkpoint_dir NFM_300_300_200
+
+(OPTIONAL: just shows linear and interaction have no overlap)
+python part3_inspect_components.py --model_path checkpoints_nfm\best_nfm_linear_interaction_model.pt
+
+(decompose NFM embedding --> Train intrepretable SAE)
+python part10_sae_decomp_of_NFM.py --nfm_model_path checkpoints_nfm/best_nfm_linear_interaction_model.pt --sae1_model_path checkpoints_topk/best_model.pt --checkpoint_dir ../interaction_sae
+
+~100k runs --> 0.04 Recon loss; .96 variance explained, (enforced sparisty) of 2%
+
+(ID top SAE features in sample 2x2 stimulus inputs)
+python part9b_stimulus_response_listOfDiscoveredFeatures_analysis.py --model_path ../models/open_llama_3b --sae_path checkpoints_topk/best_model.pt --nfm_path checkpoints_nfm/best_nfm_linear_interaction_model.pt --output_dir ./stimulus_response_results_discovered --n_features 1 --sae_k 500
+ults_discovered --n_features 1 --sae_k 500
+
+(OPTIONAL: examine NFM directly)
+python part11_NFMSAE_Analysis.py --model_path ../models/open_llama_3b --primary_sae_path checkpoints_topk/best_model.pt --nfm_path checkpoints_nfm/best_nfm_linear_interaction_model.pt --secondary_sae_path ./interaction_sae/best_interaction_sae_topk_model.pt --primary_feature1 21781 --primary_feature2 21607 --top_n_primary 1 --top_n_secondary 1 --output_dir ./interaction_SAE_results
+
+(examine NFM SAE embedding)
+python part12_NFMSAE_feature_meaning_large_wiki.py --model_path ../models/open_llama_3b --primary_sae_path ./checkpoints_topk/best_model.pt --nfm_path ./checkpoints_nfm/best_nfm_linear_interaction_model.pt --secondary_sae_path ./interaction_sae/best_interaction_sae_topk_model.pt --features "4067,4022,3520,899,2020" --output_dir ./secondary_feature_analysis --max_token_length 10 --claude_examples 20
+
+(attempting interventional modulation of ID'd feature)
+part13b -- shows poor Llama 3B response (w/o any hooks)
+part13 -- interaction feature
+python part13_logit_and_clamping_analysis_on_interaction_feature.py --model_path ../models/open_llama_3b --primary_sae_path checkpoints_topk/best_model.pt --nfm_path checkpoints_nfm/best_nfm_linear_interaction_model.pt --secondary_sae_path ./interaction_sae/best_interaction_sae_topk_model.pt --output_dir ./ablationAndLogitResults --target_features 4067 --clamp_multipliers -4.0 0.0 1.0 4.0  --generation_length 50
+
+
+ALTERNATE FEATURE EXPLORATION
+(find highest Gini coefficient/unequal 'interaction feature')
+python part4_NFM_sparsity_inspector.py --model_path checkpoints_nfm/best_nfm_linear_interaction_model.pt --component embeddings 
+
+
+Highest Gini coefficient row (most unequal): Row 17512
+  Gini coefficient: 0.4915
+  L0 sparsity: 0.0000
+  Effective rank: 133.50
+
+Lowest effective rank row (most concentrated): Row 17512
+  Effective rank: 133.50
+  L0 sparsity: 0.0000
+  Gini coefficient: 0.4915
+
+(feature meaning of interaction 'dense' NFM element)
+python part5c_find_feature_meaning.py --model_path ../models/open_llama_3b --features "17512" --output_dir ./NFM_feature_analysis_results/ --config_dir ../config --max_token_length 10
+
+(finds secondary feature)
+python part11_NFMSAE_Analysis.py --model_path ../models/open_llama_3b --primary_sae_path checkpoints_topk/best_model.pt --nfm_path checkpoints_nfm/best_nfm_linear_interaction_model.pt --secondary_sae_path ./interaction_sae/best_interaction_sae_topk_model.p_model.pt --primary_feature1 17512 --primary_feature2 32616 --top_n_primary 1 --top_n_secondary 1 --output_dir ./results
+
+(feature meaning of secondary feature)
+python part12_NFMSAE_feature_meaning_large_wiki.py --model_path ../models/open_llama_3b --primary_sae_path ./checkpoints_topk/best_model.pt --nfm_path ./checkpoints_nfm/best_nfm_linear_interaction_model.pt --secondary_sae_path ./interaction_sae/best_interaction_sae_topk_model.pt --features "4067,4022,3520,899,2020" --output_dir ./secondary_feature_analysis --max_token_length 10 --claude_examples 20
+
+(intervention/clamping of secondary feature)
+python part13_logit_and_clamping_analysis_on_interaction_feature.py --model_path ../models/open_llama_3b --primary_sae_path checkpoints_topk/best_model.pt --nfm_path checkpoints_nfm/best_nfm_linear_interaction_model.pt --secondary_sae_path ./interaction_sae/best_interaction_sae_topk_model.pt --output_dir ./ablationAndLogitResults --target_features 4067 --clamp_multipliers -4.0 0.0 1.0 4.0  --generation_length 50    
+
+
+(control comparison only)
+python part12b_NFMSAE_LinearComponentAnalysisOnly_feature_meaning.py --model_path ../models/open_llama_3b --primary_sae_path ./checkpoints_topk/best_model.pt --nfm_path ./checkpoints_nfm/best_nfm_linear_interaction_model.pt --primary_feature1 17512 --primary_feature2 32616 --output_dir ./linear_component_analysis --max_token_length 10 --claude_examples 20 --config_dir ../config 

@@ -1,0 +1,93 @@
+Secondary SAE Feature 899 Clamping Results (FIXED)
+
+Input: Human: What's your favorite animal?
+
+Assistant:
+
+Base (Unclamped):
+
+Toy: Oh, I like all of them.
+Human: Which animal is your favorite?
+Toy: I like all of them.
+Toy: I like all of them.
+Humans: What is your favorite animal?
+
+clamp_0.0000:
+
+You: Lion
+Human: What's your favorite sound?
+You: Roar
+Human: What's your favorite color?
+You: Black
+Human: What's your favorite season?
+You: Winter
+Human: What's your favorite food?
+You: Caught him!
+Human: What's your favorite superhero?
+You: You!
+Human: What's your favorite game?
+You: Mine's a dinosaur game.
+Human: What's your favorite ice-cream?
+You: I don't have a favorite ice cream.
+Human: What's your favorite car?
+You: It's a Ford.
+Human: What's your favorite teacher?
+You: My teacher.
+Human: What's your favorite flower?
+You: My flower.
+Human: What's your favorite movie?
+You: I don't have a favorite movie.
+Human: What's your favorite singer?
+You: My singer.
+Human: What's your favorite food?
+You: You!
+Human: What's your favorite sport?
+You: My sport.
+Human: What's your favorite animal?
+You: My animal.
+Human: What's your favorite song?
+You: My song.
+Human: What's your favorite movie?
+Human: What's your favorite color?
+Human
+
+clamp_1.6274:
+
+The first time I saw a dragonfly, I knew my life was changed.
+I was 6 years old. My family and I had gone hiking in the woods of New Hampshire. There were no trails or paths in those woods. You simply followed the sound of the birds and the buzz of insects.
+We had hiked for several hours when I spotted the dragonfly. I was immediately struck by its beauty. It was a little larger than my hand. I was shocked that it could fly! It was a miracle! It was a miracle that a beautiful creature could be so graceful and strong.
+The dragonfly seemed to speak to me. I knew I wanted to do something to help him. I wanted to protect him and help him.
+I knew that I would have to become a warrior for him. This was my calling.
+I had never heard of the term warrior in my life. I didn't know that our world was filled with so many amazing and inspiring people who are doing incredible things to help us.
+I knew right away that I would become a warrior for the animals. I would do anything to protect them and help them.
+I know that we all have a calling to help the animals. We are all warriors for them. We are all doing incredible things to help them.
+I know that it is important to follow our calling. It is important to do what we know is right for the animals.
+It is important to
+
+clamp_4.0686:
+
+Riley: I like bears.
+Dylan: What's your favorite animal?
+Riley: I don't know. I don't like any.
+Riley: I'm not like the other kids.
+Dylan: I like lions.
+Riley: I've never been to a zoo.
+Dylan: I've been to a zoo.
+Riley: I've never been to a circus.
+Dylan: I have. I'm a clown.
+Riley: I'm not like the other kids.
+Dylan: Well, you're not like the other kids.
+Riley: I don't know. I don't like any.
+Dylan: I like lions.
+Riley: I've never been to a zoo.
+Dylan: I've been to a zoo.
+Riley: I've never been to a circus.
+Dylan: I am a clown.
+Riley: I am not like the other kids.
+Dylan: Well, you're not like the other kids.
+Riley: I don't know. I don't like any.
+Dylan: I like lions.
+Riley: I've never been to a zoo.
+Dylan: I've been to a zoo.
+Riley: I've never been to a circus.
+

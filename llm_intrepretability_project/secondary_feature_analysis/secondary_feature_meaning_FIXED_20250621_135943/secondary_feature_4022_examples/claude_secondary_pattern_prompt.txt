@@ -1,0 +1,25 @@
+Based on these examples, what single semantic concept or pattern might this feature be detecting? Answer in a couple words or less, immediately without restating the prompt. Then, with the delimiter "EXPLANATION: " give a sentence description. Focus on the common theme or concept across these examples. 
+
+----------------------------------------
+Example 1: that pilots can be trained outside of the UK ,
+Example 2: that lay behind all things and was present in all
+Example 3: that exists almost edge @-@ on to its
+Example 4: that knowing the past is crucial to one 's
+Example 5: that time , scholars disagree about whether any modern C
+Example 6: that the pairing " has been a hilarious , pitch
+Example 7: that carried 50 pounds ( 23
+Example 8: that he felt that he " could be a huge
+Example 9: that of the Sun . In terms of size ,
+Example 10: that the creator god will one day dissolve the
+Example 11: that Shiva was pleased with Ravana for restoring
+Example 12: that were damaged or destroyed included wharves ,
+Example 13: that Fey 's performance is " supposed to
+Example 14: that repeat the shaming of children , so that
+Example 15: that the amount of iron found in the Sun .
+Example 16: that early numismatic scholars assumed the reverse was
+Example 17: that if no one wanted these denominations , they
+Example 18: that god . By inhabiting these images , the
+Example 19: that Ra personified the sun . Short @-
+Example 20: that did not interfere with the well @-@
+----------------------------------------
+

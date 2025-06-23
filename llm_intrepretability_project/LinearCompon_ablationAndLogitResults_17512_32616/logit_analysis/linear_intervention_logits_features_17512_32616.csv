@@ -1,0 +1,641 @@
+prompt,clamp_value,word_category,word,token_id,logit_value,target_features,intervention_type
+I think that,0.0,formal_low_emotion,perhaps,4153,0.2282208502292633,"[17512, 32616]",linear_weights
+I think that,0.0,formal_low_emotion,may,754,-2.794450521469116,"[17512, 32616]",linear_weights
+I think that,0.0,formal_low_emotion,however,2480,-3.884767532348633,"[17512, 32616]",linear_weights
+I think that,0.0,formal_low_emotion,therefore,4320,-4.22113037109375,"[17512, 32616]",linear_weights
+I think that,0.0,formal_low_emotion,consequently,23995,-4.975729465484619,"[17512, 32616]",linear_weights
+I think that,0.0,formal_low_emotion,moreover,541,-2.8233041763305664,"[17512, 32616]",linear_weights
+I think that,0.0,formal_low_emotion,accordingly,17159,-7.211433410644531,"[17512, 32616]",linear_weights
+I think that,0.0,formal_low_emotion,furthermore,2134,-3.010777235031128,"[17512, 32616]",linear_weights
+I think that,0.0,formal_high_emotion,profoundly,29160,-7.60040807723999,"[17512, 32616]",linear_weights
+I think that,0.0,formal_high_emotion,devastated,27668,-8.447659492492676,"[17512, 32616]",linear_weights
+I think that,0.0,formal_high_emotion,magnificent,16773,-6.404609680175781,"[17512, 32616]",linear_weights
+I think that,0.0,formal_high_emotion,appalling,573,-4.747313499450684,"[17512, 32616]",linear_weights
+I think that,0.0,formal_high_emotion,extraordinary,10035,-4.56761360168457,"[17512, 32616]",linear_weights
+I think that,0.0,formal_high_emotion,overwhelming,11734,-5.35273551940918,"[17512, 32616]",linear_weights
+I think that,0.0,formal_high_emotion,catastrophic,24769,-7.212813377380371,"[17512, 32616]",linear_weights
+I think that,0.0,formal_high_emotion,triumphant,15511,-4.3313140869140625,"[17512, 32616]",linear_weights
+I think that,0.0,casual_low_emotion,yeah,12191,-5.187953472137451,"[17512, 32616]",linear_weights
+I think that,0.0,casual_low_emotion,okay,10989,-4.059655666351318,"[17512, 32616]",linear_weights
+I think that,0.0,casual_low_emotion,kinda,21775,-3.7764923572540283,"[17512, 32616]",linear_weights
+I think that,0.0,casual_low_emotion,basically,8087,-4.426982402801514,"[17512, 32616]",linear_weights
+I think that,0.0,casual_low_emotion,anyway,8668,-1.931951642036438,"[17512, 32616]",linear_weights
+I think that,0.0,casual_low_emotion,whatever,5193,-1.5552395582199097,"[17512, 32616]",linear_weights
+I think that,0.0,casual_low_emotion,guess,5310,-7.4511542320251465,"[17512, 32616]",linear_weights
+I think that,0.0,casual_low_emotion,stuff,4269,-4.787719249725342,"[17512, 32616]",linear_weights
+I think that,0.0,casual_high_emotion,OMG,21978,-3.993553638458252,"[17512, 32616]",linear_weights
+I think that,0.0,casual_high_emotion,totally,7110,-5.065082550048828,"[17512, 32616]",linear_weights
+I think that,0.0,casual_high_emotion,literally,8642,-3.7005529403686523,"[17512, 32616]",linear_weights
+I think that,0.0,casual_high_emotion,seriously,7580,-5.0746660232543945,"[17512, 32616]",linear_weights
+I think that,0.0,casual_high_emotion,honestly,14483,-2.764317750930786,"[17512, 32616]",linear_weights
+I think that,0.0,casual_high_emotion,really,1196,-1.3245974779129028,"[17512, 32616]",linear_weights
+I think that,0.0,casual_high_emotion,absolutely,6270,-4.643393039703369,"[17512, 32616]",linear_weights
+I think that,0.0,casual_high_emotion,incredibly,9301,-5.073712348937988,"[17512, 32616]",linear_weights
+I think that,1.0,formal_low_emotion,perhaps,4153,0.2282208502292633,"[17512, 32616]",linear_weights
+I think that,1.0,formal_low_emotion,may,754,-2.794450521469116,"[17512, 32616]",linear_weights
+I think that,1.0,formal_low_emotion,however,2480,-3.884767532348633,"[17512, 32616]",linear_weights
+I think that,1.0,formal_low_emotion,therefore,4320,-4.22113037109375,"[17512, 32616]",linear_weights
+I think that,1.0,formal_low_emotion,consequently,23995,-4.975729465484619,"[17512, 32616]",linear_weights
+I think that,1.0,formal_low_emotion,moreover,541,-2.8233041763305664,"[17512, 32616]",linear_weights
+I think that,1.0,formal_low_emotion,accordingly,17159,-7.211433410644531,"[17512, 32616]",linear_weights
+I think that,1.0,formal_low_emotion,furthermore,2134,-3.010777235031128,"[17512, 32616]",linear_weights
+I think that,1.0,formal_high_emotion,profoundly,29160,-7.60040807723999,"[17512, 32616]",linear_weights
+I think that,1.0,formal_high_emotion,devastated,27668,-8.447659492492676,"[17512, 32616]",linear_weights
+I think that,1.0,formal_high_emotion,magnificent,16773,-6.404609680175781,"[17512, 32616]",linear_weights
+I think that,1.0,formal_high_emotion,appalling,573,-4.747313499450684,"[17512, 32616]",linear_weights
+I think that,1.0,formal_high_emotion,extraordinary,10035,-4.56761360168457,"[17512, 32616]",linear_weights
+I think that,1.0,formal_high_emotion,overwhelming,11734,-5.35273551940918,"[17512, 32616]",linear_weights
+I think that,1.0,formal_high_emotion,catastrophic,24769,-7.212813377380371,"[17512, 32616]",linear_weights
+I think that,1.0,formal_high_emotion,triumphant,15511,-4.3313140869140625,"[17512, 32616]",linear_weights
+I think that,1.0,casual_low_emotion,yeah,12191,-5.187953472137451,"[17512, 32616]",linear_weights
+I think that,1.0,casual_low_emotion,okay,10989,-4.059655666351318,"[17512, 32616]",linear_weights
+I think that,1.0,casual_low_emotion,kinda,21775,-3.7764923572540283,"[17512, 32616]",linear_weights
+I think that,1.0,casual_low_emotion,basically,8087,-4.426982402801514,"[17512, 32616]",linear_weights
+I think that,1.0,casual_low_emotion,anyway,8668,-1.931951642036438,"[17512, 32616]",linear_weights
+I think that,1.0,casual_low_emotion,whatever,5193,-1.5552395582199097,"[17512, 32616]",linear_weights
+I think that,1.0,casual_low_emotion,guess,5310,-7.4511542320251465,"[17512, 32616]",linear_weights
+I think that,1.0,casual_low_emotion,stuff,4269,-4.787719249725342,"[17512, 32616]",linear_weights
+I think that,1.0,casual_high_emotion,OMG,21978,-3.993553638458252,"[17512, 32616]",linear_weights
+I think that,1.0,casual_high_emotion,totally,7110,-5.065082550048828,"[17512, 32616]",linear_weights
+I think that,1.0,casual_high_emotion,literally,8642,-3.7005529403686523,"[17512, 32616]",linear_weights
+I think that,1.0,casual_high_emotion,seriously,7580,-5.0746660232543945,"[17512, 32616]",linear_weights
+I think that,1.0,casual_high_emotion,honestly,14483,-2.764317750930786,"[17512, 32616]",linear_weights
+I think that,1.0,casual_high_emotion,really,1196,-1.3245974779129028,"[17512, 32616]",linear_weights
+I think that,1.0,casual_high_emotion,absolutely,6270,-4.643393039703369,"[17512, 32616]",linear_weights
+I think that,1.0,casual_high_emotion,incredibly,9301,-5.073712348937988,"[17512, 32616]",linear_weights
+I think that,2.0,formal_low_emotion,perhaps,4153,0.2282208502292633,"[17512, 32616]",linear_weights
+I think that,2.0,formal_low_emotion,may,754,-2.794450521469116,"[17512, 32616]",linear_weights
+I think that,2.0,formal_low_emotion,however,2480,-3.884767532348633,"[17512, 32616]",linear_weights
+I think that,2.0,formal_low_emotion,therefore,4320,-4.22113037109375,"[17512, 32616]",linear_weights
+I think that,2.0,formal_low_emotion,consequently,23995,-4.975729465484619,"[17512, 32616]",linear_weights
+I think that,2.0,formal_low_emotion,moreover,541,-2.8233041763305664,"[17512, 32616]",linear_weights
+I think that,2.0,formal_low_emotion,accordingly,17159,-7.211433410644531,"[17512, 32616]",linear_weights
+I think that,2.0,formal_low_emotion,furthermore,2134,-3.010777235031128,"[17512, 32616]",linear_weights
+I think that,2.0,formal_high_emotion,profoundly,29160,-7.60040807723999,"[17512, 32616]",linear_weights
+I think that,2.0,formal_high_emotion,devastated,27668,-8.447659492492676,"[17512, 32616]",linear_weights
+I think that,2.0,formal_high_emotion,magnificent,16773,-6.404609680175781,"[17512, 32616]",linear_weights
+I think that,2.0,formal_high_emotion,appalling,573,-4.747313499450684,"[17512, 32616]",linear_weights
+I think that,2.0,formal_high_emotion,extraordinary,10035,-4.56761360168457,"[17512, 32616]",linear_weights
+I think that,2.0,formal_high_emotion,overwhelming,11734,-5.35273551940918,"[17512, 32616]",linear_weights
+I think that,2.0,formal_high_emotion,catastrophic,24769,-7.212813377380371,"[17512, 32616]",linear_weights
+I think that,2.0,formal_high_emotion,triumphant,15511,-4.3313140869140625,"[17512, 32616]",linear_weights
+I think that,2.0,casual_low_emotion,yeah,12191,-5.187953472137451,"[17512, 32616]",linear_weights
+I think that,2.0,casual_low_emotion,okay,10989,-4.059655666351318,"[17512, 32616]",linear_weights
+I think that,2.0,casual_low_emotion,kinda,21775,-3.7764923572540283,"[17512, 32616]",linear_weights
+I think that,2.0,casual_low_emotion,basically,8087,-4.426982402801514,"[17512, 32616]",linear_weights
+I think that,2.0,casual_low_emotion,anyway,8668,-1.931951642036438,"[17512, 32616]",linear_weights
+I think that,2.0,casual_low_emotion,whatever,5193,-1.5552395582199097,"[17512, 32616]",linear_weights
+I think that,2.0,casual_low_emotion,guess,5310,-7.4511542320251465,"[17512, 32616]",linear_weights
+I think that,2.0,casual_low_emotion,stuff,4269,-4.787719249725342,"[17512, 32616]",linear_weights
+I think that,2.0,casual_high_emotion,OMG,21978,-3.993553638458252,"[17512, 32616]",linear_weights
+I think that,2.0,casual_high_emotion,totally,7110,-5.065082550048828,"[17512, 32616]",linear_weights
+I think that,2.0,casual_high_emotion,literally,8642,-3.7005529403686523,"[17512, 32616]",linear_weights
+I think that,2.0,casual_high_emotion,seriously,7580,-5.0746660232543945,"[17512, 32616]",linear_weights
+I think that,2.0,casual_high_emotion,honestly,14483,-2.764317750930786,"[17512, 32616]",linear_weights
+I think that,2.0,casual_high_emotion,really,1196,-1.3245974779129028,"[17512, 32616]",linear_weights
+I think that,2.0,casual_high_emotion,absolutely,6270,-4.643393039703369,"[17512, 32616]",linear_weights
+I think that,2.0,casual_high_emotion,incredibly,9301,-5.073712348937988,"[17512, 32616]",linear_weights
+I think that,4.0,formal_low_emotion,perhaps,4153,0.2282208502292633,"[17512, 32616]",linear_weights
+I think that,4.0,formal_low_emotion,may,754,-2.794450521469116,"[17512, 32616]",linear_weights
+I think that,4.0,formal_low_emotion,however,2480,-3.884767532348633,"[17512, 32616]",linear_weights
+I think that,4.0,formal_low_emotion,therefore,4320,-4.22113037109375,"[17512, 32616]",linear_weights
+I think that,4.0,formal_low_emotion,consequently,23995,-4.975729465484619,"[17512, 32616]",linear_weights
+I think that,4.0,formal_low_emotion,moreover,541,-2.8233041763305664,"[17512, 32616]",linear_weights
+I think that,4.0,formal_low_emotion,accordingly,17159,-7.211433410644531,"[17512, 32616]",linear_weights
+I think that,4.0,formal_low_emotion,furthermore,2134,-3.010777235031128,"[17512, 32616]",linear_weights
+I think that,4.0,formal_high_emotion,profoundly,29160,-7.60040807723999,"[17512, 32616]",linear_weights
+I think that,4.0,formal_high_emotion,devastated,27668,-8.447659492492676,"[17512, 32616]",linear_weights
+I think that,4.0,formal_high_emotion,magnificent,16773,-6.404609680175781,"[17512, 32616]",linear_weights
+I think that,4.0,formal_high_emotion,appalling,573,-4.747313499450684,"[17512, 32616]",linear_weights
+I think that,4.0,formal_high_emotion,extraordinary,10035,-4.56761360168457,"[17512, 32616]",linear_weights
+I think that,4.0,formal_high_emotion,overwhelming,11734,-5.35273551940918,"[17512, 32616]",linear_weights
+I think that,4.0,formal_high_emotion,catastrophic,24769,-7.212813377380371,"[17512, 32616]",linear_weights
+I think that,4.0,formal_high_emotion,triumphant,15511,-4.3313140869140625,"[17512, 32616]",linear_weights
+I think that,4.0,casual_low_emotion,yeah,12191,-5.187953472137451,"[17512, 32616]",linear_weights
+I think that,4.0,casual_low_emotion,okay,10989,-4.059655666351318,"[17512, 32616]",linear_weights
+I think that,4.0,casual_low_emotion,kinda,21775,-3.7764923572540283,"[17512, 32616]",linear_weights
+I think that,4.0,casual_low_emotion,basically,8087,-4.426982402801514,"[17512, 32616]",linear_weights
+I think that,4.0,casual_low_emotion,anyway,8668,-1.931951642036438,"[17512, 32616]",linear_weights
+I think that,4.0,casual_low_emotion,whatever,5193,-1.5552395582199097,"[17512, 32616]",linear_weights
+I think that,4.0,casual_low_emotion,guess,5310,-7.4511542320251465,"[17512, 32616]",linear_weights
+I think that,4.0,casual_low_emotion,stuff,4269,-4.787719249725342,"[17512, 32616]",linear_weights
+I think that,4.0,casual_high_emotion,OMG,21978,-3.993553638458252,"[17512, 32616]",linear_weights
+I think that,4.0,casual_high_emotion,totally,7110,-5.065082550048828,"[17512, 32616]",linear_weights
+I think that,4.0,casual_high_emotion,literally,8642,-3.7005529403686523,"[17512, 32616]",linear_weights
+I think that,4.0,casual_high_emotion,seriously,7580,-5.0746660232543945,"[17512, 32616]",linear_weights
+I think that,4.0,casual_high_emotion,honestly,14483,-2.764317750930786,"[17512, 32616]",linear_weights
+I think that,4.0,casual_high_emotion,really,1196,-1.3245974779129028,"[17512, 32616]",linear_weights
+I think that,4.0,casual_high_emotion,absolutely,6270,-4.643393039703369,"[17512, 32616]",linear_weights
+I think that,4.0,casual_high_emotion,incredibly,9301,-5.073712348937988,"[17512, 32616]",linear_weights
+The situation is,0.0,formal_low_emotion,perhaps,4153,0.46935808658599854,"[17512, 32616]",linear_weights
+The situation is,0.0,formal_low_emotion,may,754,0.13700604438781738,"[17512, 32616]",linear_weights
+The situation is,0.0,formal_low_emotion,however,2480,0.19996941089630127,"[17512, 32616]",linear_weights
+The situation is,0.0,formal_low_emotion,therefore,4320,-1.0169132947921753,"[17512, 32616]",linear_weights
+The situation is,0.0,formal_low_emotion,consequently,23995,-3.9816932678222656,"[17512, 32616]",linear_weights
+The situation is,0.0,formal_low_emotion,moreover,541,2.66304874420166,"[17512, 32616]",linear_weights
+The situation is,0.0,formal_low_emotion,accordingly,17159,-5.556465148925781,"[17512, 32616]",linear_weights
+The situation is,0.0,formal_low_emotion,furthermore,2134,4.222172260284424,"[17512, 32616]",linear_weights
+The situation is,0.0,formal_high_emotion,profoundly,29160,-4.7366838455200195,"[17512, 32616]",linear_weights
+The situation is,0.0,formal_high_emotion,devastated,27668,-3.709967613220215,"[17512, 32616]",linear_weights
+The situation is,0.0,formal_high_emotion,magnificent,16773,-6.083095073699951,"[17512, 32616]",linear_weights
+The situation is,0.0,formal_high_emotion,appalling,573,-0.3312418460845947,"[17512, 32616]",linear_weights
+The situation is,0.0,formal_high_emotion,extraordinary,10035,-0.27484047412872314,"[17512, 32616]",linear_weights
+The situation is,0.0,formal_high_emotion,overwhelming,11734,0.35706979036331177,"[17512, 32616]",linear_weights
+The situation is,0.0,formal_high_emotion,catastrophic,24769,-1.0999763011932373,"[17512, 32616]",linear_weights
+The situation is,0.0,formal_high_emotion,triumphant,15511,-6.288301467895508,"[17512, 32616]",linear_weights
+The situation is,0.0,casual_low_emotion,yeah,12191,-5.940290451049805,"[17512, 32616]",linear_weights
+The situation is,0.0,casual_low_emotion,okay,10989,-0.13982224464416504,"[17512, 32616]",linear_weights
+The situation is,0.0,casual_low_emotion,kinda,21775,-1.6115351915359497,"[17512, 32616]",linear_weights
+The situation is,0.0,casual_low_emotion,basically,8087,-1.2414754629135132,"[17512, 32616]",linear_weights
+The situation is,0.0,casual_low_emotion,anyway,8668,-2.0258936882019043,"[17512, 32616]",linear_weights
+The situation is,0.0,casual_low_emotion,whatever,5193,-7.154007434844971,"[17512, 32616]",linear_weights
+The situation is,0.0,casual_low_emotion,guess,5310,-2.432325601577759,"[17512, 32616]",linear_weights
+The situation is,0.0,casual_low_emotion,stuff,4269,-6.037045478820801,"[17512, 32616]",linear_weights
+The situation is,0.0,casual_high_emotion,OMG,21978,-1.617989182472229,"[17512, 32616]",linear_weights
+The situation is,0.0,casual_high_emotion,totally,7110,1.1193172931671143,"[17512, 32616]",linear_weights
+The situation is,0.0,casual_high_emotion,literally,8642,0.34262657165527344,"[17512, 32616]",linear_weights
+The situation is,0.0,casual_high_emotion,seriously,7580,0.16346096992492676,"[17512, 32616]",linear_weights
+The situation is,0.0,casual_high_emotion,honestly,14483,-1.8071727752685547,"[17512, 32616]",linear_weights
+The situation is,0.0,casual_high_emotion,really,1196,3.93696928024292,"[17512, 32616]",linear_weights
+The situation is,0.0,casual_high_emotion,absolutely,6270,0.9162396192550659,"[17512, 32616]",linear_weights
+The situation is,0.0,casual_high_emotion,incredibly,9301,1.381497859954834,"[17512, 32616]",linear_weights
+The situation is,1.0,formal_low_emotion,perhaps,4153,0.46935808658599854,"[17512, 32616]",linear_weights
+The situation is,1.0,formal_low_emotion,may,754,0.13700604438781738,"[17512, 32616]",linear_weights
+The situation is,1.0,formal_low_emotion,however,2480,0.19996941089630127,"[17512, 32616]",linear_weights
+The situation is,1.0,formal_low_emotion,therefore,4320,-1.0169132947921753,"[17512, 32616]",linear_weights
+The situation is,1.0,formal_low_emotion,consequently,23995,-3.9816932678222656,"[17512, 32616]",linear_weights
+The situation is,1.0,formal_low_emotion,moreover,541,2.66304874420166,"[17512, 32616]",linear_weights
+The situation is,1.0,formal_low_emotion,accordingly,17159,-5.556465148925781,"[17512, 32616]",linear_weights
+The situation is,1.0,formal_low_emotion,furthermore,2134,4.222172260284424,"[17512, 32616]",linear_weights
+The situation is,1.0,formal_high_emotion,profoundly,29160,-4.7366838455200195,"[17512, 32616]",linear_weights
+The situation is,1.0,formal_high_emotion,devastated,27668,-3.709967613220215,"[17512, 32616]",linear_weights
+The situation is,1.0,formal_high_emotion,magnificent,16773,-6.083095073699951,"[17512, 32616]",linear_weights
+The situation is,1.0,formal_high_emotion,appalling,573,-0.3312418460845947,"[17512, 32616]",linear_weights
+The situation is,1.0,formal_high_emotion,extraordinary,10035,-0.27484047412872314,"[17512, 32616]",linear_weights
+The situation is,1.0,formal_high_emotion,overwhelming,11734,0.35706979036331177,"[17512, 32616]",linear_weights
+The situation is,1.0,formal_high_emotion,catastrophic,24769,-1.0999763011932373,"[17512, 32616]",linear_weights
+The situation is,1.0,formal_high_emotion,triumphant,15511,-6.288301467895508,"[17512, 32616]",linear_weights
+The situation is,1.0,casual_low_emotion,yeah,12191,-5.940290451049805,"[17512, 32616]",linear_weights
+The situation is,1.0,casual_low_emotion,okay,10989,-0.13982224464416504,"[17512, 32616]",linear_weights
+The situation is,1.0,casual_low_emotion,kinda,21775,-1.6115351915359497,"[17512, 32616]",linear_weights
+The situation is,1.0,casual_low_emotion,basically,8087,-1.2414754629135132,"[17512, 32616]",linear_weights
+The situation is,1.0,casual_low_emotion,anyway,8668,-2.0258936882019043,"[17512, 32616]",linear_weights
+The situation is,1.0,casual_low_emotion,whatever,5193,-7.154007434844971,"[17512, 32616]",linear_weights
+The situation is,1.0,casual_low_emotion,guess,5310,-2.432325601577759,"[17512, 32616]",linear_weights
+The situation is,1.0,casual_low_emotion,stuff,4269,-6.037045478820801,"[17512, 32616]",linear_weights
+The situation is,1.0,casual_high_emotion,OMG,21978,-1.617989182472229,"[17512, 32616]",linear_weights
+The situation is,1.0,casual_high_emotion,totally,7110,1.1193172931671143,"[17512, 32616]",linear_weights
+The situation is,1.0,casual_high_emotion,literally,8642,0.34262657165527344,"[17512, 32616]",linear_weights
+The situation is,1.0,casual_high_emotion,seriously,7580,0.16346096992492676,"[17512, 32616]",linear_weights
+The situation is,1.0,casual_high_emotion,honestly,14483,-1.8071727752685547,"[17512, 32616]",linear_weights
+The situation is,1.0,casual_high_emotion,really,1196,3.93696928024292,"[17512, 32616]",linear_weights
+The situation is,1.0,casual_high_emotion,absolutely,6270,0.9162396192550659,"[17512, 32616]",linear_weights
+The situation is,1.0,casual_high_emotion,incredibly,9301,1.381497859954834,"[17512, 32616]",linear_weights
+The situation is,2.0,formal_low_emotion,perhaps,4153,0.46935808658599854,"[17512, 32616]",linear_weights
+The situation is,2.0,formal_low_emotion,may,754,0.13700604438781738,"[17512, 32616]",linear_weights
+The situation is,2.0,formal_low_emotion,however,2480,0.19996941089630127,"[17512, 32616]",linear_weights
+The situation is,2.0,formal_low_emotion,therefore,4320,-1.0169132947921753,"[17512, 32616]",linear_weights
+The situation is,2.0,formal_low_emotion,consequently,23995,-3.9816932678222656,"[17512, 32616]",linear_weights
+The situation is,2.0,formal_low_emotion,moreover,541,2.66304874420166,"[17512, 32616]",linear_weights
+The situation is,2.0,formal_low_emotion,accordingly,17159,-5.556465148925781,"[17512, 32616]",linear_weights
+The situation is,2.0,formal_low_emotion,furthermore,2134,4.222172260284424,"[17512, 32616]",linear_weights
+The situation is,2.0,formal_high_emotion,profoundly,29160,-4.7366838455200195,"[17512, 32616]",linear_weights
+The situation is,2.0,formal_high_emotion,devastated,27668,-3.709967613220215,"[17512, 32616]",linear_weights
+The situation is,2.0,formal_high_emotion,magnificent,16773,-6.083095073699951,"[17512, 32616]",linear_weights
+The situation is,2.0,formal_high_emotion,appalling,573,-0.3312418460845947,"[17512, 32616]",linear_weights
+The situation is,2.0,formal_high_emotion,extraordinary,10035,-0.27484047412872314,"[17512, 32616]",linear_weights
+The situation is,2.0,formal_high_emotion,overwhelming,11734,0.35706979036331177,"[17512, 32616]",linear_weights
+The situation is,2.0,formal_high_emotion,catastrophic,24769,-1.0999763011932373,"[17512, 32616]",linear_weights
+The situation is,2.0,formal_high_emotion,triumphant,15511,-6.288301467895508,"[17512, 32616]",linear_weights
+The situation is,2.0,casual_low_emotion,yeah,12191,-5.940290451049805,"[17512, 32616]",linear_weights
+The situation is,2.0,casual_low_emotion,okay,10989,-0.13982224464416504,"[17512, 32616]",linear_weights
+The situation is,2.0,casual_low_emotion,kinda,21775,-1.6115351915359497,"[17512, 32616]",linear_weights
+The situation is,2.0,casual_low_emotion,basically,8087,-1.2414754629135132,"[17512, 32616]",linear_weights
+The situation is,2.0,casual_low_emotion,anyway,8668,-2.0258936882019043,"[17512, 32616]",linear_weights
+The situation is,2.0,casual_low_emotion,whatever,5193,-7.154007434844971,"[17512, 32616]",linear_weights
+The situation is,2.0,casual_low_emotion,guess,5310,-2.432325601577759,"[17512, 32616]",linear_weights
+The situation is,2.0,casual_low_emotion,stuff,4269,-6.037045478820801,"[17512, 32616]",linear_weights
+The situation is,2.0,casual_high_emotion,OMG,21978,-1.617989182472229,"[17512, 32616]",linear_weights
+The situation is,2.0,casual_high_emotion,totally,7110,1.1193172931671143,"[17512, 32616]",linear_weights
+The situation is,2.0,casual_high_emotion,literally,8642,0.34262657165527344,"[17512, 32616]",linear_weights
+The situation is,2.0,casual_high_emotion,seriously,7580,0.16346096992492676,"[17512, 32616]",linear_weights
+The situation is,2.0,casual_high_emotion,honestly,14483,-1.8071727752685547,"[17512, 32616]",linear_weights
+The situation is,2.0,casual_high_emotion,really,1196,3.93696928024292,"[17512, 32616]",linear_weights
+The situation is,2.0,casual_high_emotion,absolutely,6270,0.9162396192550659,"[17512, 32616]",linear_weights
+The situation is,2.0,casual_high_emotion,incredibly,9301,1.381497859954834,"[17512, 32616]",linear_weights
+The situation is,4.0,formal_low_emotion,perhaps,4153,0.46935808658599854,"[17512, 32616]",linear_weights
+The situation is,4.0,formal_low_emotion,may,754,0.13700604438781738,"[17512, 32616]",linear_weights
+The situation is,4.0,formal_low_emotion,however,2480,0.19996941089630127,"[17512, 32616]",linear_weights
+The situation is,4.0,formal_low_emotion,therefore,4320,-1.0169132947921753,"[17512, 32616]",linear_weights
+The situation is,4.0,formal_low_emotion,consequently,23995,-3.9816932678222656,"[17512, 32616]",linear_weights
+The situation is,4.0,formal_low_emotion,moreover,541,2.66304874420166,"[17512, 32616]",linear_weights
+The situation is,4.0,formal_low_emotion,accordingly,17159,-5.556465148925781,"[17512, 32616]",linear_weights
+The situation is,4.0,formal_low_emotion,furthermore,2134,4.222172260284424,"[17512, 32616]",linear_weights
+The situation is,4.0,formal_high_emotion,profoundly,29160,-4.7366838455200195,"[17512, 32616]",linear_weights
+The situation is,4.0,formal_high_emotion,devastated,27668,-3.709967613220215,"[17512, 32616]",linear_weights
+The situation is,4.0,formal_high_emotion,magnificent,16773,-6.083095073699951,"[17512, 32616]",linear_weights
+The situation is,4.0,formal_high_emotion,appalling,573,-0.3312418460845947,"[17512, 32616]",linear_weights
+The situation is,4.0,formal_high_emotion,extraordinary,10035,-0.27484047412872314,"[17512, 32616]",linear_weights
+The situation is,4.0,formal_high_emotion,overwhelming,11734,0.35706979036331177,"[17512, 32616]",linear_weights
+The situation is,4.0,formal_high_emotion,catastrophic,24769,-1.0999763011932373,"[17512, 32616]",linear_weights
+The situation is,4.0,formal_high_emotion,triumphant,15511,-6.288301467895508,"[17512, 32616]",linear_weights
+The situation is,4.0,casual_low_emotion,yeah,12191,-5.940290451049805,"[17512, 32616]",linear_weights
+The situation is,4.0,casual_low_emotion,okay,10989,-0.13982224464416504,"[17512, 32616]",linear_weights
+The situation is,4.0,casual_low_emotion,kinda,21775,-1.6115351915359497,"[17512, 32616]",linear_weights
+The situation is,4.0,casual_low_emotion,basically,8087,-1.2414754629135132,"[17512, 32616]",linear_weights
+The situation is,4.0,casual_low_emotion,anyway,8668,-2.0258936882019043,"[17512, 32616]",linear_weights
+The situation is,4.0,casual_low_emotion,whatever,5193,-7.154007434844971,"[17512, 32616]",linear_weights
+The situation is,4.0,casual_low_emotion,guess,5310,-2.432325601577759,"[17512, 32616]",linear_weights
+The situation is,4.0,casual_low_emotion,stuff,4269,-6.037045478820801,"[17512, 32616]",linear_weights
+The situation is,4.0,casual_high_emotion,OMG,21978,-1.617989182472229,"[17512, 32616]",linear_weights
+The situation is,4.0,casual_high_emotion,totally,7110,1.1193172931671143,"[17512, 32616]",linear_weights
+The situation is,4.0,casual_high_emotion,literally,8642,0.34262657165527344,"[17512, 32616]",linear_weights
+The situation is,4.0,casual_high_emotion,seriously,7580,0.16346096992492676,"[17512, 32616]",linear_weights
+The situation is,4.0,casual_high_emotion,honestly,14483,-1.8071727752685547,"[17512, 32616]",linear_weights
+The situation is,4.0,casual_high_emotion,really,1196,3.93696928024292,"[17512, 32616]",linear_weights
+The situation is,4.0,casual_high_emotion,absolutely,6270,0.9162396192550659,"[17512, 32616]",linear_weights
+The situation is,4.0,casual_high_emotion,incredibly,9301,1.381497859954834,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,formal_low_emotion,perhaps,4153,-0.6421760320663452,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,formal_low_emotion,may,754,-1.0575382709503174,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,formal_low_emotion,however,2480,0.2950173616409302,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,formal_low_emotion,therefore,4320,-1.4878743886947632,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,formal_low_emotion,consequently,23995,-5.647529602050781,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,formal_low_emotion,moreover,541,2.192263126373291,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,formal_low_emotion,accordingly,17159,-5.035003662109375,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,formal_low_emotion,furthermore,2134,1.6312012672424316,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,formal_high_emotion,profoundly,29160,-3.570610523223877,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,formal_high_emotion,devastated,27668,-6.036996364593506,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,formal_high_emotion,magnificent,16773,-7.621974945068359,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,formal_high_emotion,appalling,573,-2.1466541290283203,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,formal_high_emotion,extraordinary,10035,-6.532108306884766,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,formal_high_emotion,overwhelming,11734,-2.495716094970703,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,formal_high_emotion,catastrophic,24769,-8.405088424682617,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,formal_high_emotion,triumphant,15511,-7.065113067626953,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,casual_low_emotion,yeah,12191,-1.9756516218185425,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,casual_low_emotion,okay,10989,2.4823007583618164,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,casual_low_emotion,kinda,21775,2.390773057937622,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,casual_low_emotion,basically,8087,3.0288305282592773,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,casual_low_emotion,anyway,8668,-0.7686589956283569,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,casual_low_emotion,whatever,5193,-0.5776233673095703,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,casual_low_emotion,guess,5310,-0.9192110300064087,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,casual_low_emotion,stuff,4269,-4.37029504776001,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,casual_high_emotion,OMG,21978,-4.677999496459961,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,casual_high_emotion,totally,7110,3.8504958152770996,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,casual_high_emotion,literally,8642,-1.322596549987793,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,casual_high_emotion,seriously,7580,-0.6485884189605713,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,casual_high_emotion,honestly,14483,1.4774196147918701,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,casual_high_emotion,really,1196,3.124804735183716,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,casual_high_emotion,absolutely,6270,-0.47264063358306885,"[17512, 32616]",linear_weights
+My opinion on this is,0.0,casual_high_emotion,incredibly,9301,-2.040217638015747,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,formal_low_emotion,perhaps,4153,-0.6421760320663452,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,formal_low_emotion,may,754,-1.0575382709503174,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,formal_low_emotion,however,2480,0.2950173616409302,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,formal_low_emotion,therefore,4320,-1.4878743886947632,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,formal_low_emotion,consequently,23995,-5.647529602050781,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,formal_low_emotion,moreover,541,2.192263126373291,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,formal_low_emotion,accordingly,17159,-5.035003662109375,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,formal_low_emotion,furthermore,2134,1.6312012672424316,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,formal_high_emotion,profoundly,29160,-3.570610523223877,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,formal_high_emotion,devastated,27668,-6.036996364593506,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,formal_high_emotion,magnificent,16773,-7.621974945068359,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,formal_high_emotion,appalling,573,-2.1466541290283203,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,formal_high_emotion,extraordinary,10035,-6.532108306884766,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,formal_high_emotion,overwhelming,11734,-2.495716094970703,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,formal_high_emotion,catastrophic,24769,-8.405088424682617,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,formal_high_emotion,triumphant,15511,-7.065113067626953,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,casual_low_emotion,yeah,12191,-1.9756516218185425,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,casual_low_emotion,okay,10989,2.4823007583618164,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,casual_low_emotion,kinda,21775,2.390773057937622,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,casual_low_emotion,basically,8087,3.0288305282592773,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,casual_low_emotion,anyway,8668,-0.7686589956283569,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,casual_low_emotion,whatever,5193,-0.5776233673095703,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,casual_low_emotion,guess,5310,-0.9192110300064087,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,casual_low_emotion,stuff,4269,-4.37029504776001,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,casual_high_emotion,OMG,21978,-4.677999496459961,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,casual_high_emotion,totally,7110,3.8504958152770996,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,casual_high_emotion,literally,8642,-1.322596549987793,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,casual_high_emotion,seriously,7580,-0.6485884189605713,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,casual_high_emotion,honestly,14483,1.4774196147918701,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,casual_high_emotion,really,1196,3.124804735183716,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,casual_high_emotion,absolutely,6270,-0.47264063358306885,"[17512, 32616]",linear_weights
+My opinion on this is,1.0,casual_high_emotion,incredibly,9301,-2.040217638015747,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,formal_low_emotion,perhaps,4153,-0.6421760320663452,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,formal_low_emotion,may,754,-1.0575382709503174,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,formal_low_emotion,however,2480,0.2950173616409302,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,formal_low_emotion,therefore,4320,-1.4878743886947632,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,formal_low_emotion,consequently,23995,-5.647529602050781,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,formal_low_emotion,moreover,541,2.192263126373291,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,formal_low_emotion,accordingly,17159,-5.035003662109375,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,formal_low_emotion,furthermore,2134,1.6312012672424316,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,formal_high_emotion,profoundly,29160,-3.570610523223877,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,formal_high_emotion,devastated,27668,-6.036996364593506,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,formal_high_emotion,magnificent,16773,-7.621974945068359,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,formal_high_emotion,appalling,573,-2.1466541290283203,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,formal_high_emotion,extraordinary,10035,-6.532108306884766,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,formal_high_emotion,overwhelming,11734,-2.495716094970703,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,formal_high_emotion,catastrophic,24769,-8.405088424682617,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,formal_high_emotion,triumphant,15511,-7.065113067626953,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,casual_low_emotion,yeah,12191,-1.9756516218185425,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,casual_low_emotion,okay,10989,2.4823007583618164,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,casual_low_emotion,kinda,21775,2.390773057937622,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,casual_low_emotion,basically,8087,3.0288305282592773,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,casual_low_emotion,anyway,8668,-0.7686589956283569,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,casual_low_emotion,whatever,5193,-0.5776233673095703,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,casual_low_emotion,guess,5310,-0.9192110300064087,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,casual_low_emotion,stuff,4269,-4.37029504776001,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,casual_high_emotion,OMG,21978,-4.677999496459961,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,casual_high_emotion,totally,7110,3.8504958152770996,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,casual_high_emotion,literally,8642,-1.322596549987793,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,casual_high_emotion,seriously,7580,-0.6485884189605713,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,casual_high_emotion,honestly,14483,1.4774196147918701,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,casual_high_emotion,really,1196,3.124804735183716,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,casual_high_emotion,absolutely,6270,-0.47264063358306885,"[17512, 32616]",linear_weights
+My opinion on this is,2.0,casual_high_emotion,incredibly,9301,-2.040217638015747,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,formal_low_emotion,perhaps,4153,-0.6421760320663452,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,formal_low_emotion,may,754,-1.0575382709503174,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,formal_low_emotion,however,2480,0.2950173616409302,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,formal_low_emotion,therefore,4320,-1.4878743886947632,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,formal_low_emotion,consequently,23995,-5.647529602050781,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,formal_low_emotion,moreover,541,2.192263126373291,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,formal_low_emotion,accordingly,17159,-5.035003662109375,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,formal_low_emotion,furthermore,2134,1.6312012672424316,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,formal_high_emotion,profoundly,29160,-3.570610523223877,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,formal_high_emotion,devastated,27668,-6.036996364593506,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,formal_high_emotion,magnificent,16773,-7.621974945068359,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,formal_high_emotion,appalling,573,-2.1466541290283203,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,formal_high_emotion,extraordinary,10035,-6.532108306884766,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,formal_high_emotion,overwhelming,11734,-2.495716094970703,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,formal_high_emotion,catastrophic,24769,-8.405088424682617,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,formal_high_emotion,triumphant,15511,-7.065113067626953,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,casual_low_emotion,yeah,12191,-1.9756516218185425,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,casual_low_emotion,okay,10989,2.4823007583618164,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,casual_low_emotion,kinda,21775,2.390773057937622,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,casual_low_emotion,basically,8087,3.0288305282592773,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,casual_low_emotion,anyway,8668,-0.7686589956283569,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,casual_low_emotion,whatever,5193,-0.5776233673095703,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,casual_low_emotion,guess,5310,-0.9192110300064087,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,casual_low_emotion,stuff,4269,-4.37029504776001,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,casual_high_emotion,OMG,21978,-4.677999496459961,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,casual_high_emotion,totally,7110,3.8504958152770996,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,casual_high_emotion,literally,8642,-1.322596549987793,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,casual_high_emotion,seriously,7580,-0.6485884189605713,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,casual_high_emotion,honestly,14483,1.4774196147918701,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,casual_high_emotion,really,1196,3.124804735183716,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,casual_high_emotion,absolutely,6270,-0.47264063358306885,"[17512, 32616]",linear_weights
+My opinion on this is,4.0,casual_high_emotion,incredibly,9301,-2.040217638015747,"[17512, 32616]",linear_weights
+It seems to me that,0.0,formal_low_emotion,perhaps,4153,-2.013129949569702,"[17512, 32616]",linear_weights
+It seems to me that,0.0,formal_low_emotion,may,754,-4.970423221588135,"[17512, 32616]",linear_weights
+It seems to me that,0.0,formal_low_emotion,however,2480,-4.472536563873291,"[17512, 32616]",linear_weights
+It seems to me that,0.0,formal_low_emotion,therefore,4320,-6.436585903167725,"[17512, 32616]",linear_weights
+It seems to me that,0.0,formal_low_emotion,consequently,23995,-7.559545993804932,"[17512, 32616]",linear_weights
+It seems to me that,0.0,formal_low_emotion,moreover,541,-2.2054808139801025,"[17512, 32616]",linear_weights
+It seems to me that,0.0,formal_low_emotion,accordingly,17159,-9.56540298461914,"[17512, 32616]",linear_weights
+It seems to me that,0.0,formal_low_emotion,furthermore,2134,-5.524555206298828,"[17512, 32616]",linear_weights
+It seems to me that,0.0,formal_high_emotion,profoundly,29160,-8.28602123260498,"[17512, 32616]",linear_weights
+It seems to me that,0.0,formal_high_emotion,devastated,27668,-11.008729934692383,"[17512, 32616]",linear_weights
+It seems to me that,0.0,formal_high_emotion,magnificent,16773,-9.324438095092773,"[17512, 32616]",linear_weights
+It seems to me that,0.0,formal_high_emotion,appalling,573,-4.50502872467041,"[17512, 32616]",linear_weights
+It seems to me that,0.0,formal_high_emotion,extraordinary,10035,-6.199446678161621,"[17512, 32616]",linear_weights
+It seems to me that,0.0,formal_high_emotion,overwhelming,11734,-7.0118584632873535,"[17512, 32616]",linear_weights
+It seems to me that,0.0,formal_high_emotion,catastrophic,24769,-7.802605152130127,"[17512, 32616]",linear_weights
+It seems to me that,0.0,formal_high_emotion,triumphant,15511,-7.277513027191162,"[17512, 32616]",linear_weights
+It seems to me that,0.0,casual_low_emotion,yeah,12191,-6.103614807128906,"[17512, 32616]",linear_weights
+It seems to me that,0.0,casual_low_emotion,okay,10989,-6.55497932434082,"[17512, 32616]",linear_weights
+It seems to me that,0.0,casual_low_emotion,kinda,21775,-6.986244201660156,"[17512, 32616]",linear_weights
+It seems to me that,0.0,casual_low_emotion,basically,8087,-7.1670379638671875,"[17512, 32616]",linear_weights
+It seems to me that,0.0,casual_low_emotion,anyway,8668,-3.66935396194458,"[17512, 32616]",linear_weights
+It seems to me that,0.0,casual_low_emotion,whatever,5193,-1.9141981601715088,"[17512, 32616]",linear_weights
+It seems to me that,0.0,casual_low_emotion,guess,5310,-10.80550765991211,"[17512, 32616]",linear_weights
+It seems to me that,0.0,casual_low_emotion,stuff,4269,-6.956051826477051,"[17512, 32616]",linear_weights
+It seems to me that,0.0,casual_high_emotion,OMG,21978,-5.620238304138184,"[17512, 32616]",linear_weights
+It seems to me that,0.0,casual_high_emotion,totally,7110,-7.287777423858643,"[17512, 32616]",linear_weights
+It seems to me that,0.0,casual_high_emotion,literally,8642,-6.112701416015625,"[17512, 32616]",linear_weights
+It seems to me that,0.0,casual_high_emotion,seriously,7580,-7.73988151550293,"[17512, 32616]",linear_weights
+It seems to me that,0.0,casual_high_emotion,honestly,14483,-4.199275016784668,"[17512, 32616]",linear_weights
+It seems to me that,0.0,casual_high_emotion,really,1196,-4.755177021026611,"[17512, 32616]",linear_weights
+It seems to me that,0.0,casual_high_emotion,absolutely,6270,-6.850919723510742,"[17512, 32616]",linear_weights
+It seems to me that,0.0,casual_high_emotion,incredibly,9301,-6.705979824066162,"[17512, 32616]",linear_weights
+It seems to me that,1.0,formal_low_emotion,perhaps,4153,-2.013129949569702,"[17512, 32616]",linear_weights
+It seems to me that,1.0,formal_low_emotion,may,754,-4.970423221588135,"[17512, 32616]",linear_weights
+It seems to me that,1.0,formal_low_emotion,however,2480,-4.472536563873291,"[17512, 32616]",linear_weights
+It seems to me that,1.0,formal_low_emotion,therefore,4320,-6.436585903167725,"[17512, 32616]",linear_weights
+It seems to me that,1.0,formal_low_emotion,consequently,23995,-7.559545993804932,"[17512, 32616]",linear_weights
+It seems to me that,1.0,formal_low_emotion,moreover,541,-2.2054808139801025,"[17512, 32616]",linear_weights
+It seems to me that,1.0,formal_low_emotion,accordingly,17159,-9.56540298461914,"[17512, 32616]",linear_weights
+It seems to me that,1.0,formal_low_emotion,furthermore,2134,-5.524555206298828,"[17512, 32616]",linear_weights
+It seems to me that,1.0,formal_high_emotion,profoundly,29160,-8.28602123260498,"[17512, 32616]",linear_weights
+It seems to me that,1.0,formal_high_emotion,devastated,27668,-11.008729934692383,"[17512, 32616]",linear_weights
+It seems to me that,1.0,formal_high_emotion,magnificent,16773,-9.324438095092773,"[17512, 32616]",linear_weights
+It seems to me that,1.0,formal_high_emotion,appalling,573,-4.50502872467041,"[17512, 32616]",linear_weights
+It seems to me that,1.0,formal_high_emotion,extraordinary,10035,-6.199446678161621,"[17512, 32616]",linear_weights
+It seems to me that,1.0,formal_high_emotion,overwhelming,11734,-7.0118584632873535,"[17512, 32616]",linear_weights
+It seems to me that,1.0,formal_high_emotion,catastrophic,24769,-7.802605152130127,"[17512, 32616]",linear_weights
+It seems to me that,1.0,formal_high_emotion,triumphant,15511,-7.277513027191162,"[17512, 32616]",linear_weights
+It seems to me that,1.0,casual_low_emotion,yeah,12191,-6.103614807128906,"[17512, 32616]",linear_weights
+It seems to me that,1.0,casual_low_emotion,okay,10989,-6.55497932434082,"[17512, 32616]",linear_weights
+It seems to me that,1.0,casual_low_emotion,kinda,21775,-6.986244201660156,"[17512, 32616]",linear_weights
+It seems to me that,1.0,casual_low_emotion,basically,8087,-7.1670379638671875,"[17512, 32616]",linear_weights
+It seems to me that,1.0,casual_low_emotion,anyway,8668,-3.66935396194458,"[17512, 32616]",linear_weights
+It seems to me that,1.0,casual_low_emotion,whatever,5193,-1.9141981601715088,"[17512, 32616]",linear_weights
+It seems to me that,1.0,casual_low_emotion,guess,5310,-10.80550765991211,"[17512, 32616]",linear_weights
+It seems to me that,1.0,casual_low_emotion,stuff,4269,-6.956051826477051,"[17512, 32616]",linear_weights
+It seems to me that,1.0,casual_high_emotion,OMG,21978,-5.620238304138184,"[17512, 32616]",linear_weights
+It seems to me that,1.0,casual_high_emotion,totally,7110,-7.287777423858643,"[17512, 32616]",linear_weights
+It seems to me that,1.0,casual_high_emotion,literally,8642,-6.112701416015625,"[17512, 32616]",linear_weights
+It seems to me that,1.0,casual_high_emotion,seriously,7580,-7.73988151550293,"[17512, 32616]",linear_weights
+It seems to me that,1.0,casual_high_emotion,honestly,14483,-4.199275016784668,"[17512, 32616]",linear_weights
+It seems to me that,1.0,casual_high_emotion,really,1196,-4.755177021026611,"[17512, 32616]",linear_weights
+It seems to me that,1.0,casual_high_emotion,absolutely,6270,-6.850919723510742,"[17512, 32616]",linear_weights
+It seems to me that,1.0,casual_high_emotion,incredibly,9301,-6.705979824066162,"[17512, 32616]",linear_weights
+It seems to me that,2.0,formal_low_emotion,perhaps,4153,-2.013129949569702,"[17512, 32616]",linear_weights
+It seems to me that,2.0,formal_low_emotion,may,754,-4.970423221588135,"[17512, 32616]",linear_weights
+It seems to me that,2.0,formal_low_emotion,however,2480,-4.472536563873291,"[17512, 32616]",linear_weights
+It seems to me that,2.0,formal_low_emotion,therefore,4320,-6.436585903167725,"[17512, 32616]",linear_weights
+It seems to me that,2.0,formal_low_emotion,consequently,23995,-7.559545993804932,"[17512, 32616]",linear_weights
+It seems to me that,2.0,formal_low_emotion,moreover,541,-2.2054808139801025,"[17512, 32616]",linear_weights
+It seems to me that,2.0,formal_low_emotion,accordingly,17159,-9.56540298461914,"[17512, 32616]",linear_weights
+It seems to me that,2.0,formal_low_emotion,furthermore,2134,-5.524555206298828,"[17512, 32616]",linear_weights
+It seems to me that,2.0,formal_high_emotion,profoundly,29160,-8.28602123260498,"[17512, 32616]",linear_weights
+It seems to me that,2.0,formal_high_emotion,devastated,27668,-11.008729934692383,"[17512, 32616]",linear_weights
+It seems to me that,2.0,formal_high_emotion,magnificent,16773,-9.324438095092773,"[17512, 32616]",linear_weights
+It seems to me that,2.0,formal_high_emotion,appalling,573,-4.50502872467041,"[17512, 32616]",linear_weights
+It seems to me that,2.0,formal_high_emotion,extraordinary,10035,-6.199446678161621,"[17512, 32616]",linear_weights
+It seems to me that,2.0,formal_high_emotion,overwhelming,11734,-7.0118584632873535,"[17512, 32616]",linear_weights
+It seems to me that,2.0,formal_high_emotion,catastrophic,24769,-7.802605152130127,"[17512, 32616]",linear_weights
+It seems to me that,2.0,formal_high_emotion,triumphant,15511,-7.277513027191162,"[17512, 32616]",linear_weights
+It seems to me that,2.0,casual_low_emotion,yeah,12191,-6.103614807128906,"[17512, 32616]",linear_weights
+It seems to me that,2.0,casual_low_emotion,okay,10989,-6.55497932434082,"[17512, 32616]",linear_weights
+It seems to me that,2.0,casual_low_emotion,kinda,21775,-6.986244201660156,"[17512, 32616]",linear_weights
+It seems to me that,2.0,casual_low_emotion,basically,8087,-7.1670379638671875,"[17512, 32616]",linear_weights
+It seems to me that,2.0,casual_low_emotion,anyway,8668,-3.66935396194458,"[17512, 32616]",linear_weights
+It seems to me that,2.0,casual_low_emotion,whatever,5193,-1.9141981601715088,"[17512, 32616]",linear_weights
+It seems to me that,2.0,casual_low_emotion,guess,5310,-10.80550765991211,"[17512, 32616]",linear_weights
+It seems to me that,2.0,casual_low_emotion,stuff,4269,-6.956051826477051,"[17512, 32616]",linear_weights
+It seems to me that,2.0,casual_high_emotion,OMG,21978,-5.620238304138184,"[17512, 32616]",linear_weights
+It seems to me that,2.0,casual_high_emotion,totally,7110,-7.287777423858643,"[17512, 32616]",linear_weights
+It seems to me that,2.0,casual_high_emotion,literally,8642,-6.112701416015625,"[17512, 32616]",linear_weights
+It seems to me that,2.0,casual_high_emotion,seriously,7580,-7.73988151550293,"[17512, 32616]",linear_weights
+It seems to me that,2.0,casual_high_emotion,honestly,14483,-4.199275016784668,"[17512, 32616]",linear_weights
+It seems to me that,2.0,casual_high_emotion,really,1196,-4.755177021026611,"[17512, 32616]",linear_weights
+It seems to me that,2.0,casual_high_emotion,absolutely,6270,-6.850919723510742,"[17512, 32616]",linear_weights
+It seems to me that,2.0,casual_high_emotion,incredibly,9301,-6.705979824066162,"[17512, 32616]",linear_weights
+It seems to me that,4.0,formal_low_emotion,perhaps,4153,-2.013129949569702,"[17512, 32616]",linear_weights
+It seems to me that,4.0,formal_low_emotion,may,754,-4.970423221588135,"[17512, 32616]",linear_weights
+It seems to me that,4.0,formal_low_emotion,however,2480,-4.472536563873291,"[17512, 32616]",linear_weights
+It seems to me that,4.0,formal_low_emotion,therefore,4320,-6.436585903167725,"[17512, 32616]",linear_weights
+It seems to me that,4.0,formal_low_emotion,consequently,23995,-7.559545993804932,"[17512, 32616]",linear_weights
+It seems to me that,4.0,formal_low_emotion,moreover,541,-2.2054808139801025,"[17512, 32616]",linear_weights
+It seems to me that,4.0,formal_low_emotion,accordingly,17159,-9.56540298461914,"[17512, 32616]",linear_weights
+It seems to me that,4.0,formal_low_emotion,furthermore,2134,-5.524555206298828,"[17512, 32616]",linear_weights
+It seems to me that,4.0,formal_high_emotion,profoundly,29160,-8.28602123260498,"[17512, 32616]",linear_weights
+It seems to me that,4.0,formal_high_emotion,devastated,27668,-11.008729934692383,"[17512, 32616]",linear_weights
+It seems to me that,4.0,formal_high_emotion,magnificent,16773,-9.324438095092773,"[17512, 32616]",linear_weights
+It seems to me that,4.0,formal_high_emotion,appalling,573,-4.50502872467041,"[17512, 32616]",linear_weights
+It seems to me that,4.0,formal_high_emotion,extraordinary,10035,-6.199446678161621,"[17512, 32616]",linear_weights
+It seems to me that,4.0,formal_high_emotion,overwhelming,11734,-7.0118584632873535,"[17512, 32616]",linear_weights
+It seems to me that,4.0,formal_high_emotion,catastrophic,24769,-7.802605152130127,"[17512, 32616]",linear_weights
+It seems to me that,4.0,formal_high_emotion,triumphant,15511,-7.277513027191162,"[17512, 32616]",linear_weights
+It seems to me that,4.0,casual_low_emotion,yeah,12191,-6.103614807128906,"[17512, 32616]",linear_weights
+It seems to me that,4.0,casual_low_emotion,okay,10989,-6.55497932434082,"[17512, 32616]",linear_weights
+It seems to me that,4.0,casual_low_emotion,kinda,21775,-6.986244201660156,"[17512, 32616]",linear_weights
+It seems to me that,4.0,casual_low_emotion,basically,8087,-7.1670379638671875,"[17512, 32616]",linear_weights
+It seems to me that,4.0,casual_low_emotion,anyway,8668,-3.66935396194458,"[17512, 32616]",linear_weights
+It seems to me that,4.0,casual_low_emotion,whatever,5193,-1.9141981601715088,"[17512, 32616]",linear_weights
+It seems to me that,4.0,casual_low_emotion,guess,5310,-10.80550765991211,"[17512, 32616]",linear_weights
+It seems to me that,4.0,casual_low_emotion,stuff,4269,-6.956051826477051,"[17512, 32616]",linear_weights
+It seems to me that,4.0,casual_high_emotion,OMG,21978,-5.620238304138184,"[17512, 32616]",linear_weights
+It seems to me that,4.0,casual_high_emotion,totally,7110,-7.287777423858643,"[17512, 32616]",linear_weights
+It seems to me that,4.0,casual_high_emotion,literally,8642,-6.112701416015625,"[17512, 32616]",linear_weights
+It seems to me that,4.0,casual_high_emotion,seriously,7580,-7.73988151550293,"[17512, 32616]",linear_weights
+It seems to me that,4.0,casual_high_emotion,honestly,14483,-4.199275016784668,"[17512, 32616]",linear_weights
+It seems to me that,4.0,casual_high_emotion,really,1196,-4.755177021026611,"[17512, 32616]",linear_weights
+It seems to me that,4.0,casual_high_emotion,absolutely,6270,-6.850919723510742,"[17512, 32616]",linear_weights
+It seems to me that,4.0,casual_high_emotion,incredibly,9301,-6.705979824066162,"[17512, 32616]",linear_weights
+The best approach would be,0.0,formal_low_emotion,perhaps,4153,-2.6241824626922607,"[17512, 32616]",linear_weights
+The best approach would be,0.0,formal_low_emotion,may,754,-5.619654178619385,"[17512, 32616]",linear_weights
+The best approach would be,0.0,formal_low_emotion,however,2480,-4.390356063842773,"[17512, 32616]",linear_weights
+The best approach would be,0.0,formal_low_emotion,therefore,4320,-4.251625061035156,"[17512, 32616]",linear_weights
+The best approach would be,0.0,formal_low_emotion,consequently,23995,-8.16504192352295,"[17512, 32616]",linear_weights
+The best approach would be,0.0,formal_low_emotion,moreover,541,-3.159621477127075,"[17512, 32616]",linear_weights
+The best approach would be,0.0,formal_low_emotion,accordingly,17159,-7.889730453491211,"[17512, 32616]",linear_weights
+The best approach would be,0.0,formal_low_emotion,furthermore,2134,-3.8650717735290527,"[17512, 32616]",linear_weights
+The best approach would be,0.0,formal_high_emotion,profoundly,29160,-12.651527404785156,"[17512, 32616]",linear_weights
+The best approach would be,0.0,formal_high_emotion,devastated,27668,-11.773622512817383,"[17512, 32616]",linear_weights
+The best approach would be,0.0,formal_high_emotion,magnificent,16773,-10.787553787231445,"[17512, 32616]",linear_weights
+The best approach would be,0.0,formal_high_emotion,appalling,573,-4.248257637023926,"[17512, 32616]",linear_weights
+The best approach would be,0.0,formal_high_emotion,extraordinary,10035,-8.89033317565918,"[17512, 32616]",linear_weights
+The best approach would be,0.0,formal_high_emotion,overwhelming,11734,-5.396050930023193,"[17512, 32616]",linear_weights
+The best approach would be,0.0,formal_high_emotion,catastrophic,24769,-9.787755966186523,"[17512, 32616]",linear_weights
+The best approach would be,0.0,formal_high_emotion,triumphant,15511,-9.721575736999512,"[17512, 32616]",linear_weights
+The best approach would be,0.0,casual_low_emotion,yeah,12191,-6.38779878616333,"[17512, 32616]",linear_weights
+The best approach would be,0.0,casual_low_emotion,okay,10989,-6.887922763824463,"[17512, 32616]",linear_weights
+The best approach would be,0.0,casual_low_emotion,kinda,21775,-4.748085975646973,"[17512, 32616]",linear_weights
+The best approach would be,0.0,casual_low_emotion,basically,8087,-1.9596552848815918,"[17512, 32616]",linear_weights
+The best approach would be,0.0,casual_low_emotion,anyway,8668,-3.971569299697876,"[17512, 32616]",linear_weights
+The best approach would be,0.0,casual_low_emotion,whatever,5193,-3.5449094772338867,"[17512, 32616]",linear_weights
+The best approach would be,0.0,casual_low_emotion,guess,5310,-8.079305648803711,"[17512, 32616]",linear_weights
+The best approach would be,0.0,casual_low_emotion,stuff,4269,-6.801018238067627,"[17512, 32616]",linear_weights
+The best approach would be,0.0,casual_high_emotion,OMG,21978,-6.187599182128906,"[17512, 32616]",linear_weights
+The best approach would be,0.0,casual_high_emotion,totally,7110,-3.873224973678589,"[17512, 32616]",linear_weights
+The best approach would be,0.0,casual_high_emotion,literally,8642,-2.0667219161987305,"[17512, 32616]",linear_weights
+The best approach would be,0.0,casual_high_emotion,seriously,7580,-7.162693500518799,"[17512, 32616]",linear_weights
+The best approach would be,0.0,casual_high_emotion,honestly,14483,-3.3412725925445557,"[17512, 32616]",linear_weights
+The best approach would be,0.0,casual_high_emotion,really,1196,-2.449432849884033,"[17512, 32616]",linear_weights
+The best approach would be,0.0,casual_high_emotion,absolutely,6270,-4.404850006103516,"[17512, 32616]",linear_weights
+The best approach would be,0.0,casual_high_emotion,incredibly,9301,-8.795534133911133,"[17512, 32616]",linear_weights
+The best approach would be,1.0,formal_low_emotion,perhaps,4153,-2.6241824626922607,"[17512, 32616]",linear_weights
+The best approach would be,1.0,formal_low_emotion,may,754,-5.619654178619385,"[17512, 32616]",linear_weights
+The best approach would be,1.0,formal_low_emotion,however,2480,-4.390356063842773,"[17512, 32616]",linear_weights
+The best approach would be,1.0,formal_low_emotion,therefore,4320,-4.251625061035156,"[17512, 32616]",linear_weights
+The best approach would be,1.0,formal_low_emotion,consequently,23995,-8.16504192352295,"[17512, 32616]",linear_weights
+The best approach would be,1.0,formal_low_emotion,moreover,541,-3.159621477127075,"[17512, 32616]",linear_weights
+The best approach would be,1.0,formal_low_emotion,accordingly,17159,-7.889730453491211,"[17512, 32616]",linear_weights
+The best approach would be,1.0,formal_low_emotion,furthermore,2134,-3.8650717735290527,"[17512, 32616]",linear_weights
+The best approach would be,1.0,formal_high_emotion,profoundly,29160,-12.651527404785156,"[17512, 32616]",linear_weights
+The best approach would be,1.0,formal_high_emotion,devastated,27668,-11.773622512817383,"[17512, 32616]",linear_weights
+The best approach would be,1.0,formal_high_emotion,magnificent,16773,-10.787553787231445,"[17512, 32616]",linear_weights
+The best approach would be,1.0,formal_high_emotion,appalling,573,-4.248257637023926,"[17512, 32616]",linear_weights
+The best approach would be,1.0,formal_high_emotion,extraordinary,10035,-8.89033317565918,"[17512, 32616]",linear_weights
+The best approach would be,1.0,formal_high_emotion,overwhelming,11734,-5.396050930023193,"[17512, 32616]",linear_weights
+The best approach would be,1.0,formal_high_emotion,catastrophic,24769,-9.787755966186523,"[17512, 32616]",linear_weights
+The best approach would be,1.0,formal_high_emotion,triumphant,15511,-9.721575736999512,"[17512, 32616]",linear_weights
+The best approach would be,1.0,casual_low_emotion,yeah,12191,-6.38779878616333,"[17512, 32616]",linear_weights
+The best approach would be,1.0,casual_low_emotion,okay,10989,-6.887922763824463,"[17512, 32616]",linear_weights
+The best approach would be,1.0,casual_low_emotion,kinda,21775,-4.748085975646973,"[17512, 32616]",linear_weights
+The best approach would be,1.0,casual_low_emotion,basically,8087,-1.9596552848815918,"[17512, 32616]",linear_weights
+The best approach would be,1.0,casual_low_emotion,anyway,8668,-3.971569299697876,"[17512, 32616]",linear_weights
+The best approach would be,1.0,casual_low_emotion,whatever,5193,-3.5449094772338867,"[17512, 32616]",linear_weights
+The best approach would be,1.0,casual_low_emotion,guess,5310,-8.079305648803711,"[17512, 32616]",linear_weights
+The best approach would be,1.0,casual_low_emotion,stuff,4269,-6.801018238067627,"[17512, 32616]",linear_weights
+The best approach would be,1.0,casual_high_emotion,OMG,21978,-6.187599182128906,"[17512, 32616]",linear_weights
+The best approach would be,1.0,casual_high_emotion,totally,7110,-3.873224973678589,"[17512, 32616]",linear_weights
+The best approach would be,1.0,casual_high_emotion,literally,8642,-2.0667219161987305,"[17512, 32616]",linear_weights
+The best approach would be,1.0,casual_high_emotion,seriously,7580,-7.162693500518799,"[17512, 32616]",linear_weights
+The best approach would be,1.0,casual_high_emotion,honestly,14483,-3.3412725925445557,"[17512, 32616]",linear_weights
+The best approach would be,1.0,casual_high_emotion,really,1196,-2.449432849884033,"[17512, 32616]",linear_weights
+The best approach would be,1.0,casual_high_emotion,absolutely,6270,-4.404850006103516,"[17512, 32616]",linear_weights
+The best approach would be,1.0,casual_high_emotion,incredibly,9301,-8.795534133911133,"[17512, 32616]",linear_weights
+The best approach would be,2.0,formal_low_emotion,perhaps,4153,-2.6241824626922607,"[17512, 32616]",linear_weights
+The best approach would be,2.0,formal_low_emotion,may,754,-5.619654178619385,"[17512, 32616]",linear_weights
+The best approach would be,2.0,formal_low_emotion,however,2480,-4.390356063842773,"[17512, 32616]",linear_weights
+The best approach would be,2.0,formal_low_emotion,therefore,4320,-4.251625061035156,"[17512, 32616]",linear_weights
+The best approach would be,2.0,formal_low_emotion,consequently,23995,-8.16504192352295,"[17512, 32616]",linear_weights
+The best approach would be,2.0,formal_low_emotion,moreover,541,-3.159621477127075,"[17512, 32616]",linear_weights
+The best approach would be,2.0,formal_low_emotion,accordingly,17159,-7.889730453491211,"[17512, 32616]",linear_weights
+The best approach would be,2.0,formal_low_emotion,furthermore,2134,-3.8650717735290527,"[17512, 32616]",linear_weights
+The best approach would be,2.0,formal_high_emotion,profoundly,29160,-12.651527404785156,"[17512, 32616]",linear_weights
+The best approach would be,2.0,formal_high_emotion,devastated,27668,-11.773622512817383,"[17512, 32616]",linear_weights
+The best approach would be,2.0,formal_high_emotion,magnificent,16773,-10.787553787231445,"[17512, 32616]",linear_weights
+The best approach would be,2.0,formal_high_emotion,appalling,573,-4.248257637023926,"[17512, 32616]",linear_weights
+The best approach would be,2.0,formal_high_emotion,extraordinary,10035,-8.89033317565918,"[17512, 32616]",linear_weights
+The best approach would be,2.0,formal_high_emotion,overwhelming,11734,-5.396050930023193,"[17512, 32616]",linear_weights
+The best approach would be,2.0,formal_high_emotion,catastrophic,24769,-9.787755966186523,"[17512, 32616]",linear_weights
+The best approach would be,2.0,formal_high_emotion,triumphant,15511,-9.721575736999512,"[17512, 32616]",linear_weights
+The best approach would be,2.0,casual_low_emotion,yeah,12191,-6.38779878616333,"[17512, 32616]",linear_weights
+The best approach would be,2.0,casual_low_emotion,okay,10989,-6.887922763824463,"[17512, 32616]",linear_weights
+The best approach would be,2.0,casual_low_emotion,kinda,21775,-4.748085975646973,"[17512, 32616]",linear_weights
+The best approach would be,2.0,casual_low_emotion,basically,8087,-1.9596552848815918,"[17512, 32616]",linear_weights
+The best approach would be,2.0,casual_low_emotion,anyway,8668,-3.971569299697876,"[17512, 32616]",linear_weights
+The best approach would be,2.0,casual_low_emotion,whatever,5193,-3.5449094772338867,"[17512, 32616]",linear_weights
+The best approach would be,2.0,casual_low_emotion,guess,5310,-8.079305648803711,"[17512, 32616]",linear_weights
+The best approach would be,2.0,casual_low_emotion,stuff,4269,-6.801018238067627,"[17512, 32616]",linear_weights
+The best approach would be,2.0,casual_high_emotion,OMG,21978,-6.187599182128906,"[17512, 32616]",linear_weights
+The best approach would be,2.0,casual_high_emotion,totally,7110,-3.873224973678589,"[17512, 32616]",linear_weights
+The best approach would be,2.0,casual_high_emotion,literally,8642,-2.0667219161987305,"[17512, 32616]",linear_weights
+The best approach would be,2.0,casual_high_emotion,seriously,7580,-7.162693500518799,"[17512, 32616]",linear_weights
+The best approach would be,2.0,casual_high_emotion,honestly,14483,-3.3412725925445557,"[17512, 32616]",linear_weights
+The best approach would be,2.0,casual_high_emotion,really,1196,-2.449432849884033,"[17512, 32616]",linear_weights
+The best approach would be,2.0,casual_high_emotion,absolutely,6270,-4.404850006103516,"[17512, 32616]",linear_weights
+The best approach would be,2.0,casual_high_emotion,incredibly,9301,-8.795534133911133,"[17512, 32616]",linear_weights
+The best approach would be,4.0,formal_low_emotion,perhaps,4153,-2.6241824626922607,"[17512, 32616]",linear_weights
+The best approach would be,4.0,formal_low_emotion,may,754,-5.619654178619385,"[17512, 32616]",linear_weights
+The best approach would be,4.0,formal_low_emotion,however,2480,-4.390356063842773,"[17512, 32616]",linear_weights
+The best approach would be,4.0,formal_low_emotion,therefore,4320,-4.251625061035156,"[17512, 32616]",linear_weights
+The best approach would be,4.0,formal_low_emotion,consequently,23995,-8.16504192352295,"[17512, 32616]",linear_weights
+The best approach would be,4.0,formal_low_emotion,moreover,541,-3.159621477127075,"[17512, 32616]",linear_weights
+The best approach would be,4.0,formal_low_emotion,accordingly,17159,-7.889730453491211,"[17512, 32616]",linear_weights
+The best approach would be,4.0,formal_low_emotion,furthermore,2134,-3.8650717735290527,"[17512, 32616]",linear_weights
+The best approach would be,4.0,formal_high_emotion,profoundly,29160,-12.651527404785156,"[17512, 32616]",linear_weights
+The best approach would be,4.0,formal_high_emotion,devastated,27668,-11.773622512817383,"[17512, 32616]",linear_weights
+The best approach would be,4.0,formal_high_emotion,magnificent,16773,-10.787553787231445,"[17512, 32616]",linear_weights
+The best approach would be,4.0,formal_high_emotion,appalling,573,-4.248257637023926,"[17512, 32616]",linear_weights
+The best approach would be,4.0,formal_high_emotion,extraordinary,10035,-8.89033317565918,"[17512, 32616]",linear_weights
+The best approach would be,4.0,formal_high_emotion,overwhelming,11734,-5.396050930023193,"[17512, 32616]",linear_weights
+The best approach would be,4.0,formal_high_emotion,catastrophic,24769,-9.787755966186523,"[17512, 32616]",linear_weights
+The best approach would be,4.0,formal_high_emotion,triumphant,15511,-9.721575736999512,"[17512, 32616]",linear_weights
+The best approach would be,4.0,casual_low_emotion,yeah,12191,-6.38779878616333,"[17512, 32616]",linear_weights
+The best approach would be,4.0,casual_low_emotion,okay,10989,-6.887922763824463,"[17512, 32616]",linear_weights
+The best approach would be,4.0,casual_low_emotion,kinda,21775,-4.748085975646973,"[17512, 32616]",linear_weights
+The best approach would be,4.0,casual_low_emotion,basically,8087,-1.9596552848815918,"[17512, 32616]",linear_weights
+The best approach would be,4.0,casual_low_emotion,anyway,8668,-3.971569299697876,"[17512, 32616]",linear_weights
+The best approach would be,4.0,casual_low_emotion,whatever,5193,-3.5449094772338867,"[17512, 32616]",linear_weights
+The best approach would be,4.0,casual_low_emotion,guess,5310,-8.079305648803711,"[17512, 32616]",linear_weights
+The best approach would be,4.0,casual_low_emotion,stuff,4269,-6.801018238067627,"[17512, 32616]",linear_weights
+The best approach would be,4.0,casual_high_emotion,OMG,21978,-6.187599182128906,"[17512, 32616]",linear_weights
+The best approach would be,4.0,casual_high_emotion,totally,7110,-3.873224973678589,"[17512, 32616]",linear_weights
+The best approach would be,4.0,casual_high_emotion,literally,8642,-2.0667219161987305,"[17512, 32616]",linear_weights
+The best approach would be,4.0,casual_high_emotion,seriously,7580,-7.162693500518799,"[17512, 32616]",linear_weights
+The best approach would be,4.0,casual_high_emotion,honestly,14483,-3.3412725925445557,"[17512, 32616]",linear_weights
+The best approach would be,4.0,casual_high_emotion,really,1196,-2.449432849884033,"[17512, 32616]",linear_weights
+The best approach would be,4.0,casual_high_emotion,absolutely,6270,-4.404850006103516,"[17512, 32616]",linear_weights
+The best approach would be,4.0,casual_high_emotion,incredibly,9301,-8.795534133911133,"[17512, 32616]",linear_weights

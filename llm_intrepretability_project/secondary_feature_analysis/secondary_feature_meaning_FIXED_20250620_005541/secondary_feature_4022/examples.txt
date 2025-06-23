@@ -1,0 +1,260 @@
+--- Example 1 ---
+Secondary Activation: 2.996836
+Text:
+that pilots can be trained outside of the UK ,
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P4428: 7.535821
+  P17831: 7.451948
+--------------------------------------------------
+
+--- Example 2 ---
+Secondary Activation: 2.827978
+Text:
+that lay behind all things and was present in all
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P4428: 7.506199
+  P17831: 7.451948
+--------------------------------------------------
+
+--- Example 3 ---
+Secondary Activation: 2.791274
+Text:
+that exists almost edge @-@ on to its
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.812312
+  P27001: 7.563285
+  P17831: 7.477334
+  P41978: 7.312889
+--------------------------------------------------
+
+--- Example 4 ---
+Secondary Activation: 2.782198
+Text:
+that knowing the past is crucial to one 's
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.457880
+  P4428: 7.395253
+--------------------------------------------------
+
+--- Example 5 ---
+Secondary Activation: 2.767932
+Text:
+that time , scholars disagree about whether any modern C
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P41978: 7.344570
+--------------------------------------------------
+
+--- Example 6 ---
+Secondary Activation: 2.743639
+Text:
+that the pairing " has been a hilarious , pitch
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P41978: 7.312889
+--------------------------------------------------
+
+--- Example 7 ---
+Secondary Activation: 2.739868
+Text:
+that carried 50 pounds ( 23
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.809138
+  P27001: 7.547879
+  P17831: 7.455470
+  P41978: 7.312889
+--------------------------------------------------
+
+--- Example 8 ---
+Secondary Activation: 2.727457
+Text:
+that he felt that he " could be a huge
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P41978: 7.312889
+--------------------------------------------------
+
+--- Example 9 ---
+Secondary Activation: 2.725498
+Text:
+that of the Sun . In terms of size ,
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.858223
+  P27001: 7.547879
+  P17831: 7.451948
+  P41978: 7.312889
+--------------------------------------------------
+
+--- Example 10 ---
+Secondary Activation: 2.721452
+Text:
+that the creator god will one day dissolve the
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P4428: 7.625199
+  P27001: 7.547879
+  P17831: 7.453445
+--------------------------------------------------
+
+--- Example 11 ---
+Secondary Activation: 2.719076
+Text:
+that Shiva was pleased with Ravana for restoring
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.556816
+  P17831: 7.451948
+  P4428: 7.384159
+--------------------------------------------------
+
+--- Example 12 ---
+Secondary Activation: 2.694117
+Text:
+that were damaged or destroyed included wharves ,
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P4428: 7.429680
+--------------------------------------------------
+
+--- Example 13 ---
+Secondary Activation: 2.691434
+Text:
+that Fey 's performance is " supposed to
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P41978: 7.312889
+--------------------------------------------------
+
+--- Example 14 ---
+Secondary Activation: 2.689069
+Text:
+that repeat the shaming of children , so that
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P4428: 7.455360
+  P17831: 7.451948
+--------------------------------------------------
+
+--- Example 15 ---
+Secondary Activation: 2.681277
+Text:
+that the amount of iron found in the Sun .
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P41978: 7.312889
+--------------------------------------------------
+
+--- Example 16 ---
+Secondary Activation: 2.666241
+Text:
+that early numismatic scholars assumed the reverse was
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P4428: 7.615602
+  P27001: 7.547879
+  P17831: 7.483261
+--------------------------------------------------
+
+--- Example 17 ---
+Secondary Activation: 2.662513
+Text:
+that if no one wanted these denominations , they
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P41978: 7.363305
+--------------------------------------------------
+
+--- Example 18 ---
+Secondary Activation: 2.657239
+Text:
+that god . By inhabiting these images , the
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P41978: 7.323383
+--------------------------------------------------
+
+--- Example 19 ---
+Secondary Activation: 2.640198
+Text:
+that Ra personified the sun . Short @-
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P41978: 7.312889
+--------------------------------------------------
+
+--- Example 20 ---
+Secondary Activation: 2.634279
+Text:
+that did not interfere with the well @-@
+
+Top 5 Primary SAE features for this example:
+  P9646: 7.915706
+  P15374: 7.807462
+  P27001: 7.547879
+  P17831: 7.451948
+  P41978: 7.312889
+--------------------------------------------------
+

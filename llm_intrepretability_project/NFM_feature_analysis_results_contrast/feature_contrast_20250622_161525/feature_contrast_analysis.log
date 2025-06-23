@@ -1,0 +1,31 @@
+2025-06-22 16:15:25,585 - root - INFO - Features argument provided: 21607
+2025-06-22 16:15:25,585 - root - INFO - Analyzing features with contrast method: [21607]
+2025-06-22 16:15:25,585 - root - INFO - Model path: ../models/open_llama_3b
+2025-06-22 16:15:25,585 - root - INFO - SAE path: checkpoints_topk/best_model.pt
+2025-06-22 16:15:25,585 - root - INFO - Number of examples per feature: 20
+2025-06-22 16:15:25,585 - root - INFO - Number of dataset samples: 10000
+2025-06-22 16:15:25,586 - root - INFO - Window size: 10
+2025-06-22 16:15:25,586 - root - INFO - Batch size: 16
+2025-06-22 16:15:25,586 - root - INFO - Max token length: 10
+2025-06-22 16:15:25,586 - root - INFO - Claude examples: 10
+2025-06-22 16:15:25,592 - root - INFO - Claude API key loaded successfully
+2025-06-22 16:15:25,592 - root - INFO - Loading models...
+2025-06-22 16:15:26,003 - root - INFO - Set pad_token to eos_token for tokenizer
+2025-06-22 16:15:28,435 - accelerate.utils.modeling - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-06-22 16:15:32,276 - root - INFO - Loading SAE model...
+2025-06-22 16:15:32,573 - root - INFO - Creating TopK SAE with input_dim=3200, hidden_dim=50000, k=1024
+2025-06-22 16:15:34,374 - root - INFO - Loading wikitext dataset with chunking...
+2025-06-22 16:15:40,979 - root - INFO - Loaded 10000 text samples (with chunking) from wikitext-103 (max_token_length=10)
+2025-06-22 16:15:40,979 - root - INFO - 
+Analyzing feature 21607 with contrast method
+2025-06-22 16:15:40,980 - root - INFO - Finding top 20 positive examples (highest activations)...
+2025-06-22 16:16:46,193 - root - INFO - Finding top 20 negative examples (most inhibited activations)...
+2025-06-22 16:17:53,557 - root - INFO - Computing feature statistics (post-ReLU)...
+2025-06-22 16:18:06,572 - root - INFO - Computing feature statistics (pre-ReLU)...
+2025-06-22 16:18:19,828 - root - INFO - Post-ReLU Statistics: {'mean_activation': 0.012127222493290901, 'max_activation': 28.063045501708984, 'min_activation': 0.0, 'median_activation': 0.0, 'std_activation': 0.5163277983665466, 'percent_active_non_special_tokens': 0.5217098619993268, 'mean_text_active_pct_non_special_tokens': 0.5166666666666666, 'feature_idx': 21607, 'activation_type': 'post-ReLU'}
+2025-06-22 16:18:19,828 - root - INFO - Pre-ReLU Statistics: {'mean_activation': -0.3036264479160309, 'max_activation': 28.063045501708984, 'min_activation': -1.1785376071929932, 'median_activation': -0.34039467573165894, 'std_activation': 0.7729364037513733, 'percent_active_non_special_tokens': 100.0, 'mean_text_active_pct_non_special_tokens': 100.0, 'feature_idx': 21607, 'activation_type': 'pre-ReLU'}
+2025-06-22 16:18:19,829 - root - INFO - Identifying feature contrast pattern using Claude API...
+2025-06-22 16:18:26,618 - root - INFO - Identified contrast pattern: Pattern: The positive examples all contain the word "that" followed by a subordinate clause, while the negative examples do not have this specific structure.
+2025-06-22 16:18:26,619 - root - INFO - Incremental results saved for feature 21607
+2025-06-22 16:18:26,620 - root - INFO - Creating contrast analysis summary report...
+2025-06-22 16:18:26,620 - root - INFO - Contrast analysis complete! Results saved to NFM_feature_analysis_results_contrast\feature_contrast_20250622_161525

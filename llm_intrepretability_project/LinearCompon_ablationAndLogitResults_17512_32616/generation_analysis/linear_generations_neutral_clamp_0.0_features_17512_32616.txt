@@ -1,0 +1,33 @@
+=== NEUTRAL PROMPTS - CLAMP_0.0 (LINEAR COMPONENT) ===
+
+--- Generation 1 ---
+Prompt: I need to inform everyone about
+Generated: the upcoming exciting upcoming exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting
+Full text: I need to inform everyone about the upcoming exciting upcoming exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting exciting
+
+--- Generation 2 ---
+Prompt: When someone asks me about
+Generated: the biggest miscon­­​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+Full text: When someone asks me about the biggest miscon­­​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+
+--- Generation 3 ---
+Prompt: The reason this happened is
+Generated: because the original intent of the original intent of the original intent of the intention of the intention of the intention of the intention of the intention of the intention of the intention of the intention of the intention of the intention of the intention of the intention of the
+Full text: The reason this happened is because the original intent of the original intent of the original intent of the intention of the intention of the intention of the intention of the intention of the intention of the intention of the intention of the intention of the intention of the intention of the intention of the
+
+--- Generation 4 ---
+Prompt: My thoughts on this matter are
+Generated: summed up in the words of the wise Latting succinctly:
+
+
+ggleberttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+Full text: My thoughts on this matter are summed up in the words of the wise Latting succinctly:
+
+
+ggleberttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+
+--- Generation 5 ---
+Prompt: The best way to handle this is
+Generated: to just be chill and chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill
+Full text: The best way to handle this is to just be chill and chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill chill
+

@@ -1,0 +1,17 @@
+word_category,clamp_value,mean_difference,std_difference,median_difference,num_words,num_prompts,total_observations
+casual_high_emotion,0.0,0.0,0.0,0.0,8,5,40
+casual_high_emotion,1.0,0.0,0.0,0.0,8,5,40
+casual_high_emotion,2.0,0.0,0.0,0.0,8,5,40
+casual_high_emotion,4.0,0.0,0.0,0.0,8,5,40
+casual_low_emotion,0.0,0.0,0.0,0.0,8,5,40
+casual_low_emotion,1.0,0.0,0.0,0.0,8,5,40
+casual_low_emotion,2.0,0.0,0.0,0.0,8,5,40
+casual_low_emotion,4.0,0.0,0.0,0.0,8,5,40
+formal_high_emotion,0.0,0.0,0.0,0.0,8,5,40
+formal_high_emotion,1.0,0.0,0.0,0.0,8,5,40
+formal_high_emotion,2.0,0.0,0.0,0.0,8,5,40
+formal_high_emotion,4.0,0.0,0.0,0.0,8,5,40
+formal_low_emotion,0.0,0.0,0.0,0.0,8,5,40
+formal_low_emotion,1.0,0.0,0.0,0.0,8,5,40
+formal_low_emotion,2.0,0.0,0.0,0.0,8,5,40
+formal_low_emotion,4.0,0.0,0.0,0.0,8,5,40

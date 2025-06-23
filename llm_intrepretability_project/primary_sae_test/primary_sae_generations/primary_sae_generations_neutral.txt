@@ -1,0 +1,16 @@
+=== PRIMARY SAE HOOK NEUTRAL PROMPTS ===
+
+--- Generation 1 ---
+Prompt: I need to inform everyone about
+Generated: a very important announcement regarding the website and the forum.
+Please kindly take a few minutes to read this announcement.
+1. The old forum will be shut down on the 2nd of September, 2 ​ ( exact date will be announced
+Full text: I need to inform everyone about a very important announcement regarding the website and the forum.
+Please kindly take a few minutes to read this announcement.
+1. The old forum will be shut down on the 2nd of September, 2 ​ ( exact date will be announced
+
+--- Generation 2 ---
+Prompt: When someone asks me about
+Generated: my favorite foods and memories growing up, the immediate response is always food memories. I love food memories because food memories are memories that are usually happy ones. Food memories are memories that bring happy memories flooding back to me instantly. Food memories are memories that
+Full text: When someone asks me about my favorite foods and memories growing up, the immediate response is always food memories. I love food memories because food memories are memories that are usually happy ones. Food memories are memories that bring happy memories flooding back to me instantly. Food memories are memories that
+

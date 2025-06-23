@@ -1,0 +1,261 @@
+--- Example 1 ---
+Secondary Activation: 2.471372
+Text:
+( 灯 @-@ TOM
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.864605
+  P15374: 3.803313
+  P27001: 3.723859
+  P17831: 3.630003
+  P41978: 3.569838
+--------------------------------------------------
+
+--- Example 2 ---
+Secondary Activation: 2.257869
+Text:
+reach of the monitors for an attack early the following
+
+Top 5 Primary SAE features for this example:
+  P4428: 4.275685
+  P9646: 3.861619
+  P15374: 3.808870
+  P27001: 3.678903
+  P17831: 3.638699
+--------------------------------------------------
+
+--- Example 3 ---
+Secondary Activation: 2.138204
+Text:
+anted ( 2014 ) , and
+
+Top 5 Primary SAE features for this example:
+  P15374: 3.870956
+  P9646: 3.861619
+  P27001: 3.678903
+  P17831: 3.630003
+  P41978: 3.564462
+--------------------------------------------------
+
+--- Example 4 ---
+Secondary Activation: 2.134528
+Text:
+0 buck & ball cartridges - percussion 
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P27001: 3.678903
+  P17831: 3.630003
+  P41978: 3.560833
+--------------------------------------------------
+
+--- Example 5 ---
+Secondary Activation: 2.134528
+Text:
+0 buck & ball cartridges - flint
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P27001: 3.678903
+  P17831: 3.630003
+  P41978: 3.560833
+--------------------------------------------------
+
+--- Example 6 ---
+Secondary Activation: 2.119961
+Text:
+( 1744 – 18
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.881577
+  P15374: 3.803313
+  P27001: 3.690997
+  P17831: 3.630003
+  P41978: 3.565643
+--------------------------------------------------
+
+--- Example 7 ---
+Secondary Activation: 2.080869
+Text:
+( 1865 ) . 
+
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.849545
+  P27001: 3.690997
+  P17831: 3.630003
+  P5917: 3.570292
+--------------------------------------------------
+
+--- Example 8 ---
+Secondary Activation: 2.059368
+Text:
+acceptable currencies , and paper money traded at a discount
+
+Top 5 Primary SAE features for this example:
+  P4428: 4.046800
+  P9646: 3.862670
+  P15374: 3.823254
+  P27001: 3.680890
+  P17831: 3.630003
+--------------------------------------------------
+
+--- Example 9 ---
+Secondary Activation: 2.044992
+Text:
+owners , customs , and members of the enthusiast
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P4428: 3.797040
+  P27001: 3.678903
+  P17831: 3.630003
+--------------------------------------------------
+
+--- Example 10 ---
+Secondary Activation: 2.000309
+Text:
+as club aircraft rented out to qualified pilots for recreational
+
+Top 5 Primary SAE features for this example:
+  P4428: 4.672155
+  P9646: 3.861619
+  P15374: 3.803313
+  P27001: 3.702945
+  P17831: 3.638793
+--------------------------------------------------
+
+--- Example 11 ---
+Secondary Activation: 1.983585
+Text:
+4 . Attached to a bicycle company in the
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P27001: 3.678903
+  P17831: 3.630003
+  P41978: 3.560833
+--------------------------------------------------
+
+--- Example 12 ---
+Secondary Activation: 1.925307
+Text:
+liTZ system , is carried over directly from
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.866061
+  P15374: 3.803313
+  P27001: 3.708078
+  P17831: 3.630003
+  P41978: 3.581236
+--------------------------------------------------
+
+--- Example 13 ---
+Secondary Activation: 1.920688
+Text:
+and she reached Port Royal under her own power .
+
+Top 5 Primary SAE features for this example:
+  P4428: 3.981359
+  P9646: 3.861619
+  P15374: 3.807765
+  P27001: 3.678903
+  P17831: 3.637181
+--------------------------------------------------
+
+--- Example 14 ---
+Secondary Activation: 1.920502
+Text:
+unleashed a tiger , let us see if he
+
+Top 5 Primary SAE features for this example:
+  P4428: 4.166509
+  P9646: 3.861619
+  P15374: 3.811632
+  P27001: 3.678903
+  P17831: 3.630003
+--------------------------------------------------
+
+--- Example 15 ---
+Secondary Activation: 1.904077
+Text:
+elapsed before the change could be effected .
+
+Top 5 Primary SAE features for this example:
+  P4428: 4.308873
+  P9646: 3.861619
+  P15374: 3.803313
+  P27001: 3.695004
+  P17831: 3.630003
+--------------------------------------------------
+
+--- Example 16 ---
+Secondary Activation: 1.899741
+Text:
+and exposure . Not a particularly religious man , he
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.833388
+  P27001: 3.678903
+  P17831: 3.637181
+  P41978: 3.560833
+--------------------------------------------------
+
+--- Example 17 ---
+Secondary Activation: 1.899381
+Text:
+ñol recommended coming to terms with the first group
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.811905
+  P27001: 3.779868
+  P17831: 3.652872
+  P41978: 3.573937
+--------------------------------------------------
+
+--- Example 18 ---
+Secondary Activation: 1.894363
+Text:
+According to a genealogical DNA test arranged by
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.803313
+  P27001: 3.678903
+  P17831: 3.630003
+  P41978: 3.574672
+--------------------------------------------------
+
+--- Example 19 ---
+Secondary Activation: 1.882904
+Text:
+cartridges , and 520 @
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.861619
+  P15374: 3.810674
+  P27001: 3.678903
+  P17831: 3.631106
+  P41978: 3.561274
+--------------------------------------------------
+
+--- Example 20 ---
+Secondary Activation: 1.882495
+Text:
+liograph ) . A new 16 @
+
+Top 5 Primary SAE features for this example:
+  P9646: 3.866061
+  P15374: 3.818589
+  P27001: 3.708078
+  P17831: 3.630003
+  P41978: 3.569333
+--------------------------------------------------
+

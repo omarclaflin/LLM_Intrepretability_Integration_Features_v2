@@ -1,0 +1,14 @@
+# NFM Residual Checkpoints
+llm_intrepretability_project/__pycache__
+llm_intrepretability_project/interaction_sae
+llm_intrepretability_project/checkpoints_nfm
+llm_intrepretability_project/checkpoints_topk
+llm_intrepretability_project/NFM_250_250_150
+llm_intrepretability_project/NFM_500_500_300
+# Project stuff I added
+__pycache__
+llm-venv
+models
+config/api_config.json
+*.pt
+*.json
