@@ -19,9 +19,9 @@ Blog: [https://omarclaflin.com/2025/06/23/llm-intervention-experiments-with-inte
 
 ```
 Raw Activations → Primary SAE → NFM → Secondary SAE
-                      ↓           ↓         ↓
-                Feature Identity  ↑  Feature Integration
-                              Residuals
+        ↓           ↓      ↓      ↑         ↓
+      Feature Identity    Residuals    Feature Integration
+                              
 ```
 
 The pipeline decomposes neural representations into:
