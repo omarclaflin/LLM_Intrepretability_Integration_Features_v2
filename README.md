@@ -77,7 +77,7 @@ Decomposes NFM interaction embeddings using secondary SAE.
 python part9b_stimulus_response_listOfDiscoveredFeatures_analysis.py --model_path ../models/open_llama_3b --sae_path checkpoints_topk/best_model.pt --nfm_path checkpoints_nfm/best_nfm_linear_interaction_model.pt --output_dir ./stimulus_response_results_discovered --n_features 1 --sae_k 500
 ```
 
-#### Sparsity-based discovery:
+#### Check contributions of NFM components:
 ```bash
 python part4_NFM_sparsity_inspector.py --model_path checkpoints_nfm/best_nfm_linear_interaction_model.pt --component embeddings
 ```
@@ -87,7 +87,7 @@ python part4_NFM_sparsity_inspector.py --model_path checkpoints_nfm/best_nfm_lin
 python part12_NFMSAE_feature_meaning_large_wiki.py --model_path ../models/open_llama_3b --primary_sae_path ./checkpoints_topk/best_model.pt --nfm_path ./checkpoints_nfm/best_nfm_linear_interaction_model.pt --secondary_sae_path ./interaction_sae/best_interaction_sae_topk_model.pt --features "4067,4022,3520,899,2020" --output_dir ./secondary_feature_analysis --max_token_length 10 --claude_examples 20
 ```
 
-### 6. Intervention Experiments
+### 6. Intervention Experiments (Impact on Logit buckets from Secondary Feature clamping)
 ```bash
 python part13_logit_and_clamping_analysis_on_interaction_feature.py --model_path ../models/open_llama_3b --primary_sae_path checkpoints_topk/best_model.pt --nfm_path checkpoints_nfm/best_nfm_linear_interaction_model.pt --secondary_sae_path ./interaction_sae/best_interaction_sae_topk_model.pt --output_dir ./ablationAndLogitResults --target_features 4067 --clamp_multipliers -4.0 0.0 1.0 4.0 --generation_length 50
 ```
