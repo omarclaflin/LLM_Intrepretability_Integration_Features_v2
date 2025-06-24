@@ -1,17 +1,18 @@
 # Feature Integration Beyond Sparse Coding
 
-This project implements and validates a dual encoding hypothesis for neural network interpretability: that networks encode both **feature identity** (what concepts are present) and **feature integration** (how concepts combine computationally) in the same representational space.
+This project implements and validates a dual encoding hypothesis for neural network interpretability: that networks encode both **feature identity** (what concepts are present) and **feature integration** (how concepts combine computationally) in the same representational neural space. Previous work in this field primarily focuses on feature identity and treats feature packing as pure noise/intererence minimization rather than rich, even as a non-linear feature binding space, also encoded with identity.
 
 ## Paper
 
 Full paper: [Feature Integration Beyond Sparse Coding: Evidence for Non-Linear Computation Spaces in Neural Networks](https://github.com/omarclaflin/LLM_Intrepretability_Integration_Features_v2/blob/main/Feature%20Integration%20Beyond%20Sparse%20Coding_%20Evidence%20for%20Non-Linear%20Computation%20Spaces%20in%20Neural%20Networks.pdf)
 
 Blog: [https://omarclaflin.com/2025/06/23/llm-intervention-experiments-with-integrated-features-part-3/](https://omarclaflin.com/2025/06/23/llm-intervention-experiments-with-integrated-features-part-3/)
+[Original Blog post/project idea and initial attempt](https://omarclaflin.com/2025/06/14/information-space-contains-computations-not-just-features/)
 
 ## Key Results
 
-- **23% reconstruction improvement** over baseline TopK SAE using Neural Factorization Machines
-- **5-20% contribution** from non-linear interaction components
+- **3-23% reconstruction improvement** over baseline TopK SAE using Neural Factorization Machines
+- **4-20% contribution** from non-linear interaction components
 - **Selective intervention effects** demonstrating functional significance of integration features
 - **Statistical validation** of 2×2 semantic interaction patterns (formality × emotion)
 
