@@ -1,6 +1,6 @@
 # Feature Integration Beyond Sparse Coding
 
-This project implements and validates a dual encoding hypothesis for neural network interpretability: that networks encode both **feature identity** (what concepts are present) and **feature integration** (how concepts combine computationally) in the same representational neural space. Previous work in this field primarily focuses on feature identity and treats feature packing as pure noise/intererence minimization rather than rich, even as a non-linear feature binding space, also encoded with identity.
+This project implements and validates a dual encoding hypothesis for neural network interpretability: that networks encode both **feature identity** (what concepts are present) and **feature integration** (how concepts combine computationally) in the same representational neural space. Previous work in this field primarily focuses on feature identity and treats feature packing as pure noise/intererence minimization rather than a information-rich, non-linear feature binding space encoded along with identity.
 
 ## Paper
 
