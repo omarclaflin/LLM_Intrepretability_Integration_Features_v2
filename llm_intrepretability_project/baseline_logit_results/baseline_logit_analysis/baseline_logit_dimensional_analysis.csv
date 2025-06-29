@@ -1,5 +1,0 @@
-word_category,mean_logit,std_logit,median_logit,num_words,num_prompts,total_observations,analysis_type
-"('casual_high_emotion',)",-5.038832365721464,3.3916611056455745,-6.162994384765625,8,5,40,baseline
-"('casual_low_emotion',)",-6.063831534981728,2.594663989905651,-6.519354581832886,8,5,40,baseline
-"('formal_high_emotion',)",-7.882339707762003,3.6283642594870678,-8.702309608459473,8,5,40,baseline
-"('formal_low_emotion',)",-4.8862168654799465,3.384172512079429,-4.590126276016235,8,5,40,baseline

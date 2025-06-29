@@ -1,15 +1,56 @@
 # Feature Integration Beyond Sparse Coding
 
+tl;dr: We show that neural networks encode both feature identity and computational relationships in compressed spaces, and develop joint training architectures that achieve 41% reconstruction improvement while revealing natural feature specialization.
+
 This project implements and validates a dual encoding hypothesis for neural network interpretability: that networks encode both **feature identity** (what concepts are present) and **feature integration** (how concepts combine computationally) in the same representational neural space. Previous work in this field primarily focuses on feature identity and treats feature packing as pure noise/intererence minimization rather than a information-rich, non-linear feature binding space encoded along with identity.
 
-## Paper
+## Paper 
+Paper (submitted): [Feature Integration Spaces: Joint Training Reveals Dual Encoding in Neural Network Representations](https://github.com/omarclaflin/LLM_Intrepretability_Integration_Features_v2/blob/main/Feature_Integration_Beyond_Sparse_encoding_2026.pdf)
 
-Full paper: [Feature Integration Beyond Sparse Coding: Evidence for Non-Linear Computation Spaces in Neural Networks](https://github.com/omarclaflin/LLM_Intrepretability_Integration_Features_v2/blob/main/Feature%20Integration%20Beyond%20Sparse%20Coding_%20Evidence%20for%20Non-Linear%20Computation%20Spaces%20in%20Neural%20Networks.pdf)
-
-Blog: [https://omarclaflin.com/2025/06/23/llm-intervention-experiments-with-integrated-features-part-3/](https://omarclaflin.com/2025/06/23/llm-intervention-experiments-with-integrated-features-part-3/)   
-[Original Blog post/project idea and initial attempt](https://omarclaflin.com/2025/06/14/information-space-contains-computations-not-just-features/)
+Blog (will update soon): [Original Blog post/project idea and initial attempt](https://omarclaflin.com/2025/06/14/information-space-contains-computations-not-just-features/)
+[KL divergence solved?](https://omarclaflin.com/2025/06/23/llm-intervention-experiments-with-integrated-features-part-3/)   
 
 ## Key Results
+
+- **41.3% reconstruction improvement** over baseline TopK SAE using new jointly trained architecture (vs 23% sequential)
+- **51.6% reduction in pathological KL divergence errors** (vs 30% sequential), directly addressing known SAE limitations  
+- **16.5% contribution from non-linear** feature interaction components (which only contribute to 3.2% of total/9% of NFM)
+- **Emergent bimodal gram matrix** structure confirming the 'dual encoding' hypothesis (bimodal orthogonality of clean feature identity vs less orthogonal fused identity and relationships)
+- **Natural feature specialization** - orthogonal features (squared norms <0.2) contribute 82.8% to interactions vs 71.3% for less orthogonal features
+- **Strong correlations** between orthogonality and computational role (r=-0.987 for squared norms vs interaction contributions)
+- **Systematic behavioral validation** through 2×2 factorial experiments showing significant interaction effects on logit generation (F=5.06, p=0.027)
+- **Parameter efficiency of feature interaction encoding** - 32.3% of parameters achieving 41.3% improvement gains
+- **Cross-entropy improvements** of 26.2% with similar subadditive patterns across components (linear interactions, 25.7%; nonlinear interactions, 4.2%) (t>10.3, p<10e-6)
+
+
+## New Feature Interaction SAE Architecture
+
+```
+Residual SAE architecture (with interaction components)
+
+Raw Activations → Primary SAE → Linear Interactions + Nonlinear Interactions
+                    ↓           ↑          ↓                          ↓
+                  Feature Identity +  Linear Feature Integration + Nonlinear Feature Integration → Reconstruction
+                              
+```
+
+## Key Scripts
+
+| Script | Purpose |
+|--------|---------|
+| `part14...` | Run KL tests to test 'pathology' of new approach vs TopK SAE (vs epsilon error recon)
+| `part15_joint_SAENFM.py` | Train new Feature Integration SAE (joint NFM + SAE) --> forces components to jointly train with interaction
+| `part16...` | Orthogonality analysis (including bimodal gram generation)
+| `part17...` | Bimodal gram inspection (of the two modes, along w correlations)
+| `part18...` | Rerun KL tests on joint architecture 
+
+
+
+### OLD STUFF BELOW (prior to joint architecture and KL tests ###
+
+Old paper draft: [Feature Integration Beyond Sparse Coding: Evidence for Non-Linear Computation Spaces in Neural Networks](https://github.com/omarclaflin/LLM_Intrepretability_Integration_Features_v2/blob/main/Feature%20Integration%20Beyond%20Sparse%20Coding_%20Evidence%20for%20Non-Linear%20Computation%20Spaces%20in%20Neural%20Networks.pdf)
+
+Older results (with two-step training):
 
 - **3-23% reconstruction improvement** over baseline TopK SAE using Neural Factorization Machines
 - **4-20% contribution** from non-linear interaction components

@@ -18,6 +18,76 @@ Pipeline interventions:
 Tests whether NFM integration features reduce the pathological KL gap found by Gurnee.
 """
 
+# ============================================================
+# LOADING WIKITEXT-103 DATASET
+# ============================================================
+# Loading WikiText-103 dataset with chunking (target: 20000 samples)...
+# Loaded 19886 text chunks from WikiText-103 (max_token_length=128)
+# ============================================================
+# RUNNING WIKI KL DIVERGENCE COMPARISON EXPERIMENT
+# ============================================================
+# === WIKI KL DIVERGENCE COMPARISON EXPERIMENT ===
+# Wiki texts: 19886
+# ε-random samples per text: 5
+# Batch size: 2
+# Max token length: 128
+# Processing wiki batches: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████| 9943/9943 [2:54:14<00:00,  1.05s/it] 
+# Collected 17817856 KL divergence measurements from WikiText-103
+# Collected 17,817,856 KL divergence measurements from WikiText-103
+# ============================================================
+# ANALYZING WIKI KL DIVERGENCE RESULTS
+# ============================================================
+# === WIKI KL DIVERGENCE ANALYSIS ===
+# Summary Statistics:
+#                       count      mean       std    median       min        max
+# intervention_type
+# SAE_NFM             2545408  1.550403  1.492717  1.110369  0.000064  17.156284
+# SAE_only            2545408  2.211326  1.741550  1.769926  0.000154  18.190462
+# epsilon_random     12727040  0.739645  1.354186  0.276043  0.000002  18.164955
+# Key Ratios:
+#   SAE vs ε-random: 2.990x
+#   SAE+NFM vs ε-random: 2.096x
+#   SAE+NFM vs SAE: 0.701x
+# Statistical Tests (t-tests):
+#   SAE vs ε-random: t=1503.004, p=0.000000
+#   SAE+NFM vs ε-random: t=856.750, p=0.000000
+#   SAE+NFM vs SAE: t=-459.713, p=0.000000
+# === HYPOTHESIS TESTING (LARGE WIKI SCALE) ===
+# ✓ GURNEE'S PATHOLOGICAL ERROR CONFIRMED: SAE errors are 3.0x worse than random
+# ✓ CLAFLIN'S INTEGRATION HYPOTHESIS STRONGLY SUPPORTED: NFM reduces KL by 29.9%
+# 🎯 INTEGRATION REDUCES PATHOLOGICAL ERRORS by 29.9%
+#    With 17,817,856 measurements from WikiText-103
+# Sample Size Comparison:
+#   This experiment: 17,817,856 measurements
+#   Gurnee's scale: ~256,000,000 measurements
+#   Scale ratio: 0.0696x of Gurnee's experiment
+# ============================================================
+# CREATING WIKI VISUALIZATION PLOTS
+# ============================================================
+# WikiText-103 KL comparison plots saved to: wiki_kl_results\wiki_kl_comparison_plots
+# ============================================================
+# SAVING WIKI RESULTS
+# ============================================================
+# Wiki KL divergence results saved to: wiki_kl_results\wiki_kl_divergence_results.csv
+# Wiki KL analysis summary saved to: wiki_kl_results\wiki_kl_analysis_summary.json
+# Wiki summary statistics saved to: wiki_kl_results\wiki_kl_summary_statistics.csv
+# ============================================================
+# FINAL WIKI SUMMARY
+# ============================================================
+# KEY FINDINGS (WikiText-103 Scale):
+#   • SAE vs ε-random ratio: 2.990x
+#   • SAE+NFM vs ε-random ratio: 2.096x
+#   • SAE+NFM vs SAE ratio: 0.701x
+#   • Total measurements: 17,817,856
+#   • Scale vs Gurnee: 0.0696x
+# HYPOTHESIS TESTING:
+#   ✓ GURNEE'S PATHOLOGICAL ERROR HYPOTHESIS: CONFIRMED
+#   ✓ CLAFLIN'S INTEGRATION HYPOTHESIS: STRONGLY SUPPORTED
+# 🎯 MAIN CONCLUSION: Feature integration reduces pathological errors by 29.9%
+#    This supports the hypothesis that SAE errors are due to missing feature integration!
+#    Tested on 17,817,856 real WikiText-103 measurements
+
+
 import torch
 import numpy as np
 import argparse
@@ -451,7 +521,7 @@ class WikiKLDivergenceAnalyzer:
                 attention_mask = inputs["attention_mask"]
                 
                 # Skip if batch is too large for memory
-                if input_ids.shape[0] * input_ids.shape[1] > 8192:  # Rough memory limit
+                if input_ids.shape[0] * input_ids.shape[1] > 4096:  # Rough memory limit
                     continue
                 
                 # Get original logits (baseline)

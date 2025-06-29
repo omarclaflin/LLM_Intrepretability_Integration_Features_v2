@@ -1,5 +1,0 @@
-clamp_value,formality_effect,emotion_effect,interaction_effect,formality_f,formality_p,emotion_f,emotion_p,interaction_f,interaction_p,formal_low_mean,formal_high_mean,casual_low_mean,casual_high_mean,intervention_type
-0.0,0.0,0.0,0.0,,,,,,,0.0,0.0,0.0,0.0,linear_weights
-1.0,0.0,0.0,0.0,,,,,,,0.0,0.0,0.0,0.0,linear_weights
-2.0,0.0,0.0,0.0,,,,,,,0.0,0.0,0.0,0.0,linear_weights
-4.0,0.0,0.0,0.0,,,,,,,0.0,0.0,0.0,0.0,linear_weights

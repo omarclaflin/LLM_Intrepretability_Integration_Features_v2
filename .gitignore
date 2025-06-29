@@ -12,3 +12,5 @@ models
 config/api_config.json
 *.pt
 *.json
+*.csv
+AuthorKit26
