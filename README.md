@@ -7,8 +7,9 @@ This project implements and validates a dual encoding hypothesis for neural netw
 ## Paper 
 Paper (submitted): [Feature Integration Spaces: Joint Training Reveals Dual Encoding in Neural Network Representations](https://github.com/omarclaflin/LLM_Intrepretability_Integration_Features_v2/blob/main/Feature_Integration_Beyond_Sparse_encoding_2026.pdf)
 
-Blog (will update soon): [Original Blog post/project idea and initial attempt](https://omarclaflin.com/2025/06/14/information-space-contains-computations-not-just-features/)
-[KL divergence solved?](https://omarclaflin.com/2025/06/23/llm-intervention-experiments-with-integrated-features-part-3/)   
+Blog: [Latest Post (paper summary)](https://omarclaflin.com/2025/06/29/joint-training-breakthrough-from-sequential-to-integrated-feature-learning/)    
+[Original Blog post/project idea and initial attempt](https://omarclaflin.com/2025/06/14/information-space-contains-computations-not-just-features/)   
+[KL divergence solved?](https://omarclaflin.com/2025/06/23/llm-intervention-experiments-with-integrated-features-part-3/)     
 
 ## Key Results
 
@@ -16,8 +17,8 @@ Blog (will update soon): [Original Blog post/project idea and initial attempt](h
 - **51.6% reduction in pathological KL divergence errors** (vs 30% sequential), directly addressing known SAE limitations  
 - **16.5% contribution from non-linear** feature interaction components (which only contribute to 3.2% of total/9% of NFM)
 - **Emergent bimodal gram matrix** structure confirming the 'dual encoding' hypothesis (bimodal orthogonality of clean feature identity vs less orthogonal fused identity and relationships)
-- **Natural feature specialization** - orthogonal features (squared norms <0.2) contribute 82.8% to interactions vs 71.3% for less orthogonal features
-- **Strong correlations** between orthogonality and computational role (r=-0.987 for squared norms vs interaction contributions)
+- **Natural feature specialization** - diffuse features (squared norms <0.2) contribute 82.8% to interactions vs 71.3% for more concentrated features
+- **Strong correlations** between energy and computational role (r=-0.987 for squared norms vs interaction contributions)
 - **Systematic behavioral validation** through 2×2 factorial experiments showing significant interaction effects on logit generation (F=5.06, p=0.027)
 - **Parameter efficiency of feature interaction encoding** - 32.3% of parameters achieving 41.3% improvement gains
 - **Cross-entropy improvements** of 26.2% with similar subadditive patterns across components (linear interactions, 25.7%; nonlinear interactions, 4.2%) (t>10.3, p<10e-6)
