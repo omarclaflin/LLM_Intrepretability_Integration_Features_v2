@@ -49,7 +49,7 @@ Raw Activations → Primary SAE → Linear Interactions + Nonlinear Interactions
 
 ### OLD STUFF BELOW (prior to joint architecture and KL tests ###
 
-Old paper draft: [Feature Integration Beyond Sparse Coding: Evidence for Non-Linear Computation Spaces in Neural Networks](https://github.com/omarclaflin/LLM_Intrepretability_Integration_Features_v2/blob/main/Feature%20Integration%20Beyond%20Sparse%20Coding_%20Evidence%20for%20Non-Linear%20Computation%20Spaces%20in%20Neural%20Networks.pdf)
+Old paper draft: [Feature Integration Beyond Sparse Coding: Evidence for Non-Linear Computation Spaces in Neural Networks](https://github.com/omarclaflin/LLM_Intrepretability_Integration_Features_v2/blob/main/paper/Feature%20Integration%20Beyond%20Sparse%20Coding_%20Evidence%20for%20Non-Linear%20Computation%20Spaces%20in%20Neural%20Networks.pdf)
 
 Older results (with two-step training):
 
