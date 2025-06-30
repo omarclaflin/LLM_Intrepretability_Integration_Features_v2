@@ -15,7 +15,7 @@ Blog: [Latest Post (paper summary)](https://omarclaflin.com/2025/06/29/joint-tra
 
 - **41.3% reconstruction improvement** over baseline TopK SAE using new jointly trained architecture (vs 23% sequential)
 - **51.6% reduction in pathological KL divergence errors** (vs 30% sequential), directly addressing known SAE limitations  
-- **16.5% contribution from non-linear** feature interaction components (which only contribute to 3.2% of total/9% of NFM)
+- **16.5% contribution from non-linear** feature interaction components (which only contribute to 3.2% of total/9% of NFM parameter count, 6% of NFM by mean L1 of embedding weights [94% linear])
 - **Emergent bimodal gram matrix** structure confirming the 'dual encoding' hypothesis (bimodal squared norm distribution of low energy & higher energy features vs unimodal distribution of SAE squared norm)
 - **Natural feature specialization** - diffuse features (squared norms <0.2) contribute 82.8% to interactions vs 71.3% for more concentrated features
 - **Strong correlations** between energy and computational role (r=-0.987 for squared norms vs interaction contributions)
