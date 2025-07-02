@@ -8,6 +8,7 @@ This project implements and validates a dual encoding hypothesis for neural netw
 Paper (submitted): [Feature Integration Spaces: Joint Training Reveals Dual Encoding in Neural Network Representations](https://github.com/omarclaflin/LLM_Intrepretability_Integration_Features_v2/blob/main/Feature_Integration_Beyond_Sparse_encoding_2026.pdf)  
 DOI: 10.13140/RG.2.2.25398.41284  
 [same as above, research gate link](https://www.researchgate.net/publication/393178076_Feature_Integration_Spaces_Joint_Training_Reveals_Dual_Encoding_in_Neural_Network_Representations)  
+arxiv link: [here](http://arxiv.org/abs/2507.00269)  
 
 Blog: [Latest Post (paper summary)](https://omarclaflin.com/2025/06/29/joint-training-breakthrough-from-sequential-to-integrated-feature-learning/)    
 [Original Blog post/project idea and initial attempt](https://omarclaflin.com/2025/06/14/information-space-contains-computations-not-just-features/)   
