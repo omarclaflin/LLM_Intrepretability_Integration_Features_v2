@@ -765,8 +765,12 @@ def create_joint_kl_comparison_plots(results_df, analysis_results, output_dir):
     plt.style.use('default')
     sns.set_palette("Set1")
     
+    # Set global font sizes for publication
+    plt.rcParams.update({'font.size': 18, 'axes.titlesize': 20, 'axes.labelsize': 18, 
+                         'xtick.labelsize': 16, 'ytick.labelsize': 16, 'legend.fontsize': 16})
+    
     # 1. Box plot comparing distributions
-    fig, ax = plt.subplots(figsize=(12, 8))
+    fig, ax = plt.subplots(figsize=(14, 10))
     
     intervention_order = ['epsilon_random', 'SAE_only', 'Joint_SAE_NFM']
     intervention_labels = ['ε-random', 'SAE only', 'Joint SAE+NFM']
@@ -782,10 +786,10 @@ def create_joint_kl_comparison_plots(results_df, analysis_results, output_dir):
     for patch, color in zip(bp['boxes'], colors):
         patch.set_facecolor(color)
     
-    ax.set_ylabel('KL Divergence', fontsize=14)
+    ax.set_ylabel('KL Divergence', fontsize=20)
     ax.set_title('Joint SAE+NFM KL Divergence Comparison: Testing End-to-End Training vs. Pathological Errors\n'
                  f'Scale: {len(results_df):,} measurements from real text', 
-                 fontsize=16, fontweight='bold')
+                 fontsize=24, fontweight='bold')
     ax.grid(True, alpha=0.3)
     
     # Add ratio annotations
@@ -798,7 +802,7 @@ def create_joint_kl_comparison_plots(results_df, analysis_results, output_dir):
                          f"Joint vs ε-random: {analysis_results['ce_ratios']['joint_vs_epsilon']:.2f}x\n"
                          f"Joint vs SAE: {analysis_results['ce_ratios']['joint_vs_sae']:.2f}x\n\n"
                          f"Measurements: {conclusions['total_measurements']:,}", 
-            transform=ax.transAxes, verticalalignment='top',
+            transform=ax.transAxes, verticalalignment='top', fontsize=16,
             bbox=dict(boxstyle='round', facecolor='white', alpha=0.8))
     
     plt.tight_layout()
@@ -807,37 +811,37 @@ def create_joint_kl_comparison_plots(results_df, analysis_results, output_dir):
     plt.close()
     
     # 2. Dual-metric histogram comparison
-    fig, axes = plt.subplots(2, 3, figsize=(18, 12))
+    fig, axes = plt.subplots(2, 3, figsize=(20, 14))
     fig.suptitle('Joint SAE+NFM: KL Divergence & Cross-Entropy Distributions by Intervention Type', 
-                 fontsize=16, fontweight='bold')
+                 fontsize=24, fontweight='bold')
     
     # KL Divergence histograms (top row)
     for i, (itype, label, color) in enumerate(zip(intervention_order, intervention_labels, colors)):
         kl_data = results_df[results_df['intervention_type'] == itype]['kl_divergence']
         axes[0, i].hist(kl_data, bins=50, alpha=0.7, color=color, edgecolor='black')
-        axes[0, i].set_title(f'{label}\nKL Mean: {kl_data.mean():.4f}\nN: {len(kl_data):,}', fontsize=12)
-        axes[0, i].set_xlabel('KL Divergence', fontsize=11)
-        axes[0, i].set_ylabel('Frequency', fontsize=11)
+        axes[0, i].set_title(f'{label}\nKL Mean: {kl_data.mean():.4f}\nN: {len(kl_data):,}', fontsize=18)
+        axes[0, i].set_xlabel('KL Divergence', fontsize=16)
+        axes[0, i].set_ylabel('Frequency', fontsize=16)
         axes[0, i].grid(True, alpha=0.3)
         
         # Add statistics
         axes[0, i].axvline(kl_data.mean(), color='red', linestyle='--', linewidth=2, label=f'Mean: {kl_data.mean():.4f}')
         axes[0, i].axvline(kl_data.median(), color='orange', linestyle='--', linewidth=2, label=f'Median: {kl_data.median():.4f}')
-        axes[0, i].legend(fontsize=9)
+        axes[0, i].legend(fontsize=14)
     
     # Cross-Entropy histograms (bottom row)
     for i, (itype, label, color) in enumerate(zip(intervention_order, intervention_labels, colors)):
         ce_data = results_df[results_df['intervention_type'] == itype]['cross_entropy']
         axes[1, i].hist(ce_data, bins=50, alpha=0.7, color=color, edgecolor='black')
-        axes[1, i].set_title(f'{label}\nCE Mean: {ce_data.mean():.4f}\nN: {len(ce_data):,}', fontsize=12)
-        axes[1, i].set_xlabel('Cross-Entropy', fontsize=11)
-        axes[1, i].set_ylabel('Frequency', fontsize=11)
+        axes[1, i].set_title(f'{label}\nCE Mean: {ce_data.mean():.4f}\nN: {len(ce_data):,}', fontsize=18)
+        axes[1, i].set_xlabel('Cross-Entropy', fontsize=16)
+        axes[1, i].set_ylabel('Frequency', fontsize=16)
         axes[1, i].grid(True, alpha=0.3)
         
         # Add statistics
         axes[1, i].axvline(ce_data.mean(), color='red', linestyle='--', linewidth=2, label=f'Mean: {ce_data.mean():.4f}')
         axes[1, i].axvline(ce_data.median(), color='orange', linestyle='--', linewidth=2, label=f'Median: {ce_data.median():.4f}')
-        axes[1, i].legend(fontsize=9)
+        axes[1, i].legend(fontsize=14)
     
     plt.tight_layout()
     histogram_path = plots_dir / "joint_kl_ce_histograms.png"
@@ -845,7 +849,7 @@ def create_joint_kl_comparison_plots(results_df, analysis_results, output_dir):
     plt.close()
     
     # 3. Position-wise analysis for both metrics
-    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(20, 8))
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(22, 10))
     
     # Calculate mean by position for each intervention type (first 64 positions)
     max_pos = min(64, results_df['position'].max())
@@ -856,24 +860,24 @@ def create_joint_kl_comparison_plots(results_df, analysis_results, output_dir):
     for itype, label in zip(intervention_order, intervention_labels):
         if itype in position_kl_stats.columns:
             ax1.plot(position_kl_stats.index, position_kl_stats[itype], 
-                   marker='o', label=label, linewidth=2, markersize=3)
+                   marker='o', label=label, linewidth=3, markersize=5)
     
-    ax1.set_xlabel('Token Position in Sequence', fontsize=12)
-    ax1.set_ylabel('Mean KL Divergence', fontsize=12)
-    ax1.set_title('KL Divergence by Token Position', fontsize=14, fontweight='bold')
-    ax1.legend()
+    ax1.set_xlabel('Token Position in Sequence', fontsize=18)
+    ax1.set_ylabel('Mean KL Divergence', fontsize=18)
+    ax1.set_title('KL Divergence by Token Position', fontsize=20, fontweight='bold')
+    ax1.legend(fontsize=16)
     ax1.grid(True, alpha=0.3)
     
     # Cross-Entropy by position
     for itype, label in zip(intervention_order, intervention_labels):
         if itype in position_ce_stats.columns:
             ax2.plot(position_ce_stats.index, position_ce_stats[itype], 
-                   marker='o', label=label, linewidth=2, markersize=3)
+                   marker='o', label=label, linewidth=3, markersize=5)
     
-    ax2.set_xlabel('Token Position in Sequence', fontsize=12)
-    ax2.set_ylabel('Mean Cross-Entropy', fontsize=12)
-    ax2.set_title('Cross-Entropy by Token Position', fontsize=14, fontweight='bold')
-    ax2.legend()
+    ax2.set_xlabel('Token Position in Sequence', fontsize=18)
+    ax2.set_ylabel('Mean Cross-Entropy', fontsize=18)
+    ax2.set_title('Cross-Entropy by Token Position', fontsize=20, fontweight='bold')
+    ax2.legend(fontsize=16)
     ax2.grid(True, alpha=0.3)
     
     plt.tight_layout()
@@ -882,7 +886,7 @@ def create_joint_kl_comparison_plots(results_df, analysis_results, output_dir):
     plt.close()
     
     # 4. Dual-metric improvement analysis plot
-    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(16, 6))
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(18, 8))
     
     # KL Divergence ratios
     kl_ratios = analysis_results['kl_ratios']
@@ -893,18 +897,18 @@ def create_joint_kl_comparison_plots(results_df, analysis_results, output_dir):
     ]
     
     labels, values, colors_imp = zip(*kl_improvement_data)
-    bars1 = ax1.bar(labels, values, color=colors_imp, edgecolor='black', linewidth=1)
+    bars1 = ax1.bar(labels, values, color=colors_imp, edgecolor='black', linewidth=2)
     
     # Add value labels on bars
     for bar, value in zip(bars1, values):
         height = bar.get_height()
         ax1.text(bar.get_x() + bar.get_width()/2., height + 0.01,
-                f'{value:.3f}x', ha='center', va='bottom', fontweight='bold')
+                f'{value:.3f}x', ha='center', va='bottom', fontweight='bold', fontsize=16)
     
     ax1.axhline(y=1.0, color='red', linestyle='--', alpha=0.7, label='Baseline (no difference)')
-    ax1.set_ylabel('KL Divergence Ratio', fontsize=12)
-    ax1.set_title('KL Divergence Ratios', fontsize=14, fontweight='bold')
-    ax1.legend()
+    ax1.set_ylabel('KL Divergence Ratio', fontsize=18)
+    ax1.set_title('KL Divergence Ratios', fontsize=20, fontweight='bold')
+    ax1.legend(fontsize=16)
     ax1.grid(True, alpha=0.3, axis='y')
     
     # Cross-Entropy ratios
@@ -916,18 +920,18 @@ def create_joint_kl_comparison_plots(results_df, analysis_results, output_dir):
     ]
     
     labels, values, colors_imp = zip(*ce_improvement_data)
-    bars2 = ax2.bar(labels, values, color=colors_imp, edgecolor='black', linewidth=1)
+    bars2 = ax2.bar(labels, values, color=colors_imp, edgecolor='black', linewidth=2)
     
     # Add value labels on bars
     for bar, value in zip(bars2, values):
         height = bar.get_height()
         ax2.text(bar.get_x() + bar.get_width()/2., height + 0.01,
-                f'{value:.3f}x', ha='center', va='bottom', fontweight='bold')
+                f'{value:.3f}x', ha='center', va='bottom', fontweight='bold', fontsize=16)
     
     ax2.axhline(y=1.0, color='red', linestyle='--', alpha=0.7, label='Baseline (no difference)')
-    ax2.set_ylabel('Cross-Entropy Ratio', fontsize=12)
-    ax2.set_title('Cross-Entropy Ratios', fontsize=14, fontweight='bold')
-    ax2.legend()
+    ax2.set_ylabel('Cross-Entropy Ratio', fontsize=18)
+    ax2.set_title('Cross-Entropy Ratios', fontsize=20, fontweight='bold')
+    ax2.legend(fontsize=16)
     ax2.grid(True, alpha=0.3, axis='y')
     
     plt.tight_layout()
@@ -935,13 +939,28 @@ def create_joint_kl_comparison_plots(results_df, analysis_results, output_dir):
     plt.savefig(improvement_path, dpi=300, bbox_inches='tight')
     plt.close()
     
-    print(f"Joint SAE+NFM KL & Cross-Entropy comparison plots saved to: {plots_dir}")
+    # Verify all plots were saved
+    plot_files = {
+        'boxplot': boxplot_path,
+        'histograms': histogram_path,
+        'position_plot': position_path,
+        'improvement_plot': improvement_path
+    }
+    
+    print(f"\nJoint SAE+NFM KL & Cross-Entropy comparison plots saved to: {plots_dir.resolve()}")
+    print(f"Plot files created:")
+    for name, path in plot_files.items():
+        if path.exists():
+            print(f"  ✓ {name}: {path.resolve()}")
+        else:
+            print(f"  ✗ {name}: FAILED to save at {path.resolve()}")
+    
     return {
-        'plots_directory': str(plots_dir),
-        'boxplot': str(boxplot_path),
-        'histograms': str(histogram_path),
-        'position_plot': str(position_path),
-        'improvement_plot': str(improvement_path)
+        'plots_directory': str(plots_dir.resolve()),
+        'boxplot': str(boxplot_path.resolve()),
+        'histograms': str(histogram_path.resolve()),
+        'position_plot': str(position_path.resolve()),
+        'improvement_plot': str(improvement_path.resolve())
     }
 
 def load_joint_model(args):
@@ -1039,7 +1058,14 @@ def save_joint_kl_results(results_df, analysis_results, output_dir):
     
     # Save detailed summary statistics
     summary_csv_path = output_dir / "joint_kl_summary_statistics.csv"
-    summary_df = pd.DataFrame(analysis_results['summary_stats'])
+    # Combine KL and CE summary stats
+    kl_stats = pd.DataFrame(analysis_results['kl_summary_stats'])
+    ce_stats = pd.DataFrame(analysis_results['ce_summary_stats'])
+    kl_stats.index.name = 'intervention_type'
+    ce_stats.index.name = 'intervention_type'
+    kl_stats.columns = [f'KL_{col}' for col in kl_stats.columns]
+    ce_stats.columns = [f'CE_{col}' for col in ce_stats.columns]
+    summary_df = pd.concat([kl_stats, ce_stats], axis=1)
     summary_df.to_csv(summary_csv_path)
     print(f"Joint summary statistics saved to: {summary_csv_path}")
 
@@ -1135,7 +1161,14 @@ def main():
     print("CREATING JOINT VISUALIZATION PLOTS")
     print("="*60)
     
-    plot_results = create_joint_kl_comparison_plots(results_df, analysis_results, args.output_dir)
+    try:
+        plot_results = create_joint_kl_comparison_plots(results_df, analysis_results, args.output_dir)
+        print(f"\nAll plots successfully created!")
+    except Exception as e:
+        print(f"\nERROR creating plots: {e}")
+        import traceback
+        traceback.print_exc()
+        plot_results = None
     
     # Save results
     print("\n" + "="*60)

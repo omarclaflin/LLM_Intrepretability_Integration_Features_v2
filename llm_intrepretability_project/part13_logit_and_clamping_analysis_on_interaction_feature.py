@@ -1121,9 +1121,9 @@ def create_interaction_plots_with_baselines(analysis_results, output_dir, target
     plt.close()
     
     # 4. INDIVIDUAL WORD SCATTER PLOT
-    fig, axes = plt.subplots(2, 2, figsize=(16, 12))
-    fig.suptitle(f'Individual Word Logit Differences by Category (vs Pipeline Baseline)\nSecondary SAE Features: {target_features}', 
-                 fontsize=16, fontweight='bold')
+    fig, axes = plt.subplots(2, 2, figsize=(18, 14))
+    fig.suptitle(f'Individual Word Logit Differences by Category (vs Baseline)\nSecondary SAE Features: {target_features}', 
+                 fontsize=32, fontweight='bold')
     
     axes = axes.flatten()
     categories = ['formal_low_emotion', 'formal_high_emotion', 'casual_low_emotion', 'casual_high_emotion']
@@ -1145,14 +1145,12 @@ def create_interaction_plots_with_baselines(analysis_results, output_dir, target
         means = category_data.groupby('clamp_value')['logit_difference'].mean()
         ax.plot(means.index, means.values, color='black', linewidth=2, marker='D', markersize=8)
         
-        ax.set_title(label, fontsize=12, fontweight='bold')
-        ax.set_xlabel('Clamp Value', fontsize=11)
-        ax.set_ylabel('Logit Difference from Baseline', fontsize=11)
+        ax.set_title(label, fontsize=32, fontweight='bold')
+        ax.set_xlabel('Clamp Value', fontsize=29)
+        ax.set_ylabel('', fontsize=29)
         ax.grid(True, alpha=0.3)
         ax.axhline(y=0, color='red', linestyle='--', alpha=0.5)  # Reference line at zero
-        
-        if i == 0:
-            ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
+        ax.tick_params(labelsize=27)
     
     plt.tight_layout()
     scatter_plot_path = plots_dir / f"word_scatter_baseline_features_{features_str}.png"

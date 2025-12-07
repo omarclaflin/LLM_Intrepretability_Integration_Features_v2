@@ -1,0 +1,29 @@
+=== CASUAL_NEUTRAL PROMPTS - CLAMP_-4.0 ===
+
+--- Generation 1 ---
+Prompt: So anyway, I was thinking about
+Generated: it today, and I thought maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe
+Full text: So anyway, I was thinking about it today, and I thought maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe maybe
+
+--- Generation 2 ---
+Prompt: Yeah, the thing is that
+Generated: I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’
+Full text: Yeah, the thing is that I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’ anyway I’
+
+--- Generation 3 ---
+Prompt: Basically what happened was
+Generated: that I woke up feeling a bit funny and decided to take a shower. Normally I would normally just lie there a bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit
+Full text: Basically what happened was that I woke up feeling a bit funny and decided to take a shower. Normally I would normally just lie there a bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit bit
+
+--- Generation 4 ---
+Prompt: I guess the main point is
+Generated: that if you want to do a lot of different kinds of stuff, you should probably learn a bunch of different ways to do it.
+
+Full text: I guess the main point is that if you want to do a lot of different kinds of stuff, you should probably learn a bunch of different ways to do it.
+
+
+--- Generation 5 ---
+Prompt: You know, it's kinda interesting how
+Generated: many damn fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking
+Full text: You know, it's kinda interesting how many damn fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking
+

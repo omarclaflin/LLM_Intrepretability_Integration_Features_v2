@@ -342,10 +342,18 @@ def create_visualizations(squared_norms, ratios, stats_results, output_dir):
     sns.set_palette("husl")
     
     ratio_names = ['nfm_total_ratio', 'linear_ratio', 'interaction_ratio', 'residual_ratio']
-    ratio_labels = ['NFM Total/Total', 'Linear/Total', 'Interaction/Total', 'Residual(SAE)/Total']
+    ratio_labels = ['NFM Total/Total', 'Linear/Total', 'NonLinear/Total', 'Residual(SAE)/Total']
+    
+    # Set font sizes for publication (larger for subplots)
+    plt.rcParams.update({'font.size': 29})
+    plt.rcParams.update({'axes.titlesize': 32})
+    plt.rcParams.update({'axes.labelsize': 29})
+    plt.rcParams.update({'xtick.labelsize': 27})
+    plt.rcParams.update({'ytick.labelsize': 27})
+    plt.rcParams.update({'legend.fontsize': 27})
     
     # 1. Scatter plots: Squared norm vs ratios
-    fig, axes = plt.subplots(2, 2, figsize=(15, 12))
+    fig, axes = plt.subplots(2, 2, figsize=(18, 14))
     axes = axes.flatten()
     
     for i, (ratio_name, ratio_label) in enumerate(zip(ratio_names, ratio_labels)):
@@ -368,21 +376,22 @@ def create_visualizations(squared_norms, ratios, stats_results, output_dir):
         if ratio_name in stats_results['correlations']:
             corr_info = stats_results['correlations'][ratio_name]
             ax.text(0.05, 0.95, f"r = {corr_info['correlation']:.3f}\np = {corr_info['p_value']:.1e}", 
-                   transform=ax.transAxes, verticalalignment='top',
+                   transform=ax.transAxes, verticalalignment='top', fontsize=27,
                    bbox=dict(boxstyle='round', facecolor='white', alpha=0.8))
         
-        ax.set_xlabel('Squared Norm (Gram Matrix Diagonal)')
-        ax.set_ylabel(ratio_label)
-        ax.set_title(f'Squared Norm vs {ratio_label}')
+        ax.set_xlabel('Squared Norm (Gram Matrix Diagonal)', fontsize=29)
+        ax.set_ylabel(ratio_label, fontsize=29)
+        ax.set_title(f'{ratio_label}', fontsize=32, fontweight='bold')
         ax.grid(True, alpha=0.3)
-        ax.legend()
+        ax.legend(fontsize=27)
+        ax.tick_params(labelsize=27)
     
     plt.tight_layout()
     plt.savefig(output_dir / 'scatter_plots_squared_norm_vs_ratios.png', dpi=300, bbox_inches='tight')
     plt.close()
     
     # 2. Violin plots: Distribution of ratios by squared norm bins
-    fig, axes = plt.subplots(2, 2, figsize=(15, 12))
+    fig, axes = plt.subplots(2, 2, figsize=(18, 14))
     axes = axes.flatten()
     
     # Create dataframe for violin plots
@@ -424,18 +433,11 @@ def create_visualizations(squared_norms, ratios, stats_results, output_dir):
         
         if len(ratio_df) > 0:
             sns.violinplot(data=ratio_df, x='group', y='value', ax=ax)
-            
-            # Add t-test results
-            if ratio_name in stats_results['t_tests']:
-                t_info = stats_results['t_tests'][ratio_name]
-                significance = '***' if t_info['p_value'] < 0.001 else ('**' if t_info['p_value'] < 0.01 else ('*' if t_info['p_value'] < 0.05 else 'ns'))
-                ax.text(0.5, 0.95, f"p = {t_info['p_value']:.1e} {significance}", 
-                       transform=ax.transAxes, ha='center', va='top',
-                       bbox=dict(boxstyle='round', facecolor='white', alpha=0.8))
         
-        ax.set_title(f'{ratio_label} by Squared Norm Groups')
-        ax.set_ylabel(ratio_label)
-        ax.set_xlabel('Squared Norm Group')
+        ax.set_title(f'{ratio_label}', fontsize=32, fontweight='bold')
+        ax.set_ylabel(ratio_label, fontsize=29)
+        ax.set_xlabel('Squared Norm Split', fontsize=29)
+        ax.tick_params(labelsize=27)
     
     plt.tight_layout()
     plt.savefig(output_dir / 'violin_plots_ratios_by_groups.png', dpi=300, bbox_inches='tight')
@@ -449,11 +451,12 @@ def create_visualizations(squared_norms, ratios, stats_results, output_dir):
     ax.axvline(0.2, color='orange', linestyle='--', linewidth=2, label='Split > 0.2')
     ax.axvline(np.mean(squared_norms), color='green', linestyle='-', linewidth=2, label=f'Mean = {np.mean(squared_norms):.3f}')
     
-    ax.set_xlabel('Squared Norm (Gram Matrix Diagonal)')
-    ax.set_ylabel('Density')
-    ax.set_title('Distribution of Feature Squared Norms (Bimodal)')
-    ax.legend()
+    ax.set_xlabel('Squared Norm (Gram Matrix Diagonal)', fontsize=29)
+    ax.set_ylabel('Density', fontsize=29)
+    ax.set_title('Distribution of Feature Squared Norms (Bimodal)', fontsize=32, fontweight='bold')
+    ax.legend(fontsize=27)
     ax.grid(True, alpha=0.3)
+    ax.tick_params(labelsize=27)
     
     plt.tight_layout()
     plt.savefig(output_dir / 'squared_norms_distribution.png', dpi=300, bbox_inches='tight')
