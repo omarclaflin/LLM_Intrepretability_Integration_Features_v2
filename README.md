@@ -5,7 +5,10 @@ tl;dr: We show that neural networks encode both feature identity and computation
 This project implements and validates a dual encoding hypothesis for neural network interpretability: that networks encode both **feature identity** (what concepts are present) and **feature integration** (how concepts combine computationally) in the same representational neural space. Previous work in this field primarily focuses on feature identity and treats feature packing as pure noise/intererence minimization rather than a information-rich, non-linear feature binding space encoded along with identity.
 
 ## Paper 
-Paper (submitted): [Feature Integration Spaces: Joint Training Reveals Dual Encoding in Neural Network Representations](https://github.com/omarclaflin/LLM_Intrepretability_Integration_Features_v2/blob/main/Feature_Integration_Beyond_Sparse_encoding_2026.pdf)
+Paper (submitted): [Feature Integration Spaces: Joint Training Reveals Dual Encoding in Neural Network Representations](https://github.com/omarclaflin/LLM_Intrepretability_Integration_Features_v2/blob/main/Feature_Integration_Beyond_Sparse_encoding_2026.pdf)  
+DOI: 10.13140/RG.2.2.25398.41284  
+[same as above, research gate link](https://www.researchgate.net/publication/393178076_Feature_Integration_Spaces_Joint_Training_Reveals_Dual_Encoding_in_Neural_Network_Representations)  
+arxiv link: [here](http://arxiv.org/abs/2507.00269)  
 
 Blog: [Latest Post (paper summary)](https://omarclaflin.com/2025/06/29/joint-training-breakthrough-from-sequential-to-integrated-feature-learning/)    
 [Original Blog post/project idea and initial attempt](https://omarclaflin.com/2025/06/14/information-space-contains-computations-not-just-features/)   
@@ -15,7 +18,7 @@ Blog: [Latest Post (paper summary)](https://omarclaflin.com/2025/06/29/joint-tra
 
 - **41.3% reconstruction improvement** over baseline TopK SAE using new jointly trained architecture (vs 23% sequential)
 - **51.6% reduction in pathological KL divergence errors** (vs 30% sequential), directly addressing known SAE limitations  
-- **16.5% contribution from non-linear** feature interaction components (which only contribute to 3.2% of total/9% of NFM)
+- **16.5% contribution from non-linear** feature interaction components (which only contribute to 3.2% of total/9% of NFM parameter count, 6% of NFM by mean L1 of embedding weights [94% linear])
 - **Emergent bimodal gram matrix** structure confirming the 'dual encoding' hypothesis (bimodal squared norm distribution of low energy & higher energy features vs unimodal distribution of SAE squared norm)
 - **Natural feature specialization** - diffuse features (squared norms <0.2) contribute 82.8% to interactions vs 71.3% for more concentrated features
 - **Strong correlations** between energy and computational role (r=-0.987 for squared norms vs interaction contributions)
