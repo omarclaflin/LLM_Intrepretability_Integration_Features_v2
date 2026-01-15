@@ -14,6 +14,12 @@ Blog: [Latest Post (paper summary)](https://omarclaflin.com/2025/06/29/joint-tra
 [Original Blog post/project idea and initial attempt](https://omarclaflin.com/2025/06/14/information-space-contains-computations-not-just-features/)   
 [KL divergence solved?](https://omarclaflin.com/2025/06/23/llm-intervention-experiments-with-integrated-features-part-3/)     
 
+
+# Presentation (Updated 1/2026)
+[10 min video](https://omarclaflin.com/2026/01/15/aaai-2026-dual-encoding-spaces-in-llms-for-improved-mechanistic-interpretability/)  
+[Poster](https://github.com/omarclaflin/LLM_Intrepretability_Integration_Features_v2/blob/main/paper/Feature_Integration_Spaces_Poster_v15.pdf)  
+[Final Formatted Paper](https://github.com/omarclaflin/LLM_Intrepretability_Integration_Features_v2/blob/main/paper/Feature_Integration_Beyond_Sparse_encoding_2026_camera_ready_v6.pdf)  
+
 ## Key Results
 
 - **41.3% reconstruction improvement** over baseline TopK SAE using new jointly trained architecture (vs 23% sequential)
